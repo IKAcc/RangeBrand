@@ -1,8 +1,8 @@
-<h1 dir="rtl"><a href="">رنگ‌برند</a><br><small>کد رنگ‌های رسمی برند‌های مطرح در ایران</small></h1>
+<h1 dir="rtl"><a href="http://rangebrand.ir/">رنگ‌برند</a><br><small>کد رنگ‌های رسمی برند‌های مطرح در ایران</small></h1>
 
-<p dir="rtl">رنگ‌برند یک لیست از برندهای مطرح در ایران (چه ایرانی، چه خارجی) است. در این لیست، کد رنگ‌های رسمی برند‌ها برای طراحان وب فارسی و یا طراحان گرافیک آماده شده. منابع رنگ‌برند رو <a href="!#">دانلود کنید</a> و از اون توی پروژه‌های خودتون <a href="#!">استفاده کنید</a>. همه‌ی این‌ها مجانین‌ (تحت <a href="">لایسنس MIT</a>)!</p>
-<p dir="rtl">با فالو کردن در توئیتر، همیشه از اخبار و انتشار‌های رنگ‌برند به روز باشید: <a href="">RangeBrand@</a>.<br>همچنین اگه می‌خواهید به صورت رسمی با ما در ارتباط باشید، به ما ایمیل بزنید: <a href="">RangeBrand@ikacc.ir</a></p>
-<p dir="rtl">رنگ‌برند پروژه‌ای از باشگاه رایانش ایکا هست و توسط <a href="">جاوید ایزدفر</a>، <a href="">ستاره کریمی</a> و <a href="">مهرنوش دشتی</a> خلق شده و نگه‌داری میشه.</p>
+<p dir="rtl">رنگ‌برند یک لیست از برندهای مطرح در ایران (چه ایرانی، چه خارجی) است. در این لیست، کد رنگ‌های رسمی برند‌ها برای طراحان وب فارسی و یا طراحان گرافیک آماده شده. منابع رنگ‌برند رو <a href="!#">دانلود کنید</a> و از اون توی پروژه‌های خودتون <a href="#استفاده">استفاده کنید</a>. همه‌ی این‌ها مجانین‌ (تحت <a href="#http://opensource.org/licenses/mit-license.html">لایسنس MIT</a>)!</p>
+<p dir="rtl">با فالو کردن در توئیتر، همیشه از اخبار و انتشار‌های رنگ‌برند به روز باشید: <a href="https://twitter.com/RangeBrand">RangeBrand@</a>.<br>همچنین اگه می‌خواهید به صورت رسمی با ما در ارتباط باشید، به ما ایمیل بزنید: <a href="mailto:rangebrand@ikacc.ir" target="_top">RangeBrand@ikacc.ir</a></p>
+<p dir="rtl">رنگ‌برند پروژه‌ای از باشگاه رایانش ایکا هست و توسط <a href="https://twitter.com/JavidIzadfar">جاوید ایزدفر</a>، <a href="https://twitter.com/setarekarimi1">ستاره کریمی</a> و <a href="https://twitter.com/Mehrnooshdsht">مهرنوش دشتی</a> خلق شده و نگه‌داری میشه.</p>
 
 <h2 dir="rtl">لایسنس</h2>
 <p dir="rtl">CSS رنگ‌برند تحت لایسنس MIT هست:</p>
@@ -40,25 +40,25 @@
   <li>
     <b>جاوید ایزدفر</b>
     <ul>
-      <li>ایمیل: <a href="">Javid.izadfar@ikacc.ir</a></li>
-      <li>توئیتر: <a href="">twitter.com/JavidIzadfar</a></li>
-      <li>گیت‌هاب: <a href="">github.com/Javid-Izadfa</a></li>
+      <li>ایمیل: <a href="mailto:javid.izadfar@ikacc.ir">Javid.izadfar@ikacc.ir</a></li>
+      <li>توئیتر: <a href="https://twitter.com/JavidIzadfar">twitter.com/JavidIzadfar</a></li>
+      <li>گیت‌هاب: <a href="https://github.com/Javid-Izadfar">github.com/Javid-Izadfar</a></li>
     </ul>
   </li>
   <li>
     <b>ستاره کریمی</b>
     <ul>
-      <li>ایمیل: <a href="">Setareh.Karimi@ikacc.ir</a></li>
-      <li>توئیتر: <a href="">twitter.com/setarekarimi1</a></li>
-      <li>گیت‌هاب: <a href="">github.com/setarek</a></li>
+      <li>ایمیل: <a href="mailto:setareh.karimi@ikacc.ir">Setareh.Karimi@ikacc.ir</a></li>
+      <li>توئیتر: <a href="https://twitter.com/setarekarimi1">twitter.com/setarekarimi1</a></li>
+      <li>گیت‌هاب: <a href="https://github.com/setarek">github.com/setarek</a></li>
     </ul>
   </li>
   <li>
     <b>مهرنوش دشتی</b>
     <ul>
-      <li>ایمیل: <a href="">Mehrnoosh.Dashti@ikacc.ir</a></li>
-      <li>توئیتر: <a href="">Mehrnoosh.Dashti@ikacc.ir</a></li>
-      <li>گیت‌هاب: <a href="">github.com/Mehrnooshdsht </a></li>
+      <li>ایمیل: <a href="mailto:Mehrnoosh.Dashti@ikacc.ir">Mehrnoosh.Dashti@ikacc.ir</a></li>
+      <li>توئیتر: <a href="https://twitter.com/Mehrnooshdsht">twitter.com/Mehrnooshdsht</a></li>
+      <li>گیت‌هاب: <a href="https://github.com/Mehrnooshdsht">github.com/Mehrnooshdsht</a></li>
     </ul>
   </li>
 </ul>
