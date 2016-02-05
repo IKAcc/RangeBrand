@@ -1,0 +1,125 @@
+ /*
+
+	██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗    ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗ 
+	██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗
+	██████╔╝███████║██╔██╗ ██║██║  ███╗█████╗      ██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║
+	██╔══██╗██╔══██║██║╚██╗██║██║   ██║██╔══╝      ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║
+	██║  ██║██║  ██║██║ ╚████║╚██████╔╝███████╗    ██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝
+	╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
+	
+	* Range Brand - Official Color Codes for Famous Brands in Iran
+
+	* RangeBrand.css - http://rangebrand.ir
+	* Version - 1.0
+	* Licensed under the MIT license - http://opensource.org/licenses/MIT
+
+	* Created by @JavidIzadfar, @setarekarimi1 and @Mehrnooshdsht
+	* Copyright (c) 2016 IKA Computing Club - http://ikacc.ir
+
+ */
+
+
+.rb.rb-aparat-1{background-color: #ed145b;}
+.rb.rb-aparat-2{background-color: #231f20;}
+
+.rb.rb-bank-parsian-1{background-color: #B17D57;}
+.rb.rb-bank-parsian-2{background-color: #000000;}
+
+.rb.rb-bank-pasargad-1{background-color: #FFC41E;}
+.rb.rb-bank-pasargad-2{background-color: #555555;}
+
+.rb.rb-bank-tejarat{background-color: #2F4A98;}
+
+.rb.rb-bank-maskan{background-color: #E84B0A;}
+
+.rb.rb-bank-mellat-1{background-color: #FDBD51;}
+.rb.rb-bank-mellat-2{background-color: #D81736;}
+.rb.rb-bank-mellat-3{background-color: #555555;}
+
+.rb.rb-takhfifan{background-color: #ff5a5f;}
+
+.rb.rb-taskulu{background-color: #20c4f7;}
+
+.rb.rb-telegram{background-color: #0088cc;}
+
+.rb.rb-twitter{background-color: #55acee;}
+
+.rb.rb-novin-charm{background-color: #f20c0c;}
+
+.rb.rb-cheetoz{background-color: #e21c23;}
+
+.rb.rb-islamic-azad-uni-1{background-color: #7f9cec;}
+.rb.rb-islamic-azad-uni-2{background-color: #3f69e1;}
+
+.rb.rb-2nate-1{background-color: #0f639c;}
+.rb.rb-2nate-2{background-color: #a7cd00;}
+
+.rb.rb-digikala-1{background-color: #ef3f3e;}
+.rb.rb-digikala-2{background-color: #818285;}
+
+.rb.rb-zoomit-1{background-color: #eb1f28;}
+.rb.rb-zoomit-2{background-color: #000000;}
+
+.rb.rb-samsung{background-color: #10218B;}
+
+.rb.rb-saipa{background-color: #FF5B00;}
+
+.rb.rb-chai-shahrzad-1{background-color: #b8292f;}
+.rb.rb-chai-shahrzad-2{background-color: #e6d198;}
+
+.rb.rb-farassoo{background-color: #00a6d6;}
+
+.rb.rb-facebook{background-color: #3b5998;}
+
+.rb.rb-cloob-1{background-color: #8fc74a;}
+.rb.rb-cloob-2{background-color: #f05730;}
+.rb.rb-cloob-3{background-color: #bf2133;}
+.rb.rb-cloob-4{background-color: #faaf48;}
+.rb.rb-cloob-5{background-color: #253f92;}
+
+.rb.rb-coca-cola{background-color: #ed1c16;}
+
+.rb.rb-goldtag-1{background-color: #a93a39;}
+.rb.rb-goldtag-2{background-color: #dbca25;}
+
+.rb.rb-golestan-1{background-color: #ffe200;}
+.rb.rb-golestan-2{background-color: #e71a2d;}
+
+.rb.rb-google-1{background-color: #4285f4;}
+.rb.rb-google-2{background-color: #34a853;}
+.rb.rb-google-3{background-color: #fbbc05;}
+.rb.rb-google-4{background-color: #ea4335;}
+
+.rb.rb-google-plus{background-color: #dc4e41;}
+
+.rb.rb-github-1{background-color: #4183c4;}
+.rb.rb-github-2{background-color: #999999;}
+.rb.rb-github-3{background-color: #666666;}
+.rb.rb-github-4{background-color: #333333;}
+.rb.rb-github-5{background-color: #6cc644;}
+.rb.rb-github-6{background-color: #bd2c00;}
+.rb.rb-github-7{background-color: #ff9933;}
+
+.rb.rb-microsoft-1{background-color: #00A1F1;}
+.rb.rb-microsoft-2{background-color: #7CBB00;}
+.rb.rb-microsoft-3{background-color: #FFBB00;}
+.rb.rb-microsoft-4{background-color: #F65314;}
+
+.rb.rb-my{background-color: #cd5c5c;}
+
+.rb.rb-mahak{background-color: #9F1936;}
+
+.rb.rb-mahram-1{background-color: #EE1A30;}
+.rb.rb-mahram-2{background-color: #93BC46;}
+
+.rb.rb-netbarg-1{background-color: #f06305;}
+.rb.rb-netbarg-2{background-color: #262626;}
+
+.rb.rb-iranair{background-color: #352a82;}
+
+.rb.rb-qeshmair{background-color: #800000;}
+
+.rb.rb-mahan-1{background-color: #038b48;}
+.rb.rb-mahan-2{background-color: #fe6603;}
+
+.rb.rb-whatsapp{background-color: #189D0E;}
