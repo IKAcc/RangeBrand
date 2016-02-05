@@ -15,10 +15,25 @@
 
 <h2 dir="rtl">استفاده</h2>
 <p dir="rtl">برای استفاده از CSS رنگ‌برند در یک پروژه وب، می‌تونید به صورت زیر عمل کنید:</p>
-<ol dir="rtl">
-  <li>اول از همه، فایل RangeBrand.css یا RangeBrand.min.css رو به برگه اضافه کنید:</li>
-  <li>اگه می‌خواهید عنصری (elementـی) رنگ یک برند خاصی رو به خودش بگیره (مثلا در اینجا رنگ برند تسکولو) باید کلاس‌های rb و rb-taskulu رو به اون عنصر اضافه کنید:</li>
-</ol>
+<p dir="rtl">۱.  اول از همه، فایل RangeBrand.css یا RangeBrand.min.css رو به برگه اضافه کنید:</p>
+```html
+<!-- RangeBrand CSS -->
+    <link href="css/rangebrand.css" rel="stylesheet">
+```
+<p dir="rtl">یا</p>
+
+```html    
+<!-- RangeBrand Minified CSS -->
+    <link href="css/rangebrand.min.css" rel="stylesheet">   
+```
+<p dir="rtl">اگه می‌خواهید عنصری (elementـی) رنگ یک برند خاصی رو به خودش بگیره (مثلا در اینجا رنگ برند تسکولو) باید کلاس‌های rb و rb-taskulu رو به اون عنصر اضافه کنید:</p>
+```html    
+<div class="rb rb-taskulu">
+  <p>اینجا همرنگ تسکولو خواهد بود</p>
+</div> 
+```
+
+
 
 <h2 dir="rtl">خالقین</h2>
 <ul dir="rtl">
