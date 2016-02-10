@@ -1,0 +1,24 @@
+{
+  "name": "range-brand",
+  "version": "1.0.0",
+  "description": "RangeBrand is a list of popular brands in Iran (both Iranian and foreigner) that contains the main colors of each brand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpourismaiel/RangeBrand"
+  },
+  "keywords": [
+    "color",
+    "json",
+    "css"
+  ],
+  "author": "IKAcc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpourismaiel/RangeBrand/issues"
+  },
+  "homepage": "https://github.com/mpourismaiel/RangeBrand"
+}
