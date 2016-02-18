@@ -18,6 +18,14 @@
 
  */
 
+.rb.rb-apadana-1{background-color: #f8c301;}
+.rb.rb-apadana-2{background-color: #da251c;}
+.rb.rb-apadana-3{background-color: #4cb034;}
+.rb.rb-apadana-4{background-color: #007cc2;}
+.rb.rb-apadana-5{background-color: #dd127b;}
+
+.rb.rb-aparat-1{background-color: #ed145b;}
+.rb.rb-aparat-2{background-color: #231f20;}
 
 .rb.rb-hp-1{background-color: #0096d6;}
 .rb.rb-hp-2{background-color: #d7410b;}
@@ -26,15 +34,16 @@
 
 .rb.rb-steel-alborz{background-color: #d71921;}
 
+.rb.rb-active-1{background-color: #26348d;}
+.rb.rb-active-2{background-color: #e50619;}
+.rb.rb-active-3{background-color: #ffe600;}
+
 .rb.rb-asus{background-color: #22448f;}
 
 .rb.rb-xvision-1{background-color: #00358c;}
 .rb.rb-xvision-2{background-color: #e50000;}
 
 .rb.rb-instagram{background-color: #3f729b;}
-
-.rb.rb-aparat-1{background-color: #ed145b;}
-.rb.rb-aparat-2{background-color: #231f20;}
 
 .rb.rb-bank-parsian-1{background-color: #B17D57;}
 .rb.rb-bank-parsian-2{background-color: #000000;}
@@ -53,6 +62,9 @@
 .rb.rb-butane-1{background-color: #ce000c;}
 .rb.rb-butane-2{background-color: #000000;}
 
+.rb.rb-pril-1{background-color: #e4000f;}
+.rb.rb-pril-2{background-color: #ffee00;}
+
 .rb.rb-takhfifan{background-color: #ff5a5f;}
 
 .rb.rb-taskulu{background-color: #20c4f7;}
@@ -70,9 +82,12 @@
 .rb.rb-chai-shahrzad-1{background-color: #b8292f;}
 .rb.rb-chai-shahrzad-2{background-color: #e6d198;}
 
-.rb.rb-novin-charm{background-color: #f20c0c;}
+.rb.rb-charm-mashhad{background-color: #EC2529;}
 
 .rb.rb-cheetoz{background-color: #e21c23;}
+
+.rb.rb-chicco-1{background-color: #22376f;}
+.rb.rb-chicco-2{background-color: #e33840;}
 
 .rb.rb-khoshkhab-1{background-color: #f9de20;}
 .rb.rb-khoshkhab-2{background-color: #f05858;}
@@ -86,21 +101,36 @@
 .rb.rb-digikala-1{background-color: #ef3f3e;}
 .rb.rb-digikala-2{background-color: #818285;}
 
+.rb.rb-rolan-1{background-color: #e3000f;}
+.rb.rb-rolan-2{background-color: #ffec01;}
+
 .rb.rb-zoomit-1{background-color: #eb1f28;}
 .rb.rb-zoomit-2{background-color: #000000;}
+
+.rb.rb-softlan-1{background-color: #9b1377;}
+.rb.rb-softlan-2{background-color: #deae6c;}
 
 .rb.rb-samsung{background-color: #10218B;}
 
 .rb.rb-saipa{background-color: #FF5B00;}
+
+.rb.rb-sony{background-color: #000000;}
+
+.rb.rb-sehat{background-color: #006509;}
 
 .rb.rb-farassoo{background-color: #00a6d6;}
 
 .rb.rb-farsh-farrahi-1{background-color: #ffcb05;}
 .rb.rb-farsh-farrahi-2{background-color: #01a99c;}
 
+.rb.rb-firooz-1{background-color: #0062ab;}
+.rb.rb-firooz-2{background-color: #6ecdec;}
+
 .rb.rb-facebook{background-color: #3b5998;}
 
 .rb.rb-ghasre-shirin{background-color: #eb5201;}
+
+.rb.rb-casio{background-color: #1c3da6;}
 
 .rb.rb-kalleh-1{background-color: #e3001b;}
 .rb.rb-kalleh-2{background-color: #019036;}
@@ -147,6 +177,9 @@
 .rb.rb-linkedin-8{background-color: #dd5143;}
 .rb.rb-linkedin-9{background-color: #e68523;}
 
+.rb.rb-madiran-1{background-color: #0c4da2;}
+.rb.rb-madiran-2{background-color: #ed1a3b;}
+
 .rb.rb-microsoft-1{background-color: #00A1F1;}
 .rb.rb-microsoft-2{background-color: #7CBB00;}
 .rb.rb-microsoft-3{background-color: #FFBB00;}
@@ -154,13 +187,26 @@
 
 .rb.rb-my{background-color: #cd5c5c;}
 
+.rb.rb-mybaby-1{background-color: #f1020f;}
+.rb.rb-mybaby-2{background-color: #008fd7;}
+.rb.rb-mybaby-3{background-color: #6cd400;}
+.rb.rb-mybaby-4{background-color: #e30074;}
+.rb.rb-mybaby-5{background-color: #f8f400;}
+
 .rb.rb-mahak{background-color: #9F1936;}
 
 .rb.rb-mahram-1{background-color: #EE1A30;}
 .rb.rb-mahram-2{background-color: #93BC46;}
 
+.rb.rb-midas{background-color: #e1cd76;}
+
 .rb.rb-netbarg-1{background-color: #f06305;}
 .rb.rb-netbarg-2{background-color: #262626;}
+
+.rb.rb-novin-charm{background-color: #f20c0c;}
+
+.rb.rb-hacoupian-1{background-color: #b99a4a;}
+.rb.rb-hacoupian-2{background-color: #000000;}
 
 .rb.rb-haida-1{background-color: #fec70a;}
 .rb.rb-haida-2{background-color: #d91a22;}
