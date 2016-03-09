@@ -40,7 +40,6 @@
 .rb.rb-avazeh-1{background-color: #e41d24;}
 .rb.rb-avazeh-2{background-color: #ffd304;}
 
-
 .rb.rb-aidin-1{background-color: #ff0028;}
 .rb.rb-aidin-2{background-color: #d0ab50;}
 
@@ -50,12 +49,6 @@
 .rb.rb-akhavan{background-color: #ed1e26;}
 
 .rb.rb-steel-alborz{background-color: #d71921;}
-
-.rb.rb-snowa-1{background-color: #1f519d;}
-.rb.rb-snowa-2{background-color: #0383c7;}
-.rb.rb-snowa-3{background-color: #039f44;}
-.rb.rb-snowa-4{background-color: #7ab935;}
-
 
 .rb.rb-active-1{background-color: #26348d;}
 .rb.rb-active-2{background-color: #e50619;}
@@ -149,8 +142,8 @@
 .rb.rb-islamic-azad-uni-1{background-color: #7f9cec;}
 .rb.rb-islamic-azad-uni-2{background-color: #3f69e1;}
 
-.rb .rb-delpazir-1{background-color: #dd282e;}
-.rb .br-delpazir-1{background-color: #178d4d;}
+.rb.rb-delpazir-1{background-color: #dd282e;}
+.rb.rb-delpazir-2{background-color: #178d4d;}
 
 .rb.rb-damavand-1{background-color: #1f4874;}
 .rb.rb-damavand-2{background-color: #018cc5;}
@@ -180,6 +173,11 @@
 
 .rb.rb-sunich-1{background-color: #f15922;}
 .rb.rb-sunich-2{background-color: #ffc82d;}
+
+.rb.rb-snowa-1{background-color: #1f519d;}
+.rb.rb-snowa-2{background-color: #0383c7;}
+.rb.rb-snowa-3{background-color: #039f44;}
+.rb.rb-snowa-4{background-color: #7ab935;}
 
 .rb.rb-sony{background-color: #000000;}
 
@@ -313,14 +311,13 @@
 
 .rb.rb-novin-charm{background-color: #f20c0c;}
 
+.rb.rb-nivea{background-color: #00136f;}
+
 .rb.rb-hacoupian-1{background-color: #b99a4a;}
 .rb.rb-hacoupian-2{background-color: #000000;}
 
-.rb.rb-nivea{background-color: #00136f;}
-
-.rb .rb-harmony-1{background-color: #ee2229;}
-.rb .rb-harmony-2{background-color: #030000;}
-
+.rb.rb-harmony-1{background-color: #ee2229;}
+.rb.rb-harmony-2{background-color: #030000;}
 
 .rb.rb-haida-1{background-color: #fec70a;}
 .rb.rb-haida-2{background-color: #d91a22;}
