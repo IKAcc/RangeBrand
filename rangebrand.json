@@ -1,0 +1,507 @@
+var rangebrand = {
+  "apadana": {
+    "name_en": "Apadana",
+    "name_fa": "آپادانا",
+    "colors": ["#f8c301", "#da251c", "#4cb034", "#007cc2", "#dd127b"]
+  },
+  "aparat": {
+    "name_en": "Aparat",
+    "name_fa": "آپارات",
+    "colors": ["#ed145b", "#231f20"]
+  },
+  "albura": {
+    "name_en": "Albura",
+    "name_fa": "آلبورا",
+    "colors": ["#ffd655", "#6a86d8", "#ff0200", "#000000", "#00c47a", "#fe8836"]
+  },
+  "lg": {
+    "name_en": "‌LG",
+    "name_fa": "ال‌جی",
+    "colors": ["#72797f", "#aa0146"]
+  },
+  "avazeh": {
+    "name_en": "Avazeh",
+    "name_fa": "آوازه",
+    "colors": ["#e41d24", "#e41d24"]
+  },
+  "aidin": {
+    "name_en": "Aidin",
+    "name_fa": "آیدین",
+    "colors": ["#ff0028", "#d0ab50"]
+  },
+  "hp": {
+    "name_en": "HP",
+    "name_fa": "اچ‌پی",
+    "colors": ["#0096d6", "#d7410b"]
+  },
+  "akhavan": {
+    "name_en": "Akhavan",
+    "name_fa": "اخوان",
+    "colors": ["#ed1e26"]
+  },
+  "steel-alborz": {
+    "name_en": "Steel Alborz",
+    "name_fa": "استیل البرز",
+    "colors": ["#d71921"]
+  },
+  "active": {
+    "name_en": "Active",
+    "name_fa": "اکتیو",
+    "colors": ["#26348d", "#e50619", "#ffe600"]
+  },
+  "elite": {
+    "name_en": "Elite",
+    "name_fa": "الیت",
+    "colors": ["#ffc50c", "#e91b23"]
+  },
+  "istak": {
+    "name_en": "Istak",
+    "name_fa": "ایستک",
+    "colors": ["#095112", "#d0ab5b"]
+  },
+  "asus": {
+    "name_en": "ASUS",
+    "name_fa": "ایسوس",
+    "colors": ["#22448f"]
+  },
+  "xvision": {
+    "name_en": "X Vision",
+    "name_fa": "ایکس ویژن",
+    "colors": ["#00358c", "#e50000"]
+  },
+  "instagram": {
+    "name_en": "Instagram",
+    "name_fa": "اینستاگرام",
+    "colors": ["#405de6", "#5851db", "#833ab4", "#c13584", "#e1306c", "#fd1d1d", "#f56040", "#f77737", "#fcaf45", "#ffdc80"]
+  },
+  "evand": {
+    "name_en": "Evand",
+    "name_fa": "ایوند",
+    "colors": ["#27a8e7"]
+  },
+  "bank-parsian": {
+    "name_e": "Parsian Bank",
+    "name_fa": "بانک پارسیان",
+    "colors": ["#B17D57", "#000000"]
+  },
+  "bank-pasargad": {
+    "name_en": "Pasargad Bank",
+    "name_fa": "بانک پاسارگاد",
+    "colors": ["#FFC41E", "#555555"]
+  },
+  "bank-tejarat": {
+    "name_en": "Tejarat Bank",
+    "name_fa": "بانک تجارت‌",
+    "colors": ["#2F4A98"]
+  },
+  "bank-maskan": {
+    "name_en": "Maskan Bank",
+    "name_fa": "بانک مسکن",
+    "colors": ["#B17D57"]
+  },
+  "bank-mellat": {
+    "name_en": "Mellat Bank",
+    "name_fa": "بانک ملت",
+    "colors": ["#FDBD51", "#D81736", "#D81736"]
+  },
+  "blogfa": {
+    "name_en": "Blogfa",
+    "name_fa": "بلاگفا",
+    "colors": ["#0f3971", "#89bcff"]
+  },
+  "butane": {
+    "name_en": "Butane",
+    "name_fa": "بوتان",
+    "colors": ["#ce000c", "#000000"]
+  },
+  "bosch": {
+    "name_en": "Bosch",
+    "name_fa": "بوش",
+    "colors": ["#ec1b24"]
+  },
+  "biscuit-madar": {
+    "name_en": "Madar Biscuit",
+    "name_fa": "بیسکویت مادر",
+    "colors": ["#d3d67b", "#e21f25"]
+  },
+  "pakshooma": {
+    "name_en": "Pakshooma",
+    "name_fa": "پاکشوما",
+    "colors": ["#3e4095", "#ed3237"]
+  },
+  "parskhazar": {
+    "name_en": "Parskhazar",
+    "name_fa": "پارس‌خزر",
+    "colors": ["#ed1e24", "#ed1e24"]
+  },
+  "pril": {
+    "name_en": "Pril",
+    "name_fa": "پریل",
+    "colors": ["#e4000f", "#ffee00"]
+  },
+  "pooneh": {
+    "name_en": "Pooneh",
+    "name_fa": "پونه",
+    "colors": ["#005baa", "#8dc73f", "#037e3b"]
+  },
+  "tohfe": {
+    "name_en": "Tohfe",
+    "name_fa": "تحفه",
+    "colors": ["#f57e18", "#00aeef", "#353894", "#2ca751"]
+  },
+  "takhfifan": {
+    "name_en": "Takhfifan",
+    "name_fa": "تخفیفان",
+    "colors": ["#ff5a5f"]
+  },
+  "taskulu": {
+    "name_en": "Taskulu",
+    "name_fa": "تسکولو",
+    "colors": ["#20c4f7"]
+  },
+  "telegram": {
+    "name_en": "Telegram",
+    "name_fa": "تلگرام",
+    "colors": ["#0088cc"]
+  },
+  "chini-toos": {
+    "name_en": "Toos Porcelain",
+    "name_fa": "توس چینی",
+    "colors": ["#fdc104", "#250000"]
+  },
+  "twitter": {
+    "name_en": "Twitter",
+    "name_fa": "توئیتر",
+    "colors": ["#55acee"]
+  },
+  "glx": {
+    "name_en": "GLX",
+    "name_fa": "جی‌ال‌ایکس",
+    "colors": ["#ff0000", "#1e00ff"]
+  },
+  "chai-shahrzad": {
+    "name_en": " Shahrzad Tea ",
+    "name_fa": "چای شهرزاد",
+    "colors": ["#b8292f", "#e6d198"]
+  },
+  "charm-mashhad": {
+    "name_en": "Mashhad Leather",
+    "name_fa": "چرم مشهد",
+    "colors": ["#EC2529"]
+  },
+  "cheetoz": {
+    "name_en": "CheeToz",
+    "name_fa": "چی‌توز",
+    "colors": ["#e21c23"]
+  },
+  "chicco": {
+    "name_en": "Chicco",
+    "name_fa": "چیکو",
+    "colors": ["#22376f", "#e33840"]
+  },
+  "khoshkhab": {
+    "name_en": "Khoshkhab",
+    "name_fa": "خوشخواب",
+    "colors": ["#f9de20", "#f05858"]
+  },
+  "islamic-azad-uni": {
+    "name_en": "Islamic Azad University",
+    "name_fa": "دانشگاه آزاد اسلامی",
+    "colors": ["#7f9cec", "#3f69e1"]
+  },
+  "delpazir": {
+    "name_en": "Delpazir",
+    "name_fa": "دلپذیر",
+    "colors": ["#dd282e", "#178d4d"]
+  },
+  "damavand": {
+    "name_en": "Damavand",
+    "name_fa": "دماوند",
+    "colors": ["#1f4874", "#018cc5", "#d80228", "#1aa000"]
+  },
+  "2nate": {
+    "name_en": "2nate",
+    "name_fa": "دونیت",
+    "colors": ["#0f639c", "#a7cd00"]
+  },
+  "digikala": {
+    "name_en": "Digikala",
+    "name_fa": "دیجیکالا",
+    "colors": ["#ef3f3e", "#818285"]
+  },
+  "dimo": {
+    "name_en": "Dimo",
+    "name_fa": "دیمو",
+    "colors": ["#dd0200"]
+  },
+  "rolan": {
+    "name_en": "Rolan",
+    "name_fa": "رولان",
+    "colors": ["#e3000f", "#ffec01"]
+  },
+  "zoomit": {
+    "name_en": "Zoomit",
+    "name_fa": "زومیت",
+    "colors": ["#eb1f28", "#000000"]
+  },
+  "softlan": {
+    "name_en": "Softlan",
+    "name_fa": "سافتلن",
+    "colors": ["#9b1377", "#deae6c"]
+  },
+  "samsung": {
+    "name_en": "Samsung",
+    "name_fa": "سامسونگ",
+    "colors": ["#10218B"]
+  },
+  "saipa": {
+    "name_en": "Saipa",
+    "name_fa": "سایپا",
+    "colors": ["#FF5B00"]
+  },
+  "sunich": {
+    "name_en": "Sunich",
+    "name_fa": "سن‌ایچ",
+    "colors": ["#f15922", "#ffc82d"]
+  },
+  "snowa": {
+    "name_en": "Snowa",
+    "name_fa": "اسنوا",
+    "colors": ["#1f519d", "#0383c7", "#039f44", "#7ab935"]
+  },
+  "sony": {
+    "name_en": "Sony",
+    "name_fa": "سونی",
+    "colors": ["#000000"]
+  },
+  "cinere": {
+    "name_en": "Cinere",
+    "name_fa": "سینره",
+    "colors": ["#dca515"]
+  },
+  "shatel": {
+    "name_en": "Shatel",
+    "name_fa": "شاتل",
+    "colors": ["#002a63", "#f26322"]
+  },
+  "sehat": {
+    "name_en": "Sehat",
+    "name_fa": "صحت",
+    "colors": ["#006509"]
+  },
+  "alis": {
+    "name_en": "Alis",
+    "name_fa": "عالیس",
+    "colors": ["#076633", "#96c11f", "#53bb96", "#0e71b8"]
+  },
+  "farassoo": {
+    "name_en": "Farassoo",
+    "name_fa": "فراسو",
+    "colors": ["#00a6d6"]
+  },
+  "farsh-farrahi": {
+    "name_en": "Farrahi Carpet",
+    "name_fa": "فرش فرهی",
+    "colors": ["#ffcb05", "#01a99c"]
+  },
+  "firooz": {
+    "name_en": "Firooz",
+    "name_fa": "فیروز",
+    "colors": ["#0062ab", "#6ecdec"]
+  },
+  "facebook": {
+    "name_en": "facebook",
+    "name_fa": "فیسبوک‌",
+    "colors": ["#3b5998"]
+  },
+  "ghasre-shirin": {
+    "name_en": "Ghasre Shirin",
+    "name_fa": "قصر شیرین",
+    "colors": ["#eb5201"]
+  },
+  "casio": {
+    "name_en": "Casio",
+    "name_fa": "کاسیو",
+    "colors": ["#1c3da6"]
+  },
+  "kalleh": {
+    "name_en": "Kalleh",
+    "name_fa": "کاله",
+    "colors": ["#e3001b", "#019036"]
+  },
+  "canon": {
+    "name_en": "Canon",
+    "name_fa": "کانن",
+    "colors": ["#bc0024", "#000000"]
+  },
+  "crest": {
+    "name_en": "Crest",
+    "name_fa": "کرست",
+    "colors": ["#007ecc", "#d90709"]
+  },
+  "cloob": {
+    "name_en": "cloob",
+    "name_fa": "کلوب",
+    "colors": ["#8fc74a", "#f05730", "#bf2133", "#faaf48", "#253f92"]
+  },
+  "coca-cola": {
+    "name_en": "Coca-Cola",
+    "name_fa": "کوکاکولا",
+    "colors": ["#ed1c16"]
+  },
+  "goldtag": {
+    "name_en": "Goldtag",
+    "name_fa": "گلدتگ",
+    "colors": ["#a93a39", "#dbca25"]
+  },
+  "golestan": {
+    "name_en": "Golestan ",
+    "name_fa": "گلستان",
+    "colors": ["#ffe200", "#e71a2d"]
+  },
+  "google": {
+    "name_en": "Google",
+    "name_fa": "گوگل",
+    "colors": ["#4285f4", "#34a853", "#fbbc05", "#ea4335"]
+  },
+  "google-plus": {
+    "name_en": "Google+",
+    "name_fa": "گوگل+",
+    "colors": ["#dc4e41"]
+  },
+  "gooshtiran": {
+    "name_en": "Gooshtiran",
+    "name_fa": "گوشتیران",
+    "colors": ["#ff0100", "#f2ff00"]
+  },
+  "github": {
+    "name_en": "Github",
+    "name_fa": "گیت‌هاب",
+    "colors": ["#4183c4", "#999999", "#666666", "#333333", "#6cc644", "#bd2c00", "#ff9933"]
+  },
+  "lenzor": {
+    "name_en": "Lenzor",
+    "name_fa": "لنزور",
+    "colors": ["#f1592a", "#f7941e", "#fcb040", "#d7df21", "#0b9444", "#0e76bc", "#9f1f63"]
+  },
+  "loreal": {
+    "name_en": "L'Oréal",
+    "name_fa": "لورآل",
+    "colors": ["#000000"]
+  },
+  "linkedin": {
+    "name_en": "Linkedin",
+    "name_fa": "لینکداین",
+    "colors": ["#0077b5", "#000000", "#313335", "#86888a", "#caccce", "#00a0dc", "#8d6cab", "#dd5143", "#e68523"]
+  },
+  "madiran": {
+    "name_en": "Madiran",
+    "name_fa": "مادیران",
+    "colors": ["#0c4da2", "#ed1a3b"]
+  },
+  "microsoft": {
+    "name_en": "Microsoft",
+    "name_fa": "ماکروسافت",
+    "colors": ["#00A1F1", "#7CBB00", "#FFBB00", "#F65314"]
+  },
+  "my": {
+    "name_en": "My",
+    "name_fa": "مای",
+    "colors": ["#cd5c5c"]
+  },
+  "mybaby": {
+    "name_en": "My Baby",
+    "name_fa": "مای بی‌بی",
+    "colors": ["#f1020f", "#008fd7", "#6cd400", "#e30074", "#f8f400"]
+  },
+  "mahak": {
+    "name_en": "Mahak",
+    "name_fa": "محک",
+    "colors": ["#9F1936"]
+  },
+  "mazmaz": {
+    "name_en": "MazMaz",
+    "name_fa": "مزمز",
+    "colors": ["#ffff2f", "#ff000a"]
+  },
+  "mahram": {
+    "name_en": "Mahram",
+    "name_fa": "مهرام",
+    "colors": ["#EE1A30", "#93BC46"]
+  },
+  "midas": {
+    "name_en": "Midas",
+    "name_fa": "میداس",
+    "colors": ["#e1cd76"]
+  },
+  "mihan": {
+    "name_en": "Mihan",
+    "name_fa": "میهن",
+    "colors": ["#100b69", "#ec1127", "#a4c4ea"]
+  },
+  "mihan-blog": {
+    "name_en": "Mihan Blog",
+    "name_fa": "میهن بلاگ",
+    "colors": ["#52b1e7", "#000000", "#ff0000"]
+  },
+  "netbarg": {
+    "name_en": "Netbarg",
+    "name_fa": "نت‌برگ",
+    "colors": ["#f06305", "#262626"]
+  },
+  "novin-charm": {
+    "name_en": "Novin Leather",
+    "name_fa": "نوین چرم",
+    "colors": ["#f20c0c"]
+  },
+  "nivea": {
+    "name_en": "Nivea",
+    "name_fa": "نیوآ",
+    "colors": ["#00136f"]
+  },
+  "hacoupian": {
+    "name_en": "Hacoupian",
+    "name_fa": "هاکوپیان",
+    "colors": ["#b99a4a", "#000000"]
+  },
+  "harmony": {
+    "name_en": "Harmony",
+    "name_fa": "هارمونی",
+    "colors": ["#ee2229", "#030000"]
+  },
+  "haida": {
+    "name_en": "Haida",
+    "name_fa": "هایدا",
+    "colors": ["#fec70a", "#d91a22"]
+  },
+  "hotel-bozorg-dariush": {
+    "name_en": "Dariush Grand Hotel",
+    "name_fa": "هتل بزرگ داریوش",
+    "colors": ["#ffd234", "#ffc14d", "#2a0001"]
+  },
+  "iranair": {
+    "name_en": "IranAir Airlines",
+    "name_fa": "هواپیمایی ایران‌ایر",
+    "colors": ["#352a82"]
+  },
+  "qeshmair": {
+    "name_en": "QeshmAir Airlines",
+    "name_fa": "هواپیمایی قشم‌ایر",
+    "colors": ["#800000"]
+  },
+  "mahan": {
+    "name_en": "Mahan Airlines",
+    "name_fa": "هواپیمایی ماهان",
+    "colors": ["#038b48", "#fe6603"]
+  },
+  "whatsapp": {
+    "name_en": "Whatsapp",
+    "name_fa": "واتس‌اپ",
+    "colors": ["#189D0E"]
+  },
+  "1and1": {
+    "name_en": "1 & 1",
+    "name_fa": "یک و یک",
+    "colors": ["#ed1b24"]
+  }
+}
