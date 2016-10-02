@@ -30,6 +30,19 @@
       "#fe8836"
     ]
   },
+  "adobe": {
+    "name_en": "Adobe",
+    "name_fa": "ادوبی",
+    "colors": [
+      "#ff0000",
+      "#fbb034",
+      "#ffdd00",
+      "#c1d82f",
+      "#00a4e4",
+      "#8a7967",
+      "#6a737b"
+    ]
+  },
   "lg": {
     "name_en": "‌LG",
     "name_fa": "ال‌جی",
