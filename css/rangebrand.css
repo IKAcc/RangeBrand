@@ -10,7 +10,7 @@
 	* Range Brand - Official Color Codes for Famous Brands in Iran
 
 	* RangeBrand.css - http://rangebrand.ir
-	* Version - 1.2
+	* Version - 1.3
 	* Licensed under the MIT license - http://opensource.org/licenses/MIT
 
 	* Created by @JavidIzadfar, @setarekarimi1 and @Mehrnooshdsht
@@ -47,6 +47,41 @@
 .rb-albura-4-text{color: #000000;}
 .rb-albura-5-text{color: #00c47a;}
 .rb-albura-6-text{color: #fe8836;}
+
+.rb-ios-1{background-color: #5fc9f8;}
+.rb-ios-2{background-color: #fecb2e;}
+.rb-ios-3{background-color: #fd9426;}
+.rb-ios-4{background-color: #fc3158;}
+.rb-ios-5{background-color: #147efb;}
+.rb-ios-6{background-color: #53d769;}
+.rb-ios-7{background-color: #fc3d39;}
+.rb-ios-8{background-color: #8e8e93;}
+.rb-ios-1-text{color: #5fc9f8;}
+.rb-ios-2-text{color: #fecb2e;}
+.rb-ios-3-text{color: #fd9426;}
+.rb-ios-4-text{color: #fc3158;}
+.rb-ios-5-text{color: #147efb;}
+.rb-ios-6-text{color: #53d769;}
+.rb-ios-7-text{color: #fc3d39;}
+.rb-ios-8-text{color: #8e8e93;}
+
+.rb-adobe-1{background-color: #ff0000;}
+.rb-adobe-2{background-color: #fbb034;}
+.rb-adobe-3{background-color: #ffdd00;}
+.rb-adobe-4{background-color: #c1d82f;}
+.rb-adobe-5{background-color: #00a4e4;}
+.rb-adobe-6{background-color: #8a7967;}
+.rb-adobe-7{background-color: #6a737b;}
+.rb-adobe-1-text{color: #ff0000;}
+.rb-adobe-2-text{color: #fbb034;}
+.rb-adobe-3-text{color: #ffdd00;}
+.rb-adobe-4-text{color: #c1d82f;}
+.rb-adobe-5-text{color: #00a4e4;}
+.rb-adobe-6-text{color: #8a7967;}
+.rb-adobe-7-text{color: #6a737b;}
+
+.rb-android{background-color: #a4c639;}
+.rb-android-text{color: #a4c639;}
 
 .rb-lg-1{background-color: #72797f;}
 .rb-lg-2{background-color: #aa0146;}

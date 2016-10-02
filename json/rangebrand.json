@@ -30,6 +30,40 @@
       "#fe8836"
     ]
   },
+  "ios": {
+    "name_en": "iOS",
+    "name_fa": "آی‌او‌اس",
+    "colors": [
+      "#5fc9f8",
+      "#fecb2e",
+      "#fd9426",
+      "#fc3158",
+      "#147efb",
+      "#53d769",
+      "#fc3d39",
+      "#8e8e93"
+    ]
+  },
+  "adobe": {
+    "name_en": "Adobe",
+    "name_fa": "ادوبی",
+    "colors": [
+      "#ff0000",
+      "#fbb034",
+      "#ffdd00",
+      "#c1d82f",
+      "#00a4e4",
+      "#8a7967",
+      "#6a737b"
+    ]
+  },
+  "android": {
+    "name_en": "Android",
+    "name_fa": "اندروید",
+    "colors": [
+      "#a4c639"
+    ]
+  },
   "lg": {
     "name_en": "‌LG",
     "name_fa": "ال‌جی",
