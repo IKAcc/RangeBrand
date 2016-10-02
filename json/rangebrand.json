@@ -43,6 +43,13 @@
       "#6a737b"
     ]
   },
+  "android": {
+    "name_en": "Android",
+    "name_fa": "اندروید",
+    "colors": [
+      "#a4c639"
+    ]
+  },
   "lg": {
     "name_en": "‌LG",
     "name_fa": "ال‌جی",
