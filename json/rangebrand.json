@@ -793,6 +793,20 @@
       "#00136f"
     ]
   },
+  "windows": {
+    "name_en": "Windows",
+    "name_fa": "ویندوز",
+    "colors": [
+      "#00bcf2"
+    ]
+  },
+  "windows-phone": {
+    "name_en": "Windows Phone",
+    "name_fa": "ویندوز فون",
+    "colors": [
+      "#68217a"
+    ]
+  },
   "hacoupian": {
     "name_en": "Hacoupian",
     "name_fa": "هاکوپیان",
