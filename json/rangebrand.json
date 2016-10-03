@@ -127,6 +127,18 @@
       "#e91b23"
     ]
   },
+  "ubuntu": {
+    "name_en": "Ubuntu",
+    "name_fa": "اوبونتو",
+    "colors": [
+      "#dd4814",
+      "#77216f",
+      "#5e2750",
+      "#2c001e",
+      "#aea79f",
+      "#333333"
+    ]
+  },
   "istak": {
     "name_en": "Istak",
     "name_fa": "ایستک",
