@@ -524,6 +524,19 @@
       "#0e71b8"
     ]
   },
+  "firefox": {
+    "name_en": "Firefox",
+    "name_fa": "فایرفاکس",
+    "colors": [
+      "#e66000",
+      "#ff9500",
+      "#ffcb00",
+      "#00539f",
+      "#0095dd",
+      "#331e54",
+      "#002147"
+    ]
+  },
   "farassoo": {
     "name_en": "Farassoo",
     "name_fa": "فراسو",
