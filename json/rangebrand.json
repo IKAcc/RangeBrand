@@ -127,6 +127,25 @@
       "#e91b23"
     ]
   },
+  "ubuntu": {
+    "name_en": "Ubuntu",
+    "name_fa": "اوبونتو",
+    "colors": [
+      "#dd4814",
+      "#77216f",
+      "#5e2750",
+      "#2c001e",
+      "#aea79f",
+      "#333333"
+    ]
+  },
+  "opera": "Opera",
+    "name_fa": "اوپرا",
+    "colors": [
+      "#cc0f16",
+      "#9c9e9f"
+    ]
+  },
   "istak": {
     "name_en": "Istak",
     "name_fa": "ایستک",
@@ -512,6 +531,19 @@
       "#0e71b8"
     ]
   },
+  "firefox": {
+    "name_en": "Firefox",
+    "name_fa": "فایرفاکس",
+    "colors": [
+      "#e66000",
+      "#ff9500",
+      "#ffcb00",
+      "#00539f",
+      "#0095dd",
+      "#331e54",
+      "#002147"
+    ]
+  },
   "farassoo": {
     "name_en": "Farassoo",
     "name_fa": "فراسو",
@@ -746,6 +778,15 @@
       "#93BC46"
     ]
   },
+  "mozilla": {
+    "name_en": "Mozilla",
+    "name_fa": "موزیلا",
+    "colors": [
+      "#c13832",
+      "#d7d3c8",
+      "#4d4e53"
+    ]
+  },
   "midas": {
     "name_en": "Midas",
     "name_fa": "میداس",
@@ -791,6 +832,20 @@
     "name_fa": "نیوآ",
     "colors": [
       "#00136f"
+    ]
+  },
+  "windows": {
+    "name_en": "Windows",
+    "name_fa": "ویندوز",
+    "colors": [
+      "#00bcf2"
+    ]
+  },
+  "windows-phone": {
+    "name_en": "Windows Phone",
+    "name_fa": "ویندوز فون",
+    "colors": [
+      "#68217a"
     ]
   },
   "hacoupian": {

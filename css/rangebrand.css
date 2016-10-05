@@ -121,6 +121,24 @@
 .rb-elite-1-text{color: #ffc50c;}
 .rb-elite-2-text{color: #e91b23;}
 
+.rb-ubuntu-1{background-color: #dd4814;}
+.rb-ubuntu-2{background-color: #77216f;}
+.rb-ubuntu-3{background-color: #5e2750;}
+.rb-ubuntu-4{background-color: #2c001e;}
+.rb-ubuntu-5{background-color: #aea79f;}
+.rb-ubuntu-6{background-color: #333333;}
+.rb-ubuntu-1-text{color: #dd4814;}
+.rb-ubuntu-2-text{color: #77216f;}
+.rb-ubuntu-3-text{color: #5e2750;}
+.rb-ubuntu-4-text{color: #2c001e;}
+.rb-ubuntu-5-text{color: #aea79f;}
+.rb-ubuntu-6-text{color: #333333;}
+
+.rb-opera-1{background-color: #cc0f16;}
+.rb-opera-2{background-color: #9c9e9f;}
+.rb-opera-1-text{color: #cc0f16;}
+.rb-opera-2-text{color: #9c9e9f;}
+
 .rb-istak-1{background-color: #095112;}
 .rb-istak-2{background-color: #d0ab5b;}
 .rb-istak-1-text{color: #095112;}
@@ -363,6 +381,21 @@
 .rb-alis-3-text{color: #53bb96;}
 .rb-alis-4-text{color: #0e71b8;}
 
+.rb-firefox-1{background-color: #e66000;}
+.rb-firefox-2{background-color: #ff9500;}
+.rb-firefox-3{background-color: #ffcb00;}
+.rb-firefox-4{background-color: #00539f;}
+.rb-firefox-5{background-color: #0095dd;}
+.rb-firefox-6{background-color: #331e54;}
+.rb-firefox-7{background-color: #002147;}
+.rb-firefox-1-text{color: #e66000;}
+.rb-firefox-2-text{color: #ff9500;}
+.rb-firefox-3-text{color: #ffcb00;}
+.rb-firefox-4-text{color: #00539f;}
+.rb-firefox-5-text{color: #0095dd;}
+.rb-firefox-6-text{color: #331e54;}
+.rb-firefox-7-text{color: #002147;}
+
 .rb-farassoo{background-color: #00a6d6;}
 .rb-farassoo-text{color: #00a6d6;}
 
@@ -536,6 +569,13 @@
 .rb-mahram-1-text{color: #EE1A30;}
 .rb-mahram-2-text{color: #93BC46;}
 
+.rb-mozilla-1{background-color: #c13832;}
+.rb-mozilla-2{background-color: #d7d3c8;}
+.rb-mozilla-3{background-color: #4d4e53;}
+.rb-mozilla-1-text{color: #c13832;}
+.rb-mozilla-2-text{color: #d7d3c8;}
+.rb-mozilla-3-text{color: #4d4e53;}
+
 .rb-midas{background-color: #e1cd76;}
 .rb-midas-text{color: #e1cd76;}
 
@@ -568,6 +608,12 @@
 
 .rb-nivea{background-color: #00136f;}
 .rb-nivea-text{color: #00136f;}
+
+.rb-windows{background-color: #00bcf2;}
+.rb-windows-text{color: #00bcf2;}
+
+.rb-windows-phone{background-color: #68217a;}
+.rb-windows-phone-text{color: #68217a;}
 
 .rb-hacoupian-1{background-color: #b99a4a;}
 .rb-hacoupian-2{background-color: #000000;}
