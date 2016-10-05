@@ -771,6 +771,15 @@
       "#93BC46"
     ]
   },
+  "mozilla": {
+    "name_en": "Mozilla",
+    "name_fa": "موزیلا",
+    "colors": [
+      "#c13832",
+      "#d7d3c8",
+      "#4d4e53"
+    ]
+  },
   "midas": {
     "name_en": "Midas",
     "name_fa": "میداس",
