@@ -127,6 +127,15 @@
       "#e91b23"
     ]
   },
+  "mtn-irancell": {
+    "name_en": "MTN Irancell",
+    "name_fa": "ام‌تی‌ان ایرانسل",
+    "colors": [
+      "#febe10",
+      "#00688f",
+      "#e21826"
+    ]
+  },
   "ubuntu": {
     "name_en": "Ubuntu",
     "name_fa": "اوبونتو",
@@ -139,7 +148,8 @@
       "#333333"
     ]
   },
-  "opera": "Opera",
+  "opera": {
+    "name_en": "Opera",
     "name_fa": "اوپرا",
     "colors": [
       "#cc0f16",
@@ -190,6 +200,14 @@
     "name_fa": "ایوند",
     "colors": [
       "#27a8e7"
+    ]
+  },
+  "bamilo": {
+    "name_en": "Bamilo",
+    "name_fa": "بامیلو",
+    "colors": [
+      "#f68b1e",
+      "#6e6e6e"
     ]
   },
   "bank-parsian": {
@@ -442,6 +460,14 @@
     "colors": [
       "#e3000f",
       "#ffec01"
+    ]
+  },
+  "rightel": {
+    "name_en": "Rightel",
+    "name_fa": "رایتل",
+    "colors": [
+      "#941063",
+      "#c4d94b"
     ]
   },
   "zoomit": {
@@ -879,6 +905,14 @@
       "#ffd234",
       "#ffc14d",
       "#2a0001"
+    ]
+  },
+  "hamrah-aval": {
+    "name_en": "Hamrah Aval",
+    "name_fa": "همراه اول",
+    "colors": [
+      "#54c5d0",
+      "#eb7400"
     ]
   },
   "iranair": {
