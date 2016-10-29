@@ -600,6 +600,14 @@
       "#3b5998"
     ]
   },
+  "facenama": {
+    "name_en": "facenama",
+    "name_fa": "فیس‌نما",
+    "colors": [
+      "#287eb7",
+      "#3e9ede"
+    ]
+  },
   "ghasre-shirin": {
     "name_en": "Ghasre Shirin",
     "name_fa": "قصر شیرین",
