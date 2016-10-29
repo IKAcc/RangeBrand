@@ -280,6 +280,14 @@
       "#e21f25"
     ]
   },
+  "bisphone": {
+    "name_en": "BisPhone",
+    "name_fa": "بیسفون",
+    "colors": [
+      "#e72a37",
+      "#ffdd52"
+    ]
+  },
   "pakshooma": {
     "name_en": "Pakshooma",
     "name_fa": "پاکشوما",
@@ -601,7 +609,7 @@
     ]
   },
   "facenama": {
-    "name_en": "facenama",
+    "name_en": "Facenama",
     "name_fa": "فیس‌نما",
     "colors": [
       "#287eb7",
