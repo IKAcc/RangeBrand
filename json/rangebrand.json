@@ -523,6 +523,13 @@
       "#FF5B00"
     ]
   },
+  "salam-donya": {
+    "name_en": "Salam Donya!",
+    "name_fa": "سلام دنیا!",
+    "colors": [
+      "#ffca08"
+    ]
+  },
   "sunich": {
     "name_en": "Sunich",
     "name_fa": "سن‌ایچ",
