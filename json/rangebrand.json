@@ -304,6 +304,14 @@
       "#ed1e24"
     ]
   },
+  "pepsi": {
+    "name_en": "Pepsi",
+    "name_fa": "پپسی",
+    "colors": [
+      "#005992",
+      "#ed1a38"
+    ]
+  },
   "pril": {
     "name_en": "Pril",
     "name_fa": "پریل",
