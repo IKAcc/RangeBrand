@@ -57,19 +57,27 @@
       "#6a737b"
     ]
   },
-  "android": {
-    "name_en": "Android",
-    "name_fa": "اندروید",
-    "colors": [
-      "#a4c639"
-    ]
-  },
   "lg": {
     "name_en": "‌LG",
     "name_fa": "ال‌جی",
     "colors": [
       "#72797f",
       "#aa0146"
+    ]
+  },
+  "amazon": {
+    "name_en": "Amazon",
+    "name_fa": "آمازون",
+    "colors": [
+      "#ff9900",
+      "#146eb4"
+    ]
+  },
+  "android": {
+    "name_en": "Android",
+    "name_fa": "اندروید",
+    "colors": [
+      "#a4c639"
     ]
   },
   "avazeh": {

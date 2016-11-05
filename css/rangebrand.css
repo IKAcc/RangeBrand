@@ -80,13 +80,18 @@
 .rb-adobe-6-text{color: #8a7967;}
 .rb-adobe-7-text{color: #6a737b;}
 
-.rb-android{background-color: #a4c639;}
-.rb-android-text{color: #a4c639;}
-
 .rb-lg-1{background-color: #72797f;}
 .rb-lg-2{background-color: #aa0146;}
 .rb-lg-1-text{color: #72797f;}
 .rb-lg-2-text{color: #aa0146;}
+
+.rb-amazon-1{background-color: #ff9900;}
+.rb-amazon-2{background-color: #146eb4;}
+.rb-amazon-1-text{color: #ff9900;}
+.rb-amazon-2-text{color: #146eb4;}
+
+.rb-android{background-color: #a4c639;}
+.rb-android-text{color: #a4c639;}
 
 .rb-avazeh-1{background-color: #e41d24;}
 .rb-avazeh-2{background-color: #ffd304;}
