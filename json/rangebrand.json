@@ -265,6 +265,20 @@
       "#89bcff"
     ]
   },
+  "blackberry": {
+    "name_en": "Blackberry",
+    "name_fa": "بلک‌بری",
+    "colors": [
+      "#005387",
+      "#8cb811",
+      "#fdb813",
+      "#88aca1",
+      "#000000",
+      "#788cb6",
+      "#a1a1a4",
+      "#8f8f8c"
+    ]
+  },
   "butane": {
     "name_en": "Butane",
     "name_fa": "بوتان",
