@@ -296,6 +296,15 @@
       "#ffdd52"
     ]
   },
+  "bing": {
+    "name_en": "Bing",
+    "name_fa": "بینگ",
+    "colors": [
+      "#ffb900",
+      "#505050",
+      "#a3a3a3"
+    ]
+  },
   "behance": {
     "name_en": "Behance",
     "name_fa": "بیهنس",
