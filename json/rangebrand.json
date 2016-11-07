@@ -683,6 +683,14 @@
       "#01a99c"
     ]
   },
+  "flicker": {
+    "name_en": "Flicker",
+    "name_fa": "فلیکر",
+    "colors": [
+      "#0063dc",
+      "#6ecdec"
+    ]
+  },
   "firooz": {
     "name_en": "Firooz",
     "name_fa": "فیروز",
