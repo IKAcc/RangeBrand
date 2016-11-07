@@ -780,6 +780,13 @@
       "#ed1c16"
     ]
   },
+  "gravatar": {
+    "name_en": "Gravatar",
+    "name_fa": "گروتار",
+    "colors": [
+      "#1e8cbe"
+    ]
+  },
   "goldtag": {
     "name_en": "Goldtag",
     "name_fa": "گلدتگ",
