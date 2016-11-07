@@ -500,6 +500,16 @@
       "#178d4d"
     ]
   },
+  "dropbox": {
+    "name_en": "Dropbox",
+    "name_fa": "دراپ‌باکس",
+    "colors": [
+      "#007ee5",
+      "#7b8994",
+      "#47525d",
+      "#3d464d"
+    ]
+  },
   "dribble": {
     "name_en": "Dribble",
     "name_fa": "دریبل",
