@@ -780,6 +780,14 @@
       "#ed1c16"
     ]
   },
+  "gorji": {
+    "name_en": "Gorji",
+    "name_fa": "گرجی",
+    "colors": [
+      "#f8eb00",
+      "#1f2879"
+    ]
+  },
   "gravatar": {
     "name_en": "Gravatar",
     "name_fa": "گروتار",
