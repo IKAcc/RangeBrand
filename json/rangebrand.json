@@ -884,6 +884,17 @@
       "#ed1a3b"
     ]
   },
+  "mailchimp": {
+    "name_en": "MailChimp",
+    "name_fa": "میل‌چیمپ",
+    "colors": [
+      "#2c9ab7",
+      "#449a88",
+      "#febe12",
+      "#db3a1b",
+      "#373737"
+    ]
+  },
   "microsoft": {
     "name_en": "Microsoft",
     "name_fa": "ماکروسافت",
