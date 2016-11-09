@@ -18,6 +18,17 @@
       "#231f20"
     ]
   },
+  "atbox": {
+    "name_en": "Atbox",
+    "name_fa": "اتباکس",
+    "colors": [
+      "#310cec",
+      "#5720d0",
+      "#7e35b4",
+      "#a2489a",
+      "#cb5e7c"
+    ]
+  },
   "albura": {
     "name_en": "Albura",
     "name_fa": "آلبورا",
