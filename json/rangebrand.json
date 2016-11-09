@@ -18,6 +18,17 @@
       "#231f20"
     ]
   },
+  "atbox": {
+    "name_en": "Atbox",
+    "name_fa": "اتباکس",
+    "colors": [
+      "#310cec",
+      "#5720d0",
+      "#7e35b4",
+      "#a2489a",
+      "#cb5e7c"
+    ]
+  },
   "albura": {
     "name_en": "Albura",
     "name_fa": "آلبورا",
@@ -57,19 +68,27 @@
       "#6a737b"
     ]
   },
-  "android": {
-    "name_en": "Android",
-    "name_fa": "اندروید",
-    "colors": [
-      "#a4c639"
-    ]
-  },
   "lg": {
     "name_en": "‌LG",
     "name_fa": "ال‌جی",
     "colors": [
       "#72797f",
       "#aa0146"
+    ]
+  },
+  "amazon": {
+    "name_en": "Amazon",
+    "name_fa": "آمازون",
+    "colors": [
+      "#ff9900",
+      "#146eb4"
+    ]
+  },
+  "android": {
+    "name_en": "Android",
+    "name_fa": "اندروید",
+    "colors": [
+      "#a4c639"
     ]
   },
   "avazeh": {
@@ -257,6 +276,20 @@
       "#89bcff"
     ]
   },
+  "blackberry": {
+    "name_en": "Blackberry",
+    "name_fa": "بلک‌بری",
+    "colors": [
+      "#005387",
+      "#8cb811",
+      "#fdb813",
+      "#88aca1",
+      "#000000",
+      "#788cb6",
+      "#a1a1a4",
+      "#8f8f8c"
+    ]
+  },
   "butane": {
     "name_en": "Butane",
     "name_fa": "بوتان",
@@ -280,6 +313,30 @@
       "#e21f25"
     ]
   },
+  "bisphone": {
+    "name_en": "BisPhone",
+    "name_fa": "بیسفون",
+    "colors": [
+      "#e72a37",
+      "#ffdd52"
+    ]
+  },
+  "bing": {
+    "name_en": "Bing",
+    "name_fa": "بینگ",
+    "colors": [
+      "#ffb900",
+      "#505050",
+      "#a3a3a3"
+    ]
+  },
+  "behance": {
+    "name_en": "Behance",
+    "name_fa": "بیهنس",
+    "colors": [
+      "#1769ff"
+    ]
+  },
   "pakshooma": {
     "name_en": "Pakshooma",
     "name_fa": "پاکشوما",
@@ -294,6 +351,14 @@
     "colors": [
       "#ed1e24",
       "#ed1e24"
+    ]
+  },
+  "pepsi": {
+    "name_en": "Pepsi",
+    "name_fa": "پپسی",
+    "colors": [
+      "#005992",
+      "#ed1a38"
     ]
   },
   "pril": {
@@ -311,6 +376,20 @@
       "#005baa",
       "#8dc73f",
       "#037e3b"
+    ]
+  },
+  "ponisha": {
+    "name_en": "Ponisha",
+    "name_fa": "پونیشا",
+    "colors": [
+      "#6c9b40"
+    ]
+  },
+  "peivast": {
+    "name_en": "Peivast",
+    "name_fa": "پیوست",
+    "colors": [
+      "#0aaddb"
     ]
   },
   "tohfe": {
@@ -413,12 +492,52 @@
       "#3f69e1"
     ]
   },
+  "dell": {
+    "name_en": "Dell",
+    "name_fa": "دل",
+    "colors": [
+      "#0085c3",
+      "#7ab800",
+      "#f2af00",
+      "#dc5034",
+      "#ce1126",
+      "#b7295a",
+      "#6e2585",
+      "#71c6c1",
+      "#5482ab",
+      "#009bbb",
+      "#444444",
+      "#eeeeee"
+    ]
+  },
   "delpazir": {
     "name_en": "Delpazir",
     "name_fa": "دلپذیر",
     "colors": [
       "#dd282e",
       "#178d4d"
+    ]
+  },
+  "dropbox": {
+    "name_en": "Dropbox",
+    "name_fa": "دراپ‌باکس",
+    "colors": [
+      "#007ee5",
+      "#7b8994",
+      "#47525d",
+      "#3d464d"
+    ]
+  },
+  "dribble": {
+    "name_en": "Dribble",
+    "name_fa": "دریبل",
+    "colors": [
+      "#444444",
+      "#ea4c89",
+      "#8aba56",
+      "#ff8833",
+      "#00b6e3",
+      "#9ba5a8"
     ]
   },
   "damavand": {
@@ -498,6 +617,13 @@
     "name_fa": "سایپا",
     "colors": [
       "#FF5B00"
+    ]
+  },
+  "salam-donya": {
+    "name_en": "Salam Donya!",
+    "name_fa": "سلام دنیا!",
+    "colors": [
+      "#ffca08"
     ]
   },
   "sunich": {
@@ -585,6 +711,14 @@
       "#01a99c"
     ]
   },
+  "flicker": {
+    "name_en": "Flicker",
+    "name_fa": "فلیکر",
+    "colors": [
+      "#0063dc",
+      "#6ecdec"
+    ]
+  },
   "firooz": {
     "name_en": "Firooz",
     "name_fa": "فیروز",
@@ -598,6 +732,14 @@
     "name_fa": "فیسبوک‌",
     "colors": [
       "#3b5998"
+    ]
+  },
+  "facenama": {
+    "name_en": "Facenama",
+    "name_fa": "فیس‌نما",
+    "colors": [
+      "#287eb7",
+      "#3e9ede"
     ]
   },
   "ghasre-shirin": {
@@ -654,6 +796,21 @@
     "name_fa": "کوکاکولا",
     "colors": [
       "#ed1c16"
+    ]
+  },
+  "gorji": {
+    "name_en": "Gorji",
+    "name_fa": "گرجی",
+    "colors": [
+      "#f8eb00",
+      "#1f2879"
+    ]
+  },
+  "gravatar": {
+    "name_en": "Gravatar",
+    "name_fa": "گروتار",
+    "colors": [
+      "#1e8cbe"
     ]
   },
   "goldtag": {
@@ -751,6 +908,17 @@
     "colors": [
       "#0c4da2",
       "#ed1a3b"
+    ]
+  },
+  "mailchimp": {
+    "name_en": "MailChimp",
+    "name_fa": "میل‌چیمپ",
+    "colors": [
+      "#2c9ab7",
+      "#449a88",
+      "#febe12",
+      "#db3a1b",
+      "#373737"
     ]
   },
   "microsoft": {
@@ -935,6 +1103,15 @@
     "colors": [
       "#038b48",
       "#fe6603"
+    ]
+  },
+  "namelik": {
+    "name_en": "Namelik",
+    "name_fa": "ناملیک",
+    "colors": [
+      "#3d2442",
+      "#5538af",
+      "#ff7300"
     ]
   },
   "whatsapp": {
