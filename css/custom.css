@@ -1,0 +1,223 @@
+body{
+  position: relative;
+  min-height: 100vh}
+
+main{margin-bottom: 72px;}
+
+#logoWrapper{padding: 33px 12px;}
+
+#mainLogo{
+  font-size: 60px;
+  margin: 0 0 10px 0;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);}
+
+#subtitleLogo,
+#announceWrapper{
+  font-size: 12px;
+  opacity: 0.8;}
+
+#announceWrapper{padding: 5px 12px 9px 0;}
+
+.thin{font-weight: 400 !important}
+
+.hidden{display: none}
+
+#buttons .buttonWrapper:first-child{padding: 12px 0 6px 0 !important;}
+
+#buttons .buttonWrapper:nth-child(2n){padding: 6px 0 12px 6px;}
+
+#buttons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 12px 0;}
+
+@media screen and (max-width: 1199px){
+  #buttons .buttonWrapper{padding: 12px 0px 6px 0px !important;}
+}
+
+#smallButtons .buttonWrapper:first-child{padding: 12px 0 12px 6px !important;}
+
+#smallButtons .buttonWrapper:nth-child(2n){padding: 12px 6px 12px 6px;}
+
+#smallButtons .buttonWrapper:nth-child(2n+1){padding: 12px 6px 12px 0;}
+
+a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
+
+#search,
+#brands,
+#loading{padding: 12px 0;}
+
+#searchField{position: relative;}
+
+#searchField input[type="submit"],
+#searchField a{
+	font-size: 24px;
+	position: absolute;
+	top: 12px;
+  padding: 12px;}
+
+#searchField input[type="submit"]{
+  right: 12px;
+  font-family: 'Gorbeh Icons';
+	border: none;
+	cursor: pointer;
+	margin: -12px;
+	font-size: 35px}
+
+#searchField a{
+	left: 12px;
+	margin: -12px;
+	font-size: 35px;}
+
+#searchField a i{display: block}
+
+#searchField input[type="text"]{
+	width: 100%;
+	font-size: 18px;
+	padding: 17px 70px;
+	border: none;
+  background-color: white;
+	box-shadow: none !important;
+	outline: 0;}
+
+::-webkit-input-placeholder{
+	color: #9e9e9e !important;
+	opacity: 1;}
+:-moz-placeholder{
+	color: #9e9e9e !important;
+	opacity: 1;}
+::-moz-placeholder{
+	color: #9e9e9e !important;
+	opacity: 1;}
+:-ms-input-placeholder{
+	color: #9e9e9e !important;
+	opacity: 1;}
+
+#colorType{
+  padding: 0 12px;
+  text-align: right !important;}
+
+#colorType label{
+  font-size:12px;
+  padding: 12px 20px 10px 20px;
+  display: inline-block;
+  color: #9e9e9e;
+  font-weight: bold;
+  -webkit-transition: color 0.2s ease-out 0s;
+     -moz-transition: color 0.2s ease-out 0s;
+       -o-transition: color 0.2s ease-out 0s;
+      transition: color 0.2s ease-out 0s;}
+
+#colorType label:hover{
+  color: #424242;
+  cursor: pointer;}
+
+#colorType input[type="radio"]:checked + label {
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.8);
+  border-bottom: 2px solid #9c27b0;
+  color: black;}
+
+#colorType input[type="radio"]{display: none;}
+
+.brand{padding: 12px}
+
+.brand .names{
+  display: table;
+  padding-bottom: 0 !important;}
+
+.brand .names .nameWrapper{
+  display: table-cell;
+  vertical-align: middle;}
+
+.brand .h4{margin-bottom: 4px;}
+
+.brand .colors{padding: 12px 6px !important;}
+
+.brand .colors .colorWrapper{
+  padding: 0 6px;
+  float: right;}
+
+.brand .colors .colorWrapper.open{
+  position: absolute;
+  padding-left: 18px;
+  width: 100% !important;}
+
+.brand .colors .colorWrapper .color{
+  height: 40px;
+  display: table;
+  width: 100%;}
+
+.brand .colors .colorWrapper .color span.white-text{
+  display: table-cell;
+  vertical-align: middle;
+  visibility: hidden;}
+
+.brand .colors .colorWrapper.open .color span.white-text{visibility: visible;}
+
+footer{
+  position: absolute;
+  bottom: 0; right: 0;
+  padding: 2px 0px;}
+
+footer p{margin: 0px;}
+
+footer #copyright img{
+  float: right;
+  height: 32px;
+  width: auto;}
+
+footer #copyright p{padding: 6px 42px;}
+
+footer #links ul{
+  padding: 0px;
+  margin: -2px 0px;
+  list-style: none;}
+
+footer #links ul li{
+  padding: 6px 13px;
+  font-size: 14px;
+  float: left;}
+
+#failed{padding: 48px 0}
+
+#loading > .white{
+  height: 300px;
+  }
+
+.loader{
+  position: absolute;
+  margin: auto;
+  right: 0; left: 0;
+  top: 100px; bottom: 0;
+  width: 100px; height: 100px;}
+
+.circular{
+ animation: rotate 2s linear infinite;
+ height: 100px;
+ position: relative;
+ width: 100px;}
+
+.path{
+  stroke-dasharray: 1,200;
+  stroke-dashoffset: 0;
+  animation: dash 1.5s ease-in-out infinite;
+  stroke: #9c27b0;
+  stroke-linecap: round;}
+
+@keyframes rotate{
+  100%{
+    transform: rotate(360deg);
+  }
+}
+@keyframes dash{
+  0%{
+    stroke-dasharray: 1,200;
+    stroke-dashoffset: 0;
+    }
+  50%{
+    stroke-dasharray: 89,200;
+    stroke-dashoffset: -35;
+    }
+  100%{
+    stroke-dasharray: 89,200;
+    stroke-dashoffset: -124;
+    }
+  }
+}

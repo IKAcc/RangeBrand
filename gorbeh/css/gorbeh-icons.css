@@ -1,0 +1,2114 @@
+
+/*
+	Gorbeh Icons (v2.0)
+	Created by @setarekarimi and @JavidIzadfar
+*/
+
+/*
+=================================================================================================
+Index
+-------------------------------------------------------------------------------------------------
+
+# 1 ::::::::::::::::: Declarations
+# 2 ::::::::::::::::: Transformations
+  # 2.1 ::::::::::::::::: Sizing
+  # 2.2 ::::::::::::::::: Rotating
+  # 2.3 ::::::::::::::::: Mirroring
+  # 2.4 ::::::::::::::::: Animating
+  # 2.5 ::::::::::::::::: Coloring
+# 3 ::::::::::::::::: Initializations
+
+=================================================================================================
+-------------------------------------------------------------------------------------------------
+*/
+
+/*
+=================================================================================================
+# 1 Declarations
+-------------------------------------------------------------------------------------------------
+*/
+
+  @font-face{
+    font-family: 'Gorbeh Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/Gorbeh-Regular.eot');
+    src: url('../fonts/Gorbeh-Regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Gorbeh-Regular.otf') format("opentype"),
+         url('../fonts/Gorbeh-Regular.woff2') format('woff2'),
+         url('../fonts/Gorbeh-Regular.woff') format('woff'),
+         url('../fonts/Gorbeh-Regular.ttf')  format('truetype'),
+         url('../fonts/Gorbeh-Regular.svg#svgFontName') format('svg')}
+
+  .gb{
+    display: inline-block;
+    font-family: 'Gorbeh Icons';
+    font-style: normal;
+    font-weight: normal;
+    vertical-align: middle;
+    line-height: 1;
+    font-size: inherit;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-feature-settings: normal;
+    font-language-override: normal;
+    font-kerning: auto;
+    font-synthesis: weight style;
+    font-variant: normal;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;}
+
+/*
+=================================================================================================
+# 2 Transformation
+-------------------------------------------------------------------------------------------------
+*/
+
+  /*
+  =============================================================================================
+  # 2.1 Sizing
+  ---------------------------------------------------------------------------------------------
+  */
+
+    .gb.gb_s18{font-size: 18px}
+
+    .gb.gb_s24{font-size: 24px}
+
+    .gb.gb_s36{font-size: 36px}
+
+    .gb.gb_s48{font-size: 48px}
+
+  /*
+  =============================================================================================
+  # 2.2 Rotating
+  ---------------------------------------------------------------------------------------------
+  */
+
+    .gb.gb_r90{
+       -webkit-transform: rotate(90deg);
+          -moz-transform: rotate(90deg);
+           -ms-transform: rotate(90deg);
+            -o-transform: rotate(90deg);
+               transform: rotate(90deg)}
+
+    .gb.gb_r180{
+       -webkit-transform: rotate(180deg);
+          -moz-transform: rotate(180deg);
+           -ms-transform: rotate(180deg);
+            -o-transform: rotate(180deg);
+               transform: rotate(180deg)}
+
+    .gb.gb_r270{
+       -webkit-transform: rotate(270deg);
+          -moz-transform: rotate(270deg);
+           -ms-transform: rotate(270deg);
+            -o-transform: rotate(270deg);
+               transform: rotate(270deg)}
+
+  /*
+  =============================================================================================
+  # 2.3 Mirroring
+  ---------------------------------------------------------------------------------------------
+  */
+
+    .gb.gb_mirror{
+      -webkit-transform: scale(-1, 1);
+         -moz-transform: scale(-1, 1);
+          -ms-transform: scale(-1, 1);
+           -o-transform: scale(-1, 1);
+              transform: scale(-1, 1)}
+
+  /*
+  =============================================================================================
+  # 2.4 Animating
+  ---------------------------------------------------------------------------------------------
+  */
+
+    .gb.gb_animate_spin{
+      -webkit-animation-name: gorbeh_spin;
+         -moz-animation-name: gorbeh_spin;
+          -ms-animation-name: gorbeh_spin;
+           -o-animation-name: gorbeh_spin;
+              animation-name: gorbeh_spin;
+      -webkit-animation-duration: 1s;
+         -moz-animation-duration: 1s;
+          -ms-animation-duration: 1s;
+           -o-animation-duration: 1s;
+              animation-duration: 1s;
+      -webkit-animation-iteration-count: infinite;
+         -moz-animation-iteration-count: infinite;
+          -ms-animation-iteration-count: infinite;
+           -o-animation-iteration-count: infinite;
+              animation-iteration-count: infinite;
+      -webkit-animation-timing-function: linear;
+         -moz-animation-timing-function: linear;
+          -ms-animation-timing-function: linear;
+           -o-animation-timing-function: linear;
+              animation-timing-function: linear}
+
+    @-webkit-keyframes gorbeh_spin{
+      from{
+        -webkit-transform: rotate(0deg);
+           -moz-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
+             -o-transform: rotate(0deg);
+                transform: rotate(0deg)}
+      to{
+        -webkit-transform: rotate(-359deg);
+           -moz-transform: rotate(-359deg);
+            -ms-transform: rotate(-359deg);
+             -o-transform: rotate(-359deg);
+                transform: rotate(-359deg)}
+    }
+
+    @keyframes gorbeh_spin{
+      from{
+        -webkit-transform: rotate(0deg);
+           -moz-transform: rotate(0deg);
+            -ms-transform: rotate(0deg);
+             -o-transform: rotate(0deg);
+                transform: rotate(0deg)}
+      to{
+        -webkit-transform: rotate(-359deg);
+           -moz-transform: rotate(-359deg);
+            -ms-transform: rotate(-359deg);
+             -o-transform: rotate(-359deg);
+                transform: rotate(-359deg)}
+    }
+
+   /*
+   =============================================================================================
+   # 2.5 Coloring
+   ---------------------------------------------------------------------------------------------
+   */
+
+      .gb.gb_dark{color: rgba(0, 0, 0, 0.54)}
+      .gb.gb_dark.gb_inactive{color: rgba(0, 0, 0, 0.26)}
+
+      .gb.gb_light{color: rgba(255, 255, 255, 1)}
+      .gb.gb_light.gb_inactive{color: rgba(255, 255, 255, 0.3)}
+
+/*
+=================================================================================================
+# 3 Initializations
+-------------------------------------------------------------------------------------------------
+*/
+
+  .gb.gb_3d_rotation::before{content:'\e84d'}
+
+  .gb.gb_ac_unit::before{content:'\eb3b'}
+
+  .gb.gb_access_alarm::before{content:'\e855'}
+
+  .gb.gb_access_alarms::before{content:'\e855'}
+
+  .gb.gb_access_time::before{content:'\e8b5'}
+
+  .gb.gb_accessibility::before{content:'\e84e'}
+
+  .gb.gb_accessible::before{content:'\e914'}
+
+  .gb.gb_account_balance::before{content:'\e84f'}
+
+  .gb.gb_account_balance_wallet::before{content:'\e850'}
+
+  .gb.gb_account_box::before{content:'\e851'}
+
+  .gb.gb_account_circle::before{content:'\e853'}
+
+  .gb.gb_adb::before{content:'\e60e'}
+
+  .gb.gb_add::before{content:'\e145'}
+
+  .gb.gb_add_a_photo::before{content:'\e439'}
+
+  .gb.gb_add_alarm::before{content:'\e856'}
+
+  .gb.gb_add_alert::before{content:'\e003'}
+
+  .gb.gb_add_box::before{content:'\e146'}
+
+  .gb.gb_add_circle::before{content:'\e147'}
+
+  .gb.gb_add_circle_outline::before{content:'\e148'}
+
+  .gb.gb_add_location::before{content:'\e567'}
+
+  .gb.gb_add_shopping_cart::before{content:'\e854'}
+
+  .gb.gb_add_to_photos::before{content:'\e39d'}
+
+  .gb.gb_add_to_queue::before{content:'\e05c'}
+
+  .gb.gb_adjust::before{content:'\e39e'}
+
+  .gb.gb_airline_seat_flat::before{content:'\e630'}
+
+  .gb.gb_airline_seat_flat_angled::before{content:'\e631'}
+
+  .gb.gb_airline_seat_individual_suite::before{content:'\e53a'}
+
+  .gb.gb_airline_seat_legroom_extra::before{content:'\e633'}
+
+  .gb.gb_airline_seat_legroom_normal::before{content:'\e634'}
+
+  .gb.gb_airline_seat_legroom_reduced::before{content:'\e635'}
+
+  .gb.gb_airline_seat_recline_extra::before{content:'\e636'}
+
+  .gb.gb_airline_seat_recline_normal::before{content:'\e637'}
+
+  .gb.gb_airplanemode_active::before{content:'\e195'}
+
+  .gb.gb_airplanemode_inactive::before{content:'\e194'}
+
+  .gb.gb_airplay::before{content:'\e055'}
+
+  .gb.gb_airport_shuttle::before{content:'\eb3c'}
+
+  .gb.gb_alarm::before{content:'\e855'}
+
+  .gb.gb_alarm_add::before{content:'\e856'}
+
+  .gb.gb_alarm_off::before{content:'\e857'}
+
+  .gb.gb_alarm_on::before{content:'\e858'}
+
+  .gb.gb_album::before{content:'\e019'}
+
+  .gb.gb_all_inclusive::before{content:'\eb3d'}
+
+  .gb.gb_all_out::before{content:'\e90b'}
+
+  .gb.gb_android::before{content:'\e859'}
+
+  .gb.gb_announcement::before{content:'\e85a'}
+
+  .gb.gb_aparat::before{content: '\e191'}
+
+  .gb.gb_apple::before{content: '\e0d6'}
+
+  .gb.gb_apps::before{content:'\e5c3'}
+
+  .gb.gb_archive::before{content:'\e149'}
+
+  .gb.gb_arrow_back::before{content:'\e5c4'}
+
+  .gb.gb_arrow_downward::before{content:'\e5db'}
+
+  .gb.gb_arrow_drop_down::before{content:'\e5c5'}
+
+  .gb.gb_arrow_drop_down_circle::before{content:'\e5c6'}
+
+  .gb.gb_arrow_drop_up::before{content:'\e5c7'}
+
+  .gb.gb_arrow_forward::before{content:'\e5c8'}
+
+  .gb.gb_arrow_upward::before{content:'\e5d8'}
+
+  .gb.gb_art_track::before{content:'\e060'}
+
+  .gb.gb_aspect_ratio::before{content:'\e85b'}
+
+  .gb.gb_assessment::before{content:'\e85c'}
+
+  .gb.gb_assignment::before{content:'\e85d'}
+
+  .gb.gb_assignment_ind::before{content:'\e85e'}
+
+  .gb.gb_assignment_late::before{content:'\e85f'}
+
+  .gb.gb_assignment_return::before{content:'\e860'}
+
+  .gb.gb_assignment_returned::before{content:'\e861'}
+
+  .gb.gb_assignment_turned_in::before{content:'\e862'}
+
+  .gb.gb_assistant::before{content:'\e39f'}
+
+  .gb.gb_assistant_photo::before{content:'\e153'}
+
+  .gb.gb_attach_file::before{content:'\e226'}
+
+  .gb.gb_attach_money::before{content:'\e227'}
+
+  .gb.gb_attachment::before{content:'\e2bc'}
+
+  .gb.gb_audiotrack::before{content:'\e3a1'}
+
+  .gb.gb_autorenew::before{content:'\e028'}
+
+  .gb.gb_av_timer::before{content:'\e01b'}
+
+  .gb.gb_backspace::before{content:'\e14a'}
+
+  .gb.gb_backup::before{content:'\e864'}
+
+  .gb.gb_battery_alert::before{content:'\e19c'}
+
+  .gb.gb_battery_charging_full::before{content:'\e1a3'}
+
+  .gb.gb_battery_full::before{content:'\e1a4'}
+
+  .gb.gb_battery_std::before{content:'\e1a4'}
+
+  .gb.gb_battery_unknown::before{content:'\e1a6'}
+
+  .gb.gb_beach_access::before{content:'\eb3e'}
+
+  .gb.gb_beenhere::before{content:'\e52d'}
+
+  .gb.gb_bisphone::before{content:'\e30a'}
+
+  .gb.gb_block::before{content:'\e14b'}
+
+  .gb.gb_bluetooth::before{content:'\e1a7'}
+
+  .gb.gb_bluetooth_audio::before{content:'\e60f'}
+
+  .gb.gb_bluetooth_connected::before{content:'\e1a8'}
+
+  .gb.gb_bluetooth_disabled::before{content:'\e1a9'}
+
+  .gb.gb_bluetooth_searching::before{content:'\e60f'}
+
+  .gb.gb_blur_circular::before{content:'\e3a2'}
+
+  .gb.gb_blur_linear::before{content:'\e3a3'}
+
+  .gb.gb_blur_off::before{content:'\e3a4'}
+
+  .gb.gb_blur_on::before{content:'\e3a5'}
+
+  .gb.gb_book::before{content:'\e865'}
+
+  .gb.gb_bookmark::before{content:'\e866'}
+
+  .gb.gb_bookmark_border::before{content:'\e867'}
+
+  .gb.gb_border_all::before{content:'\e228'}
+
+  .gb.gb_border_bottom::before{content:'\e229'}
+
+  .gb.gb_border_clear::before{content:'\e22a'}
+
+  .gb.gb_border_color::before{content:'\e22b'}
+
+  .gb.gb_border_horizontal::before{content:'\e22c'}
+
+  .gb.gb_border_inner::before{content:'\e22d'}
+
+  .gb.gb_border_left::before{content:'\e22e'}
+
+  .gb.gb_border_outer::before{content:'\e22f'}
+
+  .gb.gb_border_right::before{content:'\e230'}
+
+  .gb.gb_border_style::before{content:'\e231'}
+
+  .gb.gb_border_top::before{content:'\e232'}
+
+  .gb.gb_border_vertical::before{content:'\e233'}
+
+  .gb.gb_branding_watermark::before{content:'\e06b'}
+
+  .gb.gb_brightness_1::before{content:'\e3a6'}
+
+  .gb.gb_brightness_2::before{content:'\e3a7'}
+
+  .gb.gb_brightness_3::before{content:'\e3a8'}
+
+  .gb.gb_brightness_4::before{content:'\e3a9'}
+
+  .gb.gb_brightness_5::before{content:'\e3aa'}
+
+  .gb.gb_brightness_6::before{content:'\e3ab'}
+
+  .gb.gb_brightness_7::before{content:'\e3ac'}
+
+  .gb.gb_brightness_auto::before{content:'\e1ab'}
+
+  .gb.gb_brightness_high::before{content:'\e3ac'}
+
+  .gb.gb_brightness_low::before{content:'\e3aa'}
+
+  .gb.gb_brightness_medium::before{content:'\e3ab'}
+
+  .gb.gb_broken_image::before{content:'\e3ad'}
+
+  .gb.gb_brush::before{content:'\e3ae'}
+
+  .gb.gb_bubble_chart::before{content:'\e6dd'}
+
+  .gb.gb_bug_report::before{content:'\e868'}
+
+  .gb.gb_build::before{content:'\e869'}
+
+  .gb.gb_burst_mode::before{content:'\e43c'}
+
+  .gb.gb_business::before{content:'\e0af'}
+
+  .gb.gb_business_center::before{content:'\eb3f'}
+
+  .gb.gb_cafebazaar::before{content: '\e190'}
+
+  .gb.gb_cached::before{content:'\e86a'}
+
+  .gb.gb_cake::before{content:'\e7e9'}
+
+  .gb.gb_call::before{content:'\e0b0'}
+
+  .gb.gb_call_end::before{content:'\e0b1'}
+
+  .gb.gb_call_made::before{content:'\e0b2'}
+
+  .gb.gb_call_merge::before{content:'\e0b3'}
+
+  .gb.gb_call_missed::before{content:'\e0b4'}
+
+  .gb.gb_call_missed_outgoing::before{content:'\e0e4'}
+
+  .gb.gb_call_received::before{content:'\e0b5'}
+
+  .gb.gb_call_split::before{content:'\e0b6'}
+
+  .gb.gb_call_to_action::before{content:'\e06c'}
+
+  .gb.gb_camera::before{content:'\e3af'}
+
+  .gb.gb_camera_alt::before{content:'\e3b0'}
+
+  .gb.gb_camera_enhance::before{content:'\e8fc'}
+
+  .gb.gb_camera_front::before{content:'\e3b1'}
+
+  .gb.gb_camera_rear::before{content:'\e3b2'}
+
+  .gb.gb_camera_roll::before{content:'\e3b3'}
+
+  .gb.gb_cancel::before{content:'\e5c9'}
+
+  .gb.gb_card_giftcard::before{content:'\e8f6'}
+
+  .gb.gb_card_membership::before{content:'\e8f7'}
+
+  .gb.gb_card_travel::before{content:'\e8f8'}
+
+  .gb.gb_casino::before{content:'\eb40'}
+
+  .gb.gb_cast::before{content:'\e307'}
+
+  .gb.gb_cast_connected::before{content:'\e308'}
+
+  .gb.gb_center_focus_strong::before{content:'\e3b4'}
+
+  .gb.gb_center_focus_weak::before{content:'\e3b5'}
+
+  .gb.gb_change_history::before{content:'\e86b'}
+
+  .gb.gb_chat::before{content:'\e0b7'}
+
+  .gb.gb_chat_bubble::before{content:'\e0ca'}
+
+  .gb.gb_chat_bubble_outline::before{content:'\e0cb'}
+
+  .gb.gb_check::before{content:'\e876'}
+
+  .gb.gb_check_box::before{content:'\e834'}
+
+  .gb.gb_check_box_outline_blank::before{content:'\e835'}
+
+  .gb.gb_check_circle::before{content:'\e86c'}
+
+  .gb.gb_chevron_left::before{content:'\e314'}
+
+  .gb.gb_chevron_right::before{content:'\e315'}
+
+  .gb.gb_child_care::before{content:'\eb41'}
+
+  .gb.gb_child_friendly::before{content:'\eb42'}
+
+  .gb.gb_chrome_reader_mode::before{content:'\e86d'}
+
+  .gb.gb_class::before{content:'\e865'}
+
+  .gb.gb_clear::before{content:'\e14c'}
+
+  .gb.gb_clear_all::before{content:'\e0b8'}
+
+  .gb.gb_close::before{content:'\e14c'}
+
+  .gb.gb_closed_caption::before{content:'\e01c'}
+
+  .gb.gb_cloob::before{content: '\e192'}
+
+  .gb.gb_cloud::before{content:'\e2bd'}
+
+  .gb.gb_cloud_circle::before{content:'\e2be'}
+
+  .gb.gb_cloud_done::before{content:'\e2bf'}
+
+  .gb.gb_cloud_download::before{content:'\e2c0'}
+
+  .gb.gb_cloud_off::before{content:'\e2c1'}
+
+  .gb.gb_cloud_queue::before{content:'\e2c2'}
+
+  .gb.gb_cloud_upload::before{content:'\e864'}
+
+  .gb.gb_code::before{content:'\e86f'}
+
+  .gb.gb_collections::before{content:'\e413'}
+
+  .gb.gb_collections_bookmark::before{content:'\e431'}
+
+  .gb.gb_color_lens::before{content:'\e40a'}
+
+  .gb.gb_colorize::before{content:'\e3b8'}
+
+  .gb.gb_comment::before{content:'\e0b9'}
+
+  .gb.gb_compare::before{content:'\e3b9'}
+
+  .gb.gb_compare_arrows::before{content:'\e915'}
+
+  .gb.gb_computer::before{content:'\e31e'}
+
+  .gb.gb_confirmation_number::before{content:'\e638'}
+
+  .gb.gb_contact_mail::before{content:'\e0d0'}
+
+  .gb.gb_contact_phone::before{content:'\e0cf'}
+
+  .gb.gb_contacts::before{content:'\e0ba'}
+
+  .gb.gb_content_copy::before{content:'\e14d'}
+
+  .gb.gb_content_cut::before{content:'\e14e'}
+
+  .gb.gb_content_paste::before{content:'\e14f'}
+
+  .gb.gb_control_point::before{content:'\e3ba'}
+
+  .gb.gb_control_point_duplicate::before{content:'\e3bb'}
+
+  .gb.gb_copyright::before{content:'\e90c'}
+
+  .gb.gb_create::before{content:'\e150'}
+
+  .gb.gb_create_new_folder::before{content:'\e2cc'}
+
+  .gb.gb_creative_commons::before{content:'\e1aa'}
+
+  .gb.gb_credit_card::before{content:'\e870'}
+
+  .gb.gb_crop::before{content:'\e3be'}
+
+  .gb.gb_crop_16_9::before{content:'\e3bc'}
+
+  .gb.gb_crop_3_2::before{content:'\e3bd'}
+
+  .gb.gb_crop_5_4::before{content:'\e3bf'}
+
+  .gb.gb_crop_7_5::before{content:'\e3c0'}
+
+  .gb.gb_crop_din::before{content:'\e3c1'}
+
+  .gb.gb_crop_free::before{content:'\e3c2'}
+
+  .gb.gb_crop_landscape::before{content:'\e3bf'}
+
+  .gb.gb_crop_original::before{content:'\e3c4'}
+
+  .gb.gb_crop_portrait::before{content:'\e3c5'}
+
+  .gb.gb_crop_rotate::before{content:'\e437'}
+
+  .gb.gb_crop_square::before{content:'\e3c6'}
+
+  .gb.gb_dashboard::before{content:'\e871'}
+
+  .gb.gb_data_usage::before{content:'\e1af'}
+
+  .gb.gb_date_range::before{content:'\e916'}
+
+  .gb.gb_dehaze::before{content:'\e5d2'}
+
+  .gb.gb_delete::before{content:'\e872'}
+
+  .gb.gb_delete_forever::before{content:'\e92b'}
+
+  .gb.gb_delete_sweep::before{content:'\e16c'}
+
+  .gb.gb_description::before{content:'\e873'}
+
+  .gb.gb_desktop_mac::before{content:'\e30b'}
+
+  .gb.gb_desktop_windows::before{content:'\e30c'}
+
+  .gb.gb_details::before{content:'\e3c8'}
+
+  .gb.gb_developer_board::before{content:'\e30d'}
+
+  .gb.gb_developer_mode::before{content:'\e1b0'}
+
+  .gb.gb_device_hub::before{content:'\e335'}
+
+  .gb.gb_devices::before{content:'\e1b1'}
+
+  .gb.gb_devices_other::before{content:'\e337'}
+
+  .gb.gb_dialer_sip::before{content:'\e0bb'}
+
+  .gb.gb_dialpad::before{content:'\e0bc'}
+
+  .gb.gb_directions::before{content:'\e52e'}
+
+  .gb.gb_directions_bike::before{content:'\e52f'}
+
+  .gb.gb_directions_boat::before{content:'\e532'}
+
+  .gb.gb_directions_bus::before{content:'\e530'}
+
+  .gb.gb_directions_car::before{content:'\e531'}
+
+  .gb.gb_directions_railway::before{content:'\e534'}
+
+  .gb.gb_directions_run::before{content:'\e566'}
+
+  .gb.gb_directions_subway::before{content:'\e533'}
+
+  .gb.gb_directions_transit::before{content:'\e533'}
+
+  .gb.gb_directions_walk::before{content:'\e536'}
+
+  .gb.gb_disc_full::before{content:'\e610'}
+
+  .gb.gb_dns::before{content:'\e875'}
+
+  .gb.gb_do_not_disturb::before{content:'\e033'}
+
+  .gb.gb_do_not_disturb_alt::before{content:'\e14b'}
+
+  .gb.gb_do_not_disturb_off::before{content:'\e643'}
+
+  .gb.gb_do_not_disturb_on::before{content:'\e644'}
+
+  .gb.gb_dock::before{content:'\e30e'}
+
+  .gb.gb_domain::before{content:'\e0af'}
+
+  .gb.gb_done::before{content:'\e876'}
+
+  .gb.gb_done_all::before{content:'\e877'}
+
+  .gb.gb_donut_large::before{content:'\e917'}
+
+  .gb.gb_donut_small::before{content:'\e918'}
+
+  .gb.gb_drafts::before{content:'\e151'}
+
+  .gb.gb_drag_handle::before{content:'\e25d'}
+
+  .gb.gb_drive_eta::before{content:'\e531'}
+
+  .gb.gb_dvr::before{content:'\e1b2'}
+
+  .gb.gb_edit::before{content:'\e150'}
+
+  .gb.gb_edit_location::before{content:'\e568'}
+
+  .gb.gb_eject::before{content:'\e8fb'}
+
+  .gb.gb_email::before{content:'\e158'}
+
+  .gb.gb_enamad::before{content:'\e1ba'}
+
+  .gb.gb_enhanced_encryption::before{content:'\e63f'}
+
+  .gb.gb_equalizer::before{content:'\e01d'}
+
+  .gb.gb_error::before{content:'\e000'}
+
+  .gb.gb_error_outline::before{content:'\e001'}
+
+  .gb.gb_euro_symbol::before{content:'\e926'}
+
+  .gb.gb_ev_station::before{content:'\e56d'}
+
+  .gb.gb_event::before{content:'\e878'}
+
+  .gb.gb_event_available::before{content:'\e614'}
+
+  .gb.gb_event_busy::before{content:'\e615'}
+
+  .gb.gb_event_note::before{content:'\e616'}
+
+  .gb.gb_event_seat::before{content:'\e903'}
+
+  .gb.gb_exit_to_app::before{content:'\e879'}
+
+  .gb.gb_expand_less::before{content:'\e316'}
+
+  .gb.gb_expand_more::before{content:'\e313'}
+
+  .gb.gb_explicit::before{content:'\e01e'}
+
+  .gb.gb_explore::before{content:'\e87a'}
+
+  .gb.gb_exposure::before{content:'\e3ca'}
+
+  .gb.gb_exposure_neg_1::before{content:'\e3cb'}
+
+  .gb.gb_exposure_neg_2::before{content:'\e3cc'}
+
+  .gb.gb_exposure_plus_1::before{content:'\e3cd'}
+
+  .gb.gb_exposure_plus_2::before{content:'\e3ce'}
+
+  .gb.gb_exposure_zero::before{content:'\e3cf'}
+
+  .gb.gb_extension::before{content:'\e87b'}
+
+  .gb.gb_face::before{content:'\e87c'}
+
+  .gb.gb_facebook::before{content: '\e157'}
+
+  .gb.gb_facenama::before{content: '\e1b6'}
+
+  .gb.gb_fast_forward::before{content:'\e01f'}
+
+  .gb.gb_fast_rewind::before{content:'\e020'}
+
+  .gb.gb_favorite::before{content:'\e87d'}
+
+  .gb.gb_favorite_border::before{content:'\e87e'}
+
+  .gb.gb_featured_play_list::before{content:'\e06d'}
+
+  .gb.gb_featured_video::before{content:'\e06e'}
+
+  .gb.gb_feedback::before{content:'\e85a'}
+
+  .gb.gb_fiber_dvr::before{content:'\e05d'}
+
+  .gb.gb_fiber_manual_record::before{content:'\e061'}
+
+  .gb.gb_fiber_new::before{content:'\e05e'}
+
+  .gb.gb_fiber_pin::before{content:'\e06a'}
+
+  .gb.gb_fiber_smart_record::before{content:'\e062'}
+
+  .gb.gb_file_download::before{content:'\e2c4'}
+
+  .gb.gb_file_upload::before{content:'\e2c6'}
+
+  .gb.gb_filter::before{content:'\e3d3'}
+
+  .gb.gb_filter_1::before{content:'\e3d0'}
+
+  .gb.gb_filter_2::before{content:'\e3d1'}
+
+  .gb.gb_filter_3::before{content:'\e3d2'}
+
+  .gb.gb_filter_4::before{content:'\e3d4'}
+
+  .gb.gb_filter_5::before{content:'\e3d5'}
+
+  .gb.gb_filter_6::before{content:'\e3d6'}
+
+  .gb.gb_filter_7::before{content:'\e3d7'}
+
+  .gb.gb_filter_8::before{content:'\e3d8'}
+
+  .gb.gb_filter_9::before{content:'\e3d9'}
+
+  .gb.gb_filter_9_plus::before{content:'\e3da'}
+
+  .gb.gb_filter_b_and_w::before{content:'\e3db'}
+
+  .gb.gb_filter_center_focus::before{content:'\e3dc'}
+
+  .gb.gb_filter_drama::before{content:'\e3dd'}
+
+  .gb.gb_filter_frames::before{content:'\e3de'}
+
+  .gb.gb_filter_hdr::before{content:'\e3df'}
+
+  .gb.gb_filter_list::before{content:'\e152'}
+
+  .gb.gb_filter_none::before{content:'\e3e0'}
+
+  .gb.gb_filter_tilt_shift::before{content:'\e3e2'}
+
+  .gb.gb_filter_vintage::before{content:'\e3e3'}
+
+  .gb.gb_find_in_page::before{content:'\e880'}
+
+  .gb.gb_find_replace::before{content:'\e881'}
+
+  .gb.gb_fingerprint::before{content:'\e90d'}
+
+  .gb.gb_first_page::before{content:'\e5dc'}
+
+  .gb.gb_fitness_center::before{content:'\eb43'}
+
+  .gb.gb_flag::before{content:'\e153'}
+
+  .gb.gb_flare::before{content:'\e3e4'}
+
+  .gb.gb_flash_auto::before{content:'\e3e5'}
+
+  .gb.gb_flash_off::before{content:'\e3e6'}
+
+  .gb.gb_flash_on::before{content:'\e3e7'}
+
+  .gb.gb_flight::before{content:'\e195'}
+
+  .gb.gb_flight_land::before{content:'\e904'}
+
+  .gb.gb_flight_takeoff::before{content:'\e905'}
+
+  .gb.gb_flip::before{content:'\e3e8'}
+
+  .gb.gb_flip_to_back::before{content:'\e882'}
+
+  .gb.gb_flip_to_front::before{content:'\e883'}
+
+  .gb.gb_folder::before{content:'\e2c7'}
+
+  .gb.gb_folder_open::before{content:'\e2c8'}
+
+  .gb.gb_folder_shared::before{content:'\e2c9'}
+
+  .gb.gb_folder_special::before{content:'\e617'}
+
+  .gb.gb_font_download::before{content:'\e167'}
+
+  .gb.gb_format_align_center::before{content:'\e234'}
+
+  .gb.gb_format_align_justify::before{content:'\e235'}
+
+  .gb.gb_format_align_left::before{content:'\e236'}
+
+  .gb.gb_format_align_right::before{content:'\e237'}
+
+  .gb.gb_format_bold::before{content:'\e238'}
+
+  .gb.gb_format_clear::before{content:'\e239'}
+
+  .gb.gb_format_color_fill::before{content:'\e23a'}
+
+  .gb.gb_format_color_reset::before{content:'\e23b'}
+
+  .gb.gb_format_color_text::before{content:'\e23c'}
+
+  .gb.gb_format_indent_decrease::before{content:'\e23d'}
+
+  .gb.gb_format_indent_increase::before{content:'\e23e'}
+
+  .gb.gb_format_italic::before{content:'\e23f'}
+
+  .gb.gb_format_line_spacing::before{content:'\e240'}
+
+  .gb.gb_format_list_bulleted::before{content:'\e241'}
+
+  .gb.gb_format_list_numbered::before{content:'\e242'}
+
+  .gb.gb_format_paint::before{content:'\e243'}
+
+  .gb.gb_format_quote::before{content:'\e244'}
+
+  .gb.gb_format_shapes::before{content:'\e25e'}
+
+  .gb.gb_format_size::before{content:'\e245'}
+
+  .gb.gb_format_strikethrough::before{content:'\e246'}
+
+  .gb.gb_format_textdirection_l_to_r::before{content:'\e247'}
+
+  .gb.gb_format_textdirection_r_to_l::before{content:'\e248'}
+
+  .gb.gb_format_underlined::before{content:'\e249'}
+
+  .gb.gb_forum::before{content:'\e8af'}
+
+  .gb.gb_forward::before{content:'\e154'}
+
+  .gb.gb_forward_10::before{content:'\e056'}
+
+  .gb.gb_forward_30::before{content:'\e057'}
+
+  .gb.gb_forward_5::before{content:'\e058'}
+
+  .gb.gb_free_breakfast::before{content:'\e541'}
+
+  .gb.gb_fullscreen::before{content:'\e5d0'}
+
+  .gb.gb_fullscreen_exit::before{content:'\e5d1'}
+
+  .gb.gb_functions::before{content:'\e24a'}
+
+  .gb.gb_g_translate::before{content:'\e927'}
+
+  .gb.gb_gamepad::before{content:'\e30f'}
+
+  .gb.gb_games::before{content:'\e021'}
+
+  .gb.gb_gavel::before{content:'\e90e'}
+
+  .gb.gb_gesture::before{content:'\e155'}
+
+  .gb.gb_get_app::before{content:'\e2c4'}
+
+  .gb.gb_gif::before{content:'\e908'}
+
+  .gb.gb_github::before{content: '\e0be'}
+
+  .gb.gb_golf_course::before{content:'\eb45'}
+
+  .gb.gb_google_play::before{content: '\e0d8'}
+
+  .gb.gb_google_plus::before{content: '\e159'}
+
+  .gb.gb_gps_fixed::before{content:'\e1b3'}
+
+  .gb.gb_gps_not_fixed::before{content:'\e1b4'}
+
+  .gb.gb_gps_off::before{content:'\e1b5'}
+
+  .gb.gb_grade::before{content:'\e838'}
+
+  .gb.gb_gradient::before{content:'\e3e9'}
+
+  .gb.gb_grain::before{content:'\e3ea'}
+
+  .gb.gb_graphic_eq::before{content:'\e1b8'}
+
+  .gb.gb_grid_off::before{content:'\e3eb'}
+
+  .gb.gb_grid_on::before{content:'\e3ec'}
+
+  .gb.gb_group::before{content:'\e7ef'}
+
+  .gb.gb_group_add::before{content:'\e7f0'}
+
+  .gb.gb_group_work::before{content:'\e886'}
+
+  .gb.gb_hd::before{content:'\e052'}
+
+  .gb.gb_hdr_off::before{content:'\e3ed'}
+
+  .gb.gb_hdr_on::before{content:'\e3ee'}
+
+  .gb.gb_hdr_strong::before{content:'\e3f1'}
+
+  .gb.gb_hdr_weak::before{content:'\e3f2'}
+
+  .gb.gb_headset::before{content:'\e310'}
+
+  .gb.gb_headset_mic::before{content:'\e311'}
+
+  .gb.gb_healing::before{content:'\e3f3'}
+
+  .gb.gb_hearing::before{content:'\e023'}
+
+  .gb.gb_help::before{content:'\e887'}
+
+  .gb.gb_help_outline::before{content:'\e8fd'}
+
+  .gb.gb_high_quality::before{content:'\e024'}
+
+  .gb.gb_highlight::before{content:'\e25f'}
+
+  .gb.gb_highlight_off::before{content:'\e888'}
+
+  .gb.gb_history::before{content:'\e889'}
+
+  .gb.gb_home::before{content:'\e88a'}
+
+  .gb.gb_hot_tub::before{content:'\eb46'}
+
+  .gb.gb_hotel::before{content:'\e53a'}
+
+  .gb.gb_hourglass_empty::before{content:'\e88b'}
+
+  .gb.gb_hourglass_full::before{content:'\e88c'}
+
+  .gb.gb_http::before{content:'\e902'}
+
+  .gb.gb_https::before{content:'\e897'}
+
+  .gb.gb_image::before{content:'\e251'}
+
+  .gb.gb_image_aspect_ratio::before{content:'\e3f5'}
+
+  .gb.gb_import_contacts::before{content:'\e0e0'}
+
+  .gb.gb_import_export::before{content:'\e8d5'}
+
+  .gb.gb_important_devices::before{content:'\e912'}
+
+  .gb.gb_inbox::before{content:'\e156'}
+
+  .gb.gb_indeterminate_check_box::before{content:'\e909'}
+
+  .gb.gb_info::before{content:'\e88e'}
+
+  .gb.gb_info_outline::before{content:'\e88f'}
+
+  .gb.gb_input::before{content:'\e890'}
+
+  .gb.gb_insert_chart::before{content:'\e85c'}
+
+  .gb.gb_insert_comment::before{content:'\e0b9'}
+
+  .gb.gb_insert_drive_file::before{content:'\e24d'}
+
+  .gb.gb_insert_emoticon::before{content:'\e7f2'}
+
+  .gb.gb_insert_invitation::before{content:'\e878'}
+
+  .gb.gb_insert_link::before{content:'\e250'}
+
+  .gb.gb_insert_photo::before{content:'\e251'}
+
+  .gb.gb_instagram::before{content: '\e15c'}
+
+  .gb.gb_invert_colors::before{content:'\e891'}
+
+  .gb.gb_invert_colors_off::before{content:'\e0c4'}
+
+  .gb.gb_iranapps::before{content:'\e254'}
+
+  .gb.gb_iso::before{content:'\e3f6'}
+
+  .gb.gb_keyboard::before{content:'\e312'}
+
+  .gb.gb_keyboard_arrow_down::before{content:'\e313'}
+
+  .gb.gb_keyboard_arrow_left::before{content:'\e314'}
+
+  .gb.gb_keyboard_arrow_right::before{content:'\e315'}
+
+  .gb.gb_keyboard_arrow_up::before{content:'\e316'}
+
+  .gb.gb_keyboard_backspace::before{content:'\e317'}
+
+  .gb.gb_keyboard_capslock::before{content:'\e318'}
+
+  .gb.gb_keyboard_hide::before{content:'\e31a'}
+
+  .gb.gb_keyboard_return::before{content:'\e31b'}
+
+  .gb.gb_keyboard_tab::before{content:'\e31c'}
+
+  .gb.gb_keyboard_voice::before{content:'\e029'}
+
+  .gb.gb_kitchen::before{content:'\eb47'}
+
+  .gb.gb_label::before{content:'\e892'}
+
+  .gb.gb_label_outline::before{content:'\e893'}
+
+  .gb.gb_landscape::before{content:'\e3df'}
+
+  .gb.gb_language::before{content:'\e894'}
+
+  .gb.gb_laptop::before{content:'\e31e'}
+
+  .gb.gb_laptop_chromebook::before{content:'\e31f'}
+
+  .gb.gb_laptop_mac::before{content:'\e320'}
+
+  .gb.gb_laptop_windows::before{content:'\e321'}
+
+  .gb.gb_last_page::before{content:'\e5dd'}
+
+  .gb.gb_launch::before{content:'\e89e'}
+
+  .gb.gb_layers::before{content:'\e53b'}
+
+  .gb.gb_layers_clear::before{content:'\e53c'}
+
+  .gb.gb_leak_add::before{content:'\e3f8'}
+
+  .gb.gb_leak_remove::before{content:'\e3f9'}
+
+  .gb.gb_lens::before{content:'\e3a6'}
+
+  .gb.gb_lenzor::before{content: '\e193'}
+
+  .gb.gb_library_add::before{content:'\e02e'}
+
+  .gb.gb_library_books::before{content:'\e02f'}
+
+  .gb.gb_library_music::before{content:'\e030'}
+
+  .gb.gb_lightbulb_outline::before{content:'\e90f'}
+
+  .gb.gb_line_style::before{content:'\e919'}
+
+  .gb.gb_line_weight::before{content:'\e91a'}
+
+  .gb.gb_linear_scale::before{content:'\e260'}
+
+  .gb.gb_link::before{content:'\e250'}
+
+  .gb.gb_linked_camera::before{content:'\e438'}
+
+  .gb.gb_linkedin::before{content: '\e0bf'}
+
+  .gb.gb_list::before{content:'\e896'}
+
+  .gb.gb_live_help::before{content:'\e0c6'}
+
+  .gb.gb_live_tv::before{content:'\e639'}
+
+  .gb.gb_local_activity::before{content:'\e53f'}
+
+  .gb.gb_local_airport::before{content:'\e195'}
+
+  .gb.gb_local_atm::before{content:'\e53e'}
+
+  .gb.gb_local_bar::before{content:'\e540'}
+
+  .gb.gb_local_cafe::before{content:'\e541'}
+
+  .gb.gb_local_car_wash::before{content:'\e542'}
+
+  .gb.gb_local_convenience_store::before{content:'\e543'}
+
+  .gb.gb_local_dining::before{content:'\e556'}
+
+  .gb.gb_local_drink::before{content:'\e544'}
+
+  .gb.gb_local_florist::before{content:'\e545'}
+
+  .gb.gb_local_gas_station::before{content:'\e546'}
+
+  .gb.gb_local_grocery_store::before{content:'\e8cc'}
+
+  .gb.gb_local_hospital::before{content:'\e548'}
+
+  .gb.gb_local_hotel::before{content:'\e53a'}
+
+  .gb.gb_local_laundry_service::before{content:'\e54a'}
+
+  .gb.gb_local_library::before{content:'\e54b'}
+
+  .gb.gb_local_mall::before{content:'\e54c'}
+
+  .gb.gb_local_movies::before{content:'\e8da'}
+
+  .gb.gb_local_offer::before{content:'\e54e'}
+
+  .gb.gb_local_parking::before{content:'\e54f'}
+
+  .gb.gb_local_pharmacy::before{content:'\e550'}
+
+  .gb.gb_local_phone::before{content:'\e0b0'}
+
+  .gb.gb_local_pizza::before{content:'\e552'}
+
+  .gb.gb_local_play::before{content:'\e553'}
+
+  .gb.gb_local_post_office::before{content:'\e158'}
+
+  .gb.gb_local_printshop::before{content:'\e8ad'}
+
+  .gb.gb_local_see::before{content:'\e3b0'}
+
+  .gb.gb_local_shipping::before{content:'\e558'}
+
+  .gb.gb_local_taxi::before{content:'\e559'}
+
+  .gb.gb_location_city::before{content:'\e7f1'}
+
+  .gb.gb_location_disabled::before{content:'\e1b5'}
+
+  .gb.gb_location_off::before{content:'\e0c7'}
+
+  .gb.gb_location_on::before{content:'\e0c8'}
+
+  .gb.gb_location_searching::before{content:'\e1b4'}
+
+  .gb.gb_lock::before{content:'\e897'}
+
+  .gb.gb_lock_open::before{content:'\e898'}
+
+  .gb.gb_lock_outline::before{content:'\e899'}
+
+  .gb.gb_looks::before{content:'\e3fc'}
+
+  .gb.gb_looks_3::before{content:'\e3fb'}
+
+  .gb.gb_looks_4::before{content:'\e3fd'}
+
+  .gb.gb_looks_5::before{content:'\e3fe'}
+
+  .gb.gb_looks_6::before{content:'\e3ff'}
+
+  .gb.gb_looks_one::before{content:'\e400'}
+
+  .gb.gb_looks_two::before{content:'\e401'}
+
+  .gb.gb_loop::before{content:'\e028'}
+
+  .gb.gb_loupe::before{content:'\e402'}
+
+  .gb.gb_low_priority::before{content:'\e16d'}
+
+  .gb.gb_loyalty::before{content:'\e89a'}
+
+  .gb.gb_mail::before{content:'\e158'}
+
+  .gb.gb_mail_outline::before{content:'\e0e1'}
+
+  .gb.gb_map::before{content:'\e55b'}
+
+  .gb.gb_markunread::before{content:'\e158'}
+
+  .gb.gb_markunread_mailbox::before{content:'\e89b'}
+
+  .gb.gb_mellat::before{content:'\e0c3'}
+
+  .gb.gb_memory::before{content:'\e322'}
+
+  .gb.gb_menu::before{content:'\e5d2'}
+
+  .gb.gb_merge_type::before{content:'\e0b3'}
+
+  .gb.gb_message::before{content:'\e0c9'}
+
+  .gb.gb_mic::before{content:'\e029'}
+
+  .gb.gb_mic_none::before{content:'\e02a'}
+
+  .gb.gb_mic_off::before{content:'\e02b'}
+
+  .gb.gb_mms::before{content:'\e618'}
+
+  .gb.gb_mode_comment::before{content:'\e253'}
+
+  .gb.gb_mode_edit::before{content:'\e150'}
+
+  .gb.gb_monetization_on::before{content:'\e263'}
+
+  .gb.gb_money_off::before{content:'\e25c'}
+
+  .gb.gb_monochrome_photos::before{content:'\e403'}
+
+  .gb.gb_mood::before{content:'\e7f2'}
+
+  .gb.gb_mood_bad::before{content:'\e7f3'}
+
+  .gb.gb_more::before{content:'\e619'}
+
+  .gb.gb_more_horiz::before{content:'\e5d3'}
+
+  .gb.gb_more_vert::before{content:'\e5d4'}
+
+  .gb.gb_motorcycle::before{content:'\e91b'}
+
+  .gb.gb_mouse::before{content:'\e323'}
+
+  .gb.gb_move_to_inbox::before{content:'\e168'}
+
+  .gb.gb_movie::before{content:'\e02c'}
+
+  .gb.gb_movie_creation::before{content:'\e02c'}
+
+  .gb.gb_movie_filter::before{content:'\e43a'}
+
+  .gb.gb_multiline_chart::before{content:'\e6df'}
+
+  .gb.gb_music_note::before{content:'\e3a1'}
+
+  .gb.gb_music_video::before{content:'\e063'}
+
+  .gb.gb_my_location::before{content:'\e1b3'}
+
+  .gb.gb_myket::before{content: '\e252'}
+
+  .gb.gb_nature::before{content:'\e406'}
+
+  .gb.gb_nature_people::before{content:'\e407'}
+
+  .gb.gb_navigate_before::before{content:'\e314'}
+
+  .gb.gb_navigate_next::before{content:'\e315'}
+
+  .gb.gb_navigation::before{content:'\e55d'}
+
+  .gb.gb_near_me::before{content:'\e569'}
+
+  .gb.gb_network_cell::before{content:'\e1c8'}
+
+  .gb.gb_network_check::before{content:'\e640'}
+
+  .gb.gb_network_locked::before{content:'\e61a'}
+
+  .gb.gb_network_wifi::before{content:'\e1d8'}
+
+  .gb.gb_new_releases::before{content:'\e031'}
+
+  .gb.gb_next_week::before{content:'\e16a'}
+
+  .gb.gb_nfc::before{content:'\e1bb'}
+
+  .gb.gb_no_encryption::before{content:'\e641'}
+
+  .gb.gb_no_sim::before{content:'\e0cc'}
+
+  .gb.gb_not_interested::before{content:'\e033'}
+
+  .gb.gb_note::before{content:'\e06f'}
+
+  .gb.gb_note_add::before{content:'\e89c'}
+
+  .gb.gb_notifications::before{content:'\e7f4'}
+
+  .gb.gb_notifications_active::before{content:'\e7f7'}
+
+  .gb.gb_notifications_none::before{content:'\e7f5'}
+
+  .gb.gb_notifications_off::before{content:'\e7f6'}
+
+  .gb.gb_notifications_paused::before{content:'\e7f8'}
+
+  .gb.gb_offline_pin::before{content:'\e90a'}
+
+  .gb.gb_ondemand_video::before{content:'\e63a'}
+
+  .gb.gb_opacity::before{content:'\e91c'}
+
+  .gb.gb_open_in_browser::before{content:'\e89d'}
+
+  .gb.gb_open_in_new::before{content:'\e89e'}
+
+  .gb.gb_open_with::before{content:'\e89f'}
+
+  .gb.gb_pages::before{content:'\e7f9'}
+
+  .gb.gb_pageview::before{content:'\e8a0'}
+
+  .gb.gb_palette::before{content:'\e40a'}
+
+  .gb.gb_pan_tool::before{content:'\e925'}
+
+  .gb.gb_panorama::before{content:'\e40b'}
+
+  .gb.gb_panorama_fish_eye::before{content:'\e40c'}
+
+  .gb.gb_panorama_horizontal::before{content:'\e40d'}
+
+  .gb.gb_panorama_vertical::before{content:'\e40e'}
+
+  .gb.gb_panorama_wide_angle::before{content:'\e40f'}
+
+  .gb.gb_parsian::before{content:'\e1d9'}
+
+  .gb.gb_party_mode::before{content:'\e7fa'}
+
+  .gb.gb_pause::before{content:'\e034'}
+
+  .gb.gb_pause_circle_filled::before{content:'\e035'}
+
+  .gb.gb_pause_circle_outline::before{content:'\e036'}
+
+  .gb.gb_payment::before{content:'\e870'}
+
+  .gb.gb_people::before{content:'\e7fb'}
+
+  .gb.gb_people_outline::before{content:'\e7fc'}
+
+  .gb.gb_perm_camera_mic::before{content:'\e8a2'}
+
+  .gb.gb_perm_contact_calendar::before{content:'\e8a3'}
+
+  .gb.gb_perm_data_setting::before{content:'\e8a4'}
+
+  .gb.gb_perm_device_information::before{content:'\e8a5'}
+
+  .gb.gb_perm_identity::before{content:'\e7ff'}
+
+  .gb.gb_perm_media::before{content:'\e8a7'}
+
+  .gb.gb_perm_phone_msg::before{content:'\e8a8'}
+
+  .gb.gb_perm_scan_wifi::before{content:'\e8a9'}
+
+  .gb.gb_person::before{content:'\e7fd'}
+
+  .gb.gb_person_add::before{content:'\e7fe'}
+
+  .gb.gb_person_outline::before{content:'\e7ff'}
+
+  .gb.gb_person_pin::before{content:'\e55a'}
+
+  .gb.gb_person_pin_circle::before{content:'\e56a'}
+
+  .gb.gb_personal_video::before{content:'\e333'}
+
+  .gb.gb_pets::before{content:'\e91d'}
+
+  .gb.gb_phone::before{content:'\e0b0'}
+
+  .gb.gb_phone_android::before{content:'\e324'}
+
+  .gb.gb_phone_bluetooth_speaker::before{content:'\e61b'}
+
+  .gb.gb_phone_forwarded::before{content:'\e61c'}
+
+  .gb.gb_phone_in_talk::before{content:'\e61d'}
+
+  .gb.gb_phone_iphone::before{content:'\e325'}
+
+  .gb.gb_phone_locked::before{content:'\e61e'}
+
+  .gb.gb_phone_missed::before{content:'\e61f'}
+
+  .gb.gb_phone_paused::before{content:'\e620'}
+
+  .gb.gb_phonelink::before{content:'\e1b1'}
+
+  .gb.gb_phonelink_erase::before{content:'\e0db'}
+
+  .gb.gb_phonelink_lock::before{content:'\e0dc'}
+
+  .gb.gb_phonelink_off::before{content:'\e327'}
+
+  .gb.gb_phonelink_ring::before{content:'\e0dd'}
+
+  .gb.gb_phonelink_setup::before{content:'\e0de'}
+
+  .gb.gb_photo::before{content:'\e251'}
+
+  .gb.gb_photo_album::before{content:'\e411'}
+
+  .gb.gb_photo_camera::before{content:'\e3b0'}
+
+  .gb.gb_photo_filter::before{content:'\e43b'}
+
+  .gb.gb_photo_library::before{content:'\e413'}
+
+  .gb.gb_photo_size_select_actual::before{content:'\e40b'}
+
+  .gb.gb_photo_size_select_large::before{content:'\e433'}
+
+  .gb.gb_photo_size_select_small::before{content:'\e434'}
+
+  .gb.gb_picture_as_pdf::before{content:'\e415'}
+
+  .gb.gb_picture_in_picture::before{content:'\e8aa'}
+
+  .gb.gb_picture_in_picture_alt::before{content:'\e911'}
+
+  .gb.gb_pie_chart::before{content:'\e6c4'}
+
+  .gb.gb_pie_chart_outlined::before{content:'\e6c5'}
+
+  .gb.gb_pin_drop::before{content:'\e55e'}
+
+  .gb.gb_place::before{content:'\e55f'}
+
+  .gb.gb_play_arrow::before{content:'\e037'}
+
+  .gb.gb_play_circle_filled::before{content:'\e038'}
+
+  .gb.gb_play_circle_outline::before{content:'\e039'}
+
+  .gb.gb_play_for_work::before{content:'\e906'}
+
+  .gb.gb_playlist_add::before{content:'\e03b'}
+
+  .gb.gb_playlist_add_check::before{content:'\e065'}
+
+  .gb.gb_playlist_play::before{content:'\e05f'}
+
+  .gb.gb_plus_one::before{content:'\e800'}
+
+  .gb.gb_poll::before{content:'\e85c'}
+
+  .gb.gb_polymer::before{content:'\e8ab'}
+
+  .gb.gb_pool::before{content:'\eb48'}
+
+  .gb.gb_portable_wifi_off::before{content:'\e0ce'}
+
+  .gb.gb_portrait::before{content:'\e416'}
+
+  .gb.gb_power::before{content:'\e63c'}
+
+  .gb.gb_power_input::before{content:'\e336'}
+
+  .gb.gb_power_settings_new::before{content:'\e8ac'}
+
+  .gb.gb_pregnant_woman::before{content:'\e91e'}
+
+  .gb.gb_present_to_all::before{content:'\e0df'}
+
+  .gb.gb_print::before{content:'\e8ad'}
+
+  .gb.gb_priority_high::before{content:'\e645'}
+
+  .gb.gb_public::before{content:'\e80b'}
+
+  .gb.gb_publish::before{content:'\e255'}
+
+  .gb.gb_query_builder::before{content:'\e8b5'}
+
+  .gb.gb_question_answer::before{content:'\e8af'}
+
+  .gb.gb_queue::before{content:'\e03c'}
+
+  .gb.gb_queue_music::before{content:'\e03d'}
+
+  .gb.gb_queue_play_next::before{content:'\e066'}
+
+  .gb.gb_radio::before{content:'\e03e'}
+
+  .gb.gb_radio_button_checked::before{content:'\e837'}
+
+  .gb.gb_radio_button_unchecked::before{content:'\e836'}
+
+  .gb.gb_rasaneh::before{content:'\e1b9'}
+
+  .gb.gb_rate_review::before{content:'\e560'}
+
+  .gb.gb_receipt::before{content:'\e8b0'}
+
+  .gb.gb_recent_actors::before{content:'\e03f'}
+
+  .gb.gb_record_voice_over::before{content:'\e91f'}
+
+  .gb.gb_redeem::before{content:'\e8b1'}
+
+  .gb.gb_redo::before{content:'\e15a'}
+
+  .gb.gb_refresh::before{content:'\e5d5'}
+
+  .gb.gb_remove::before{content:'\e15b'}
+
+  .gb.gb_remove_circle::before{content:'\e644'}
+
+  .gb.gb_remove_circle_outline::before{content:'\e15d'}
+
+  .gb.gb_remove_from_queue::before{content:'\e067'}
+
+  .gb.gb_remove_red_eye::before{content:'\e8f4'}
+
+  .gb.gb_remove_shopping_cart::before{content:'\e928'}
+
+  .gb.gb_reorder::before{content:'\e8fe'}
+
+  .gb.gb_repeat::before{content:'\e040'}
+
+  .gb.gb_repeat_one::before{content:'\e041'}
+
+  .gb.gb_replay::before{content:'\e042'}
+
+  .gb.gb_replay_10::before{content:'\e059'}
+
+  .gb.gb_replay_30::before{content:'\e05a'}
+
+  .gb.gb_replay_5::before{content:'\e05b'}
+
+  .gb.gb_reply::before{content:'\e15e'}
+
+  .gb.gb_reply_all::before{content:'\e15f'}
+
+  .gb.gb_report::before{content:'\e160'}
+
+  .gb.gb_report_problem::before{content:'\e002'}
+
+  .gb.gb_restaurant::before{content:'\e56c'}
+
+  .gb.gb_restaurant_menu::before{content:'\e556'}
+
+  .gb.gb_restore::before{content:'\e8b3'}
+
+  .gb.gb_restore_page::before{content:'\e929'}
+
+  .gb.gb_ring_volume::before{content:'\e0d1'}
+
+  .gb.gb_room::before{content:'\e55f'}
+
+  .gb.gb_room_service::before{content:'\eb49'}
+
+  .gb.gb_rotate_90_degrees_ccw::before{content:'\e418'}
+
+  .gb.gb_rotate_left::before{content:'\e419'}
+
+  .gb.gb_rotate_right::before{content:'\e41a'}
+
+  .gb.gb_rounded_corner::before{content:'\e920'}
+
+  .gb.gb_router::before{content:'\e328'}
+
+  .gb.gb_rowing::before{content:'\e921'}
+
+  .gb.gb_rss_feed::before{content:'\e0e5'}
+
+  .gb.gb_rv_hookup::before{content:'\e642'}
+
+  .gb.gb_saman::before{content:'\e1b7'}
+
+  .gb.gb_satellite::before{content:'\e562'}
+
+  .gb.gb_save::before{content:'\e161'}
+
+  .gb.gb_scanner::before{content:'\e329'}
+
+  .gb.gb_schedule::before{content:'\e8b5'}
+
+  .gb.gb_school::before{content:'\e80c'}
+
+  .gb.gb_screen_lock_landscape::before{content:'\e1be'}
+
+  .gb.gb_screen_lock_portrait::before{content:'\e1bf'}
+
+  .gb.gb_screen_lock_rotation::before{content:'\e1c0'}
+
+  .gb.gb_screen_rotation::before{content:'\e1c1'}
+
+  .gb.gb_screen_share::before{content:'\e0e2'}
+
+  .gb.gb_sd_card::before{content:'\e1c2'}
+
+  .gb.gb_sd_storage::before{content:'\e1c2'}
+
+  .gb.gb_search::before{content:'\e8b6'}
+
+  .gb.gb_security::before{content:'\e32a'}
+
+  .gb.gb_select_all::before{content:'\e162'}
+
+  .gb.gb_send::before{content:'\e163'}
+
+  .gb.gb_sentiment_dissatisfied::before{content:'\e811'}
+
+  .gb.gb_sentiment_neutral::before{content:'\e812'}
+
+  .gb.gb_sentiment_satisfied::before{content:'\e813'}
+
+  .gb.gb_sentiment_very_dissatisfied::before{content:'\e814'}
+
+  .gb.gb_sentiment_very_satisfied::before{content:'\e815'}
+
+  .gb.gb_settings::before{content:'\e8b8'}
+
+  .gb.gb_settings_applications::before{content:'\e8b9'}
+
+  .gb.gb_settings_backup_restore::before{content:'\e8ba'}
+
+  .gb.gb_settings_bluetooth::before{content:'\e8bb'}
+
+  .gb.gb_settings_brightness::before{content:'\e8bd'}
+
+  .gb.gb_settings_cell::before{content:'\e8bc'}
+
+  .gb.gb_settings_ethernet::before{content:'\e8be'}
+
+  .gb.gb_settings_input_antenna::before{content:'\e8bf'}
+
+  .gb.gb_settings_input_component::before{content:'\e8c0'}
+
+  .gb.gb_settings_input_composite::before{content:'\e8c0'}
+
+  .gb.gb_settings_input_hdmi::before{content:'\e8c2'}
+
+  .gb.gb_settings_input_svideo::before{content:'\e8c3'}
+
+  .gb.gb_settings_overscan::before{content:'\e8c4'}
+
+  .gb.gb_settings_phone::before{content:'\e8c5'}
+
+  .gb.gb_settings_power::before{content:'\e8c6'}
+
+  .gb.gb_settings_remote::before{content:'\e8c7'}
+
+  .gb.gb_settings_system_daydream::before{content:'\e1c3'}
+
+  .gb.gb_settings_voice::before{content:'\e8c8'}
+
+  .gb.gb_share::before{content:'\e80d'}
+
+  .gb.gb_shop::before{content:'\e8c9'}
+
+  .gb.gb_shop_two::before{content:'\e8ca'}
+
+  .gb.gb_shopping_basket::before{content:'\e8cb'}
+
+  .gb.gb_shopping_cart::before{content:'\e8cc'}
+
+  .gb.gb_short_text::before{content:'\e261'}
+
+  .gb.gb_show_chart::before{content:'\e6e1'}
+
+  .gb.gb_shuffle::before{content:'\e043'}
+
+  .gb.gb_signal_cellular_4_bar::before{content:'\e1c8'}
+
+  .gb.gb_signal_cellular_connected_no_internet_4_bar::before{content:'\e1cd'}
+
+  .gb.gb_signal_cellular_no_sim::before{content:'\e1ce'}
+
+  .gb.gb_signal_cellular_null::before{content:'\e1cf'}
+
+  .gb.gb_signal_cellular_off::before{content:'\e1d0'}
+
+  .gb.gb_signal_wifi_4_bar::before{content:'\e1d8'}
+
+  .gb.gb_signal_wifi_4_bar_lock::before{content:'\e1e1'}
+
+  .gb.gb_signal_wifi_off::before{content:'\e1da'}
+
+  .gb.gb_sim_card::before{content:'\e32b'}
+
+  .gb.gb_sim_card_alert::before{content:'\e624'}
+
+  .gb.gb_skip_next::before{content:'\e044'}
+
+  .gb.gb_skip_previous::before{content:'\e045'}
+
+  .gb.gb_skype::before{content:'\e1ac'}
+
+  .gb.gb_slideshare::before{content:'\e1ad'}
+
+  .gb.gb_slideshow::before{content:'\e41b'}
+
+  .gb.gb_slow_motion_video::before{content:'\e068'}
+
+  .gb.gb_smartphone::before{content:'\e0d4'}
+
+  .gb.gb_smoke_free::before{content:'\eb4a'}
+
+  .gb.gb_smoking_rooms::before{content:'\eb4b'}
+
+  .gb.gb_sms::before{content:'\e625'}
+
+  .gb.gb_sms_failed::before{content:'\e85a'}
+
+  .gb.gb_snooze::before{content:'\e046'}
+
+  .gb.gb_sort::before{content:'\e164'}
+
+  .gb.gb_sort_by_alpha::before{content:'\e053'}
+
+  .gb.gb_spa::before{content:'\eb4c'}
+
+  .gb.gb_space_bar::before{content:'\e256'}
+
+  .gb.gb_speaker::before{content:'\e32d'}
+
+  .gb.gb_speaker_group::before{content:'\e32e'}
+
+  .gb.gb_speaker_notes::before{content:'\e8cd'}
+
+  .gb.gb_speaker_notes_off::before{content:'\e92a'}
+
+  .gb.gb_speaker_phone::before{content:'\e0d2'}
+
+  .gb.gb_spellcheck::before{content:'\e8ce'}
+
+  .gb.gb_star::before{content:'\e838'}
+
+  .gb.gb_star_border::before{content:'\e83a'}
+
+  .gb.gb_star_half::before{content:'\e839'}
+
+  .gb.gb_stars::before{content:'\e8d0'}
+
+  .gb.gb_stay_current_landscape::before{content:'\e0d3'}
+
+  .gb.gb_stay_current_portrait::before{content:'\e0d4'}
+
+  .gb.gb_stay_primary_landscape::before{content:'\e0d3'}
+
+  .gb.gb_stay_primary_portrait::before{content:'\e0d4'}
+
+  .gb.gb_stop::before{content:'\e047'}
+
+  .gb.gb_stop_screen_share::before{content:'\e0e3'}
+
+  .gb.gb_storage::before{content:'\e1db'}
+
+  .gb.gb_store::before{content:'\e8d1'}
+
+  .gb.gb_store_mall_directory::before{content:'\e8d1'}
+
+  .gb.gb_straighten::before{content:'\e41c'}
+
+  .gb.gb_streetview::before{content:'\e56e'}
+
+  .gb.gb_strikethrough_s::before{content:'\e257'}
+
+  .gb.gb_style::before{content:'\e41d'}
+
+  .gb.gb_subdirectory_arrow_left::before{content:'\e5d9'}
+
+  .gb.gb_subdirectory_arrow_right::before{content:'\e5da'}
+
+  .gb.gb_subject::before{content:'\e8d2'}
+
+  .gb.gb_subscriptions::before{content:'\e064'}
+
+  .gb.gb_subtitles::before{content:'\e048'}
+
+  .gb.gb_subway::before{content:'\e56f'}
+
+  .gb.gb_supervisor_account::before{content:'\e7fb'}
+
+  .gb.gb_surround_sound::before{content:'\e049'}
+
+  .gb.gb_swap_calls::before{content:'\e0d7'}
+
+  .gb.gb_swap_horiz::before{content:'\e8d4'}
+
+  .gb.gb_swap_vert::before{content:'\e8d5'}
+
+  .gb.gb_swap_vertical_circle::before{content:'\e8d6'}
+
+  .gb.gb_switch_camera::before{content:'\e41e'}
+
+  .gb.gb_switch_video::before{content:'\e41f'}
+
+  .gb.gb_sync::before{content:'\e028'}
+
+  .gb.gb_sync_disabled::before{content:'\e628'}
+
+  .gb.gb_sync_problem::before{content:'\e629'}
+
+  .gb.gb_system_update::before{content:'\e62a'}
+
+  .gb.gb_system_update_alt::before{content:'\e8d7'}
+
+  .gb.gb_tab::before{content:'\e8d8'}
+
+  .gb.gb_tab_unselected::before{content:'\e8d9'}
+
+  .gb.gb_tablet::before{content:'\e32f'}
+
+  .gb.gb_tablet_android::before{content:'\e330'}
+
+  .gb.gb_tablet_mac::before{content:'\e331'}
+
+  .gb.gb_tag_faces::before{content:'\e7f2'}
+
+  .gb.gb_tap_and_play::before{content:'\e62b'}
+
+  .gb.gb_telegram::before{content: '\e1a5'}
+
+  .gb.gb_terrain::before{content:'\e3df'}
+
+  .gb.gb_text_fields::before{content:'\e262'}
+
+  .gb.gb_text_format::before{content:'\e165'}
+
+  .gb.gb_textsms::before{content:'\e625'}
+
+  .gb.gb_texture::before{content:'\e421'}
+
+  .gb.gb_theaters::before{content:'\e8da'}
+
+  .gb.gb_thumb_down::before{content:'\e8db'}
+
+  .gb.gb_thumb_up::before{content:'\e8dc'}
+
+  .gb.gb_thumbs_up_down::before{content:'\e8dd'}
+
+  .gb.gb_time_to_leave::before{content:'\e531'}
+
+  .gb.gb_timelapse::before{content:'\e422'}
+
+  .gb.gb_timeline::before{content:'\e922'}
+
+  .gb.gb_timer::before{content:'\e425'}
+
+  .gb.gb_timer_10::before{content:'\e423'}
+
+  .gb.gb_timer_3::before{content:'\e424'}
+
+  .gb.gb_timer_off::before{content:'\e426'}
+
+  .gb.gb_title::before{content:'\e264'}
+
+  .gb.gb_toc::before{content:'\e8de'}
+
+  .gb.gb_today::before{content:'\e8df'}
+
+  .gb.gb_toll::before{content:'\e8e0'}
+
+  .gb.gb_tonality::before{content:'\e427'}
+
+  .gb.gb_touch_app::before{content:'\e913'}
+
+  .gb.gb_toys::before{content:'\e332'}
+
+  .gb.gb_track_changes::before{content:'\e8e1'}
+
+  .gb.gb_traffic::before{content:'\e565'}
+
+  .gb.gb_train::before{content:'\e570'}
+
+  .gb.gb_tram::before{content:'\e571'}
+
+  .gb.gb_transfer_within_a_station::before{content:'\e572'}
+
+  .gb.gb_transform::before{content:'\e428'}
+
+  .gb.gb_translate::before{content:'\e8e2'}
+
+  .gb.gb_trending_down::before{content:'\e8e3'}
+
+  .gb.gb_trending_flat::before{content:'\e8e4'}
+
+  .gb.gb_trending_up::before{content:'\e8e5'}
+
+  .gb.gb_tune::before{content:'\e429'}
+
+  .gb.gb_turned_in::before{content:'\e866'}
+
+  .gb.gb_turned_in_not::before{content:'\e867'}
+
+  .gb.gb_tv::before{content:'\e333'}
+
+  .gb.gb_twitter::before{content: '\e0cd'}
+
+  .gb.gb_unarchive::before{content:'\e169'}
+
+  .gb.gb_undo::before{content:'\e166'}
+
+  .gb.gb_unfold_less::before{content:'\e5d6'}
+
+  .gb.gb_unfold_more::before{content:'\e5d7'}
+
+  .gb.gb_update::before{content:'\e923'}
+
+  .gb.gb_usb::before{content:'\e1e0'}
+
+  .gb.gb_verified_user::before{content:'\e8e8'}
+
+  .gb.gb_vertical_align_bottom::before{content:'\e258'}
+
+  .gb.gb_vertical_align_center::before{content:'\e259'}
+
+  .gb.gb_vertical_align_top::before{content:'\e25a'}
+
+  .gb.gb_vibration::before{content:'\e62d'}
+
+  .gb.gb_video_call::before{content:'\e070'}
+
+  .gb.gb_video_label::before{content:'\e071'}
+
+  .gb.gb_video_library::before{content:'\e04a'}
+
+  .gb.gb_videocam::before{content:'\e04b'}
+
+  .gb.gb_videocam_off::before{content:'\e04c'}
+
+  .gb.gb_videogame_asset::before{content:'\e338'}
+
+  .gb.gb_view_agenda::before{content:'\e8e9'}
+
+  .gb.gb_view_array::before{content:'\e8ea'}
+
+  .gb.gb_view_carousel::before{content:'\e8eb'}
+
+  .gb.gb_view_column::before{content:'\e8ec'}
+
+  .gb.gb_view_comfy::before{content:'\e42a'}
+
+  .gb.gb_view_compact::before{content:'\e42b'}
+
+  .gb.gb_view_day::before{content:'\e8ed'}
+
+  .gb.gb_view_headline::before{content:'\e8ee'}
+
+  .gb.gb_view_list::before{content:'\e8ef'}
+
+  .gb.gb_view_module::before{content:'\e8f0'}
+
+  .gb.gb_view_quilt::before{content:'\e8f1'}
+
+  .gb.gb_view_stream::before{content:'\e8f2'}
+
+  .gb.gb_view_week::before{content:'\e8f3'}
+
+  .gb.gb_vignette::before{content:'\e435'}
+
+  .gb.gb_visibility::before{content:'\e8f4'}
+
+  .gb.gb_visibility_off::before{content:'\e8f5'}
+
+  .gb.gb_voice_chat::before{content:'\e62e'}
+
+  .gb.gb_voicemail::before{content:'\e0d9'}
+
+  .gb.gb_volume_down::before{content:'\e04d'}
+
+  .gb.gb_volume_mute::before{content:'\e04e'}
+
+  .gb.gb_volume_off::before{content:'\e04f'}
+
+  .gb.gb_volume_up::before{content:'\e050'}
+
+  .gb.gb_vpn_key::before{content:'\e0da'}
+
+  .gb.gb_vpn_lock::before{content:'\e62f'}
+
+  .gb.gb_wallpaper::before{content:'\e1bc'}
+
+  .gb.gb_warning::before{content:'\e002'}
+
+  .gb.gb_watch::before{content:'\e334'}
+
+  .gb.gb_watch_later::before{content:'\e924'}
+
+  .gb.gb_wb_auto::before{content:'\e42c'}
+
+  .gb.gb_wb_cloudy::before{content:'\e2bd'}
+
+  .gb.gb_wb_incandescent::before{content:'\e42e'}
+
+  .gb.gb_wb_iridescent::before{content:'\e436'}
+
+  .gb.gb_wb_sunny::before{content:'\e430'}
+
+  .gb.gb_wc::before{content:'\e63d'}
+
+  .gb.gb_web::before{content:'\e051'}
+
+  .gb.gb_web_asset::before{content:'\e069'}
+
+  .gb.gb_weekend::before{content:'\e16b'}
+
+  .gb.gb_whatsapp::before{content:'\e1ae'}
+
+  .gb.gb_whatshot::before{content:'\e80e'}
+
+  .gb.gb_widgets::before{content:'\e1bd'}
+
+  .gb.gb_wifi::before{content:'\e63e'}
+
+  .gb.gb_wifi_lock::before{content:'\e1e1'}
+
+  .gb.gb_wifi_tethering::before{content:'\e1e2'}
+
+  .gb.gb_windows::before{content: '\e0d5'}
+
+  .gb.gb_work::before{content:'\e8f9'}
+
+  .gb.gb_wrap_text::before{content:'\e25b'}
+
+  .gb.gb_youtube_searched_for::before{content:'\e8fa'}
+
+  .gb.gb_zoom_in::before{content:'\e8ff'}
+
+  .gb.gb_zoom_out::before{content:'\e900'}
+
+  .gb.gb_zoom_out_map::before{content:'\e56b'}

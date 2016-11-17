@@ -1,0 +1,12 @@
+{
+	"name": "\u0631\u0646\u06af\u0640\u200c\u0628\u0631\u0646\u062f",
+	"icons": [
+		{
+			"src": "\/android-chrome-192x192.png?v2.0=xQo7mAxWw0",
+			"sizes": "192x192",
+			"type": "image\/png"
+		}
+	],
+	"theme_color": "#9c27b0",
+	"display": "standalone"
+}
