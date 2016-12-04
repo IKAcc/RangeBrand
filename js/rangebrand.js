@@ -134,6 +134,7 @@ var jqxhr = $.getJSON( "https://raw.githubusercontent.com/IKAcc/RangeBrand/maste
                   '<div id="failed" class="joqd align-center">' +
                      '<i class="gb gb_warning gb_s48 joqd grey-lighten-1-text"></i>' +
                      '<p class="joqd grey-lighten-1-text no-margin">متاسفانه نتیجه‌ای یافت نشد</p>' +
+                     '<a href="https://github.com/IKAcc/RangeBrand/issues" title="ایشوهای رنگـ‌برند در گیتهاب" class="joqd link small purple-text purple-darken-2-text-hover" target="_blank">درخواست اضافه شدن این برند را دهید!</a>' +
                   '</div>'
                )
             }

@@ -1,3 +1,5 @@
+.no-margin{margin: 0;}
+
 body{
   position: relative;
   min-height: 100vh}
@@ -174,9 +176,9 @@ footer #links ul li{
 
 #failed{padding: 48px 0}
 
-#loading > .white{
-  height: 300px;
-  }
+#failed a{font-size: 12px}
+
+#loading > .white{height: 300px;}
 
 .loader{
   position: absolute;
