@@ -65,9 +65,11 @@ var jqxhr = $.getJSON( "https://raw.githubusercontent.com/IKAcc/RangeBrand/maste
    		if (temp == 1) {
    			colorType = 'HEX'
    		} else if (temp == 2) {
+   			colorType = 'RGB'
+   		} else if (temp == 3) {
    			colorType = 'CSS'
    		} else {
-   			colorType = 'RGB'
+   			colorType = 'LESS'
    		}
 
    	});
@@ -79,6 +81,8 @@ var jqxhr = $.getJSON( "https://raw.githubusercontent.com/IKAcc/RangeBrand/maste
    			colorCode = rgb2hex(colorCode);
    		} else if (colorType == 'CSS'){
    			colorCode = '.' + colorClass
+   		} else if (colorType == 'LESS'){
+   			colorCode = '@' + colorClass
    		} else {
    			colorCode = colorCode;
    		};
