@@ -18,7 +18,7 @@ var jqxhr = $.getJSON( "https://raw.githubusercontent.com/IKAcc/RangeBrand/maste
 
        colors +=
          '<div class="joqd soft-corner colorWrapper" style="width: ' + (100 / brand.colors.length) + '%">' +
-           '<div class="joqd soft-corner align-center rb rb-' + color + ' color"></div>' +
+           '<div class="joqd soft-corner align-center rb-' + color + ' color"></div>' +
          '</div>'
      }
 
@@ -78,13 +78,13 @@ var jqxhr = $.getJSON( "https://raw.githubusercontent.com/IKAcc/RangeBrand/maste
    		if (colorType == 'HEX') {
    			colorCode = rgb2hex(colorCode);
    		} else if (colorType == 'CSS'){
-   			colorCode = '.rb .' + colorClass
+   			colorCode = '.' + colorClass
    		} else {
    			colorCode = colorCode;
    		};
 
    		return '<div class="joqd soft-corner colorWrapper open">\
-   					<div class="joqd soft-corner color align-center rb '+ colorClass +'" lang="en">\
+   					<div class="joqd soft-corner color align-center '+ colorClass +'" lang="en">\
    						<span class="joqd white-text">'+ colorCode +'</span>\
    					</div>\
    				</div>';
