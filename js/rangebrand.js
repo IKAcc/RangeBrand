@@ -1,4 +1,4 @@
-var jqxhr = $.getJSON( "https://raw.githubusercontent.com/IKAcc/RangeBrand/master/json/rangebrand.json", function(rangebrand) {
+var jqxhr = $.getJSON( "http://ikacc.ir/rangebrand/rangebrand.json", function(rangebrand) {
    console.log( "Done" );
 
    var data = "";
@@ -174,12 +174,12 @@ var jqxhr = $.getJSON( "https://raw.githubusercontent.com/IKAcc/RangeBrand/maste
 
     var failed =
        '<div id="failed" class="joqd align-center">' +
-         '<i class="gb gb_github gb_s48 joqd grey-lighten-1-text"></i>' +
-         '<p class="joqd grey-lighten-1-text no-margin">ارتباط با گیتهاب برقرار نشد.<br><a href="javascript:location.reload()" class="joqd link purple-text purple-darken-2-text-hover small" title="بارگزاری مجدد صفحه">دوباره سعی کنید</a></p>' +
+         '<i class="gb gb_settings_remote gb_s48 joqd grey-lighten-1-text"></i>' +
+         '<p class="joqd grey-lighten-1-text no-margin">ارتباط با سرور ایکا برقرار نشد.<br><a href="javascript:location.reload()" class="joqd link purple-text purple-darken-2-text-hover small" title="بارگزاری مجدد صفحه">دوباره سعی کنید</a></p>' +
        '</div>';
 
     $('body').toast({
-      content: '<strong class="joqd white-text">خطا!</strong></br>ارتباط با گیتهاب برقرار نشد.',
+      content: '<strong class="joqd white-text">خطا!</strong></br>ارتباط با سرور ایکا برقرار نشد.',
       backgroundColor: 'red-darken-1'
     })
 
