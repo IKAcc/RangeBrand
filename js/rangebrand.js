@@ -93,6 +93,8 @@ var jqxhr = $.getJSON( "https://raw.githubusercontent.com/IKAcc/RangeBrand/maste
    // Mouse In and Out effects
  	$('.color').on('mouseenter' ,function(){
 
+      $('#brands').find('.colorWrapper.open').remove();
+
  		var colorCode = $(this).css('background-color');
  		var colorClass = String($(this).attr("class").match(/rb-[a-z0-9\-]*/));
 
