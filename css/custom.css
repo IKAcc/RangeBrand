@@ -102,7 +102,7 @@ a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
   -webkit-transition: color 0.2s ease-out 0s;
      -moz-transition: color 0.2s ease-out 0s;
        -o-transition: color 0.2s ease-out 0s;
-      transition: color 0.2s ease-out 0s;}
+         transition: color 0.2s ease-out 0s;}
 
 #colorType label:hover{
   color: #424242;
@@ -179,6 +179,36 @@ footer #links ul li{
 #failed a{font-size: 12px}
 
 #loading > .white{height: 300px;}
+
+#IKAads a{
+   display: block;
+   overflow: hidden;
+   padding: 6px;
+   margin-top: 24px;
+   border-color: rgba(255, 255, 255, .57)}
+
+#IKAads a img{
+   float: right;
+   width: 65px}
+
+#IKAads a span{
+   font-size: 12px;
+   width: calc(100% - 65px); height: 65px;
+   float: left;
+   padding: 0 12px;
+   overflow: hidden;
+   color: rgba(255, 255, 255, .67);
+   -webkit-transition: color 0.2s ease-out 0s;
+      -moz-transition: color 0.2s ease-out 0s;
+        -o-transition: color 0.2s ease-out 0s;
+           transition: color 0.2s ease-out 0s;}
+
+#IKAads a:hover span{color: rgba(255, 255, 255, .87)}
+
+#IKAads a span b{
+   display: block;
+   margin-bottom: 5px;
+   color: rgba(255, 255, 255, .87)}
 
 .loader{
   position: absolute;
