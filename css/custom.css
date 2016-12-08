@@ -115,17 +115,17 @@ a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
 
 #colorType input[type="radio"]{display: none;}
 
-.brand{padding: 12px}
+.brand{padding: 6px 12px}
 
-.brand .names{
-  display: table;
-  padding-bottom: 0 !important;}
+.brand .names{padding: 10px 12px !important}
 
-.brand .names .nameWrapper{
-  display: table-cell;
-  vertical-align: middle;}
+.brand .h4{
+   overflow-x: hidden;
+   white-space: nowrap;
+   text-overflow: "..";
+   margin-bottom: 0;}
 
-.brand .h4{margin-bottom: 4px;}
+.brand .h4:first-of-type{padding-bottom: 4px}
 
 .brand .colors{padding: 12px 6px !important;}
 

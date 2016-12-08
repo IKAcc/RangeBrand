@@ -28,10 +28,8 @@ var jqxhr = $.getJSON( "http://ikacc.ir/rangebrand/rangebrand.json", function(ra
        '<div class="joqd brand row thin-bottom-border grey-lighten-3-border" data-tags="' + tags + '">' +
 
          '<div class="joqd names desktop-3 laptop-3 tablet-12 mobile-12">' +
-           '<div class="joqd nameWrapper">' +
-             '<p class="joqd h4">' + brand.name_fa + '</p>' +
-             '<p class="joqd h4 align-right" lang="en">' + brand.name_en + '</p>' +
-           '</div>' +
+          '<p class="joqd h4">' + brand.name_fa + '</p>' +
+          '<p class="joqd h4 align-right" lang="en">' + brand.name_en + '</p>' +
          '</div>' +
 
          '<div class="joqd colors desktop-9 laptop-9 tablet-12 mobile-12">' +
