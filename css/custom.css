@@ -1,75 +1,75 @@
-.no-margin{margin: 0;}
+.no-margin{margin: 0}
 
 body{
   position: relative;
   min-height: 100vh}
 
-main{margin-bottom: 72px;}
+main{margin-bottom: 72px}
 
 @media screen and (max-width: 991px) {
-   main{margin-bottom: 115px;}
+   main{margin-bottom: 115px}
 }
 
 
-#logoWrapper{padding: 33px 12px;}
+#logoWrapper{padding: 33px 12px}
 
 #mainLogo{
   font-size: 60px;
   margin: 0 0 10px 0;
-  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);}
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3)}
 
 #subtitleLogo,
 #announceWrapper{
   font-size: 12px;
-  opacity: 0.8;}
+  opacity: 0.8}
 
-#announceWrapper{padding: 5px 12px 9px 0;}
+#announceWrapper{padding: 5px 12px 9px 0}
 
 .thin{font-weight: 400 !important}
 
 .hidden{display: none}
 
-#buttons .buttonWrapper:nth-child(2n){padding: 6px 0 12px 6px;}
+#buttons .buttonWrapper:nth-child(2n){padding: 6px 0 12px 6px}
 
-#buttons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 12px 0;}
+#buttons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 12px 0}
 
-#buttons .buttonWrapper:first-child{padding: 12px 0 6px 0;}
+#buttons .buttonWrapper:first-child{padding: 12px 0 6px 0}
 
-#smallButtons .buttonWrapper:nth-child(2n){padding: 6px 0 6px 6px;}
+#smallButtons .buttonWrapper:nth-child(2n){padding: 6px 0 6px 6px}
 
-#smallButtons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 6px 0;}
+#smallButtons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 6px 0}
 
-#smallButtons .buttonWrapper:first-child{padding: 6px 0;}
+#smallButtons .buttonWrapper:first-child{padding: 6px 0}
 
 @media screen and (min-width: 992px) and (max-width: 1199px) {
   #buttons .buttonWrapper{
       padding: 12px 0 0 !important;
-      margin-bottom: -6px;}
+      margin-bottom: -6px}
 }
 
 @media screen and (min-width:768px) and (max-width: 991px) {
 
-   #smallButtons .buttonWrapper:nth-child(2n){padding: 6px;}
+   #smallButtons .buttonWrapper:nth-child(2n){padding: 6px}
 
-   #smallButtons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 6px 0;}
+   #smallButtons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 6px 0}
 
-   #smallButtons .buttonWrapper:first-child{padding: 6px 0 6px 6px;}
+   #smallButtons .buttonWrapper:first-child{padding: 6px 0 6px 6px}
 }
 
-a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
+a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3)}
 
 #search,
 #brands,
-#loading{padding: 12px 0;}
+#loading{padding: 12px 0}
 
-#searchField{position: relative;}
+#searchField{position: relative}
 
 #searchField input[type="submit"],
 #searchField a{
 	font-size: 24px;
 	position: absolute;
 	top: 12px;
-   padding: 12px;}
+   padding: 12px}
 
 #searchField input[type="submit"]{
    right: 12px;
@@ -82,7 +82,7 @@ a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
 #searchField a{
 	left: 12px;
 	margin: -12px;
-	font-size: 35px;}
+	font-size: 35px}
 
 #searchField a i{display: block}
 
@@ -90,24 +90,24 @@ a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
 	width: 100%;
 	font-size: 18px;
 	padding: 17px 70px;
-	outline: 0;}
+	outline: 0}
 
 ::-webkit-input-placeholder{
 	color: #9e9e9e !important;
-	opacity: 1;}
+	opacity: 1}
 :-moz-placeholder{
 	color: #9e9e9e !important;
-	opacity: 1;}
+	opacity: 1}
 ::-moz-placeholder{
 	color: #9e9e9e !important;
-	opacity: 1;}
+	opacity: 1}
 :-ms-input-placeholder{
 	color: #9e9e9e !important;
-	opacity: 1;}
+	opacity: 1}
 
 #colorType{
   padding: 0 12px;
-  text-align: right !important;}
+  text-align: right !important}
 
 #colorType label{
   font-size:12px;
@@ -118,18 +118,18 @@ a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
   -webkit-transition: color 0.2s ease-out 0s;
      -moz-transition: color 0.2s ease-out 0s;
        -o-transition: color 0.2s ease-out 0s;
-         transition: color 0.2s ease-out 0s;}
+         transition: color 0.2s ease-out 0s}
 
 #colorType label:hover{
   color: #424242;
-  cursor: pointer;}
+  cursor: pointer}
 
 #colorType input[type="radio"]:checked + label {
   text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.8);
   border-bottom: 2px solid #9c27b0;
-  color: black;}
+  color: black}
 
-#colorType input[type="radio"]{display: none;}
+#colorType input[type="radio"]{display: none}
 
 .brand{padding: 6px 12px}
 
@@ -139,72 +139,72 @@ a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
    overflow: hidden;
    white-space: nowrap;
    text-overflow: "..";
-   margin-bottom: 0;}
+   margin-bottom: 0}
 
 .brand .h4:first-of-type{padding-bottom: 4px}
 
-.brand .colors{padding: 12px 6px !important;}
+.brand .colors{padding: 12px 6px !important}
 
 .brand .colors .colorWrapper{
   padding: 0 6px;
-  float: right;}
+  float: right}
 
 .brand .colors .colorWrapper.open{
   position: absolute;
   padding-left: 18px;
-  width: 100% !important;}
+  width: 100% !important}
 
 .brand .colors .colorWrapper .color{
   height: 40px;
   display: table;
-  width: 100%;}
+  width: 100%}
 
 .brand .colors .colorWrapper .color span.white-text{
   display: table-cell;
   vertical-align: middle;
-  visibility: hidden;}
+  visibility: hidden}
 
-.brand .colors .colorWrapper.open .color span.white-text{visibility: visible;}
+.brand .colors .colorWrapper.open .color span.white-text{visibility: visible}
 
 footer{
   position: absolute;
   bottom: 0; right: 0;
-  padding: 2px 0px;}
+  padding: 2px 0px}
 
-footer p{margin: 0px;}
+footer p{margin: 0px}
 
 footer #copyright img{
   float: right;
   height: 32px;
-  width: auto;}
+  width: auto}
 
-footer #copyright p{padding: 6px 42px;}
+footer #copyright p{padding: 6px 42px}
 
 footer #links ul{
   padding: 0px;
   margin: -2px 0px;
-  list-style: none;}
+  list-style: none}
 
 footer #links ul li{
   padding: 6px 13px;
   font-size: 14px;
-  float: left;}
+  float: left}
 
 @media screen and (max-width:767px) {
-   footer #links ul{margin: -12px 0 0;}
+   footer #links ul{margin: -12px 0 0}
 
    footer #links ul li{
       padding: 6px 0;
       font-size: 12px;
       text-align: center;
-      width: 20%;}
+      width: 20%}
 }
 
 #failed{padding: 48px 0}
 
 #failed a{font-size: 12px}
 
-#loading > .white{height: 300px;}
+#loading > .white{height: 300px}
 
 #IKAads a{
    display: block;
@@ -227,7 +227,7 @@ footer #links ul li{
    -webkit-transition: color 0.2s ease-out 0s;
       -moz-transition: color 0.2s ease-out 0s;
         -o-transition: color 0.2s ease-out 0s;
-           transition: color 0.2s ease-out 0s;}
+           transition: color 0.2s ease-out 0s}
 
 #IKAads a:hover span{color: rgba(255, 255, 255, .87)}
 
@@ -241,20 +241,20 @@ footer #links ul li{
   margin: auto;
   right: 0; left: 0;
   top: 100px; bottom: 0;
-  width: 100px; height: 100px;}
+  width: 100px; height: 100px}
 
 .circular{
  animation: rotate 2s linear infinite;
  height: 100px;
  position: relative;
- width: 100px;}
+ width: 100px}
 
 .path{
   stroke-dasharray: 1,200;
   stroke-dashoffset: 0;
   animation: dash 1.5s ease-in-out infinite;
   stroke: #9c27b0;
-  stroke-linecap: round;}
+  stroke-linecap: round}
 
 @keyframes rotate{
   100%{
