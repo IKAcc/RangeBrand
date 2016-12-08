@@ -30,15 +30,15 @@ main{margin-bottom: 72px;}
 
 #buttons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 12px 0;}
 
+#smallButtons .buttonWrapper:first-child{padding: 6px 0 !important;}
+
+#smallButtons .buttonWrapper:nth-child(2n){padding: 6px 0 6px 6px;}
+
+#smallButtons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 6px 0;}
+
 @media screen and (max-width: 1199px){
   #buttons .buttonWrapper{padding: 12px 0px 6px 0px !important;}
 }
-
-#smallButtons .buttonWrapper:first-child{padding: 12px 0 12px 6px !important;}
-
-#smallButtons .buttonWrapper:nth-child(2n){padding: 12px 6px 12px 6px;}
-
-#smallButtons .buttonWrapper:nth-child(2n+1){padding: 12px 6px 12px 0;}
 
 a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
 
@@ -120,7 +120,7 @@ a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
 .brand .names{padding: 10px 12px !important}
 
 .brand .h4{
-   overflow-x: hidden;
+   overflow: hidden;
    white-space: nowrap;
    text-overflow: "..";
    margin-bottom: 0;}
