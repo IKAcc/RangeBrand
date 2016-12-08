@@ -6,6 +6,11 @@ body{
 
 main{margin-bottom: 72px;}
 
+@media screen and (max-width: 991px) {
+   main{margin-bottom: 115px;}
+}
+
+
 #logoWrapper{padding: 33px 12px;}
 
 #mainLogo{
@@ -24,20 +29,31 @@ main{margin-bottom: 72px;}
 
 .hidden{display: none}
 
-#buttons .buttonWrapper:first-child{padding: 12px 0 6px 0 !important;}
-
 #buttons .buttonWrapper:nth-child(2n){padding: 6px 0 12px 6px;}
 
 #buttons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 12px 0;}
 
-#smallButtons .buttonWrapper:first-child{padding: 6px 0 !important;}
+#buttons .buttonWrapper:first-child{padding: 12px 0 6px 0;}
 
 #smallButtons .buttonWrapper:nth-child(2n){padding: 6px 0 6px 6px;}
 
 #smallButtons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 6px 0;}
 
-@media screen and (max-width: 1199px){
-  #buttons .buttonWrapper{padding: 12px 0px 6px 0px !important;}
+#smallButtons .buttonWrapper:first-child{padding: 6px 0;}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  #buttons .buttonWrapper{
+      padding: 12px 0 0 !important;
+      margin-bottom: -6px;}
+}
+
+@media screen and (min-width:768px) and (max-width: 991px) {
+
+   #smallButtons .buttonWrapper:nth-child(2n){padding: 6px;}
+
+   #smallButtons .buttonWrapper:nth-child(2n+1){padding: 6px 6px 6px 0;}
+
+   #smallButtons .buttonWrapper:first-child{padding: 6px 0 6px 6px;}
 }
 
 a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3);}
@@ -173,6 +189,16 @@ footer #links ul li{
   padding: 6px 13px;
   font-size: 14px;
   float: left;}
+
+@media screen and (max-width:767px) {
+   footer #links ul{margin: -12px 0 0;}
+
+   footer #links ul li{
+      padding: 6px 0;
+      font-size: 12px;
+      text-align: center;
+      width: 20%;}
+}
 
 #failed{padding: 48px 0}
 
