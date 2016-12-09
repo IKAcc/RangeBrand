@@ -10,7 +10,7 @@
 	* Range Brand - Official Color Codes for Famous Brands in Iran
 
 	* RangeBrand.css - http://rangebrand.ir
-	* Version - 1.3
+	* Version - 1.4
 	* Licensed under the MIT license - http://opensource.org/licenses/MIT
 
 	* Created by @JavidIzadfar, @setarekarimi1 and @Mehrnooshdsht
@@ -506,6 +506,9 @@
 .rb-alis-2-text{color: #96c11f}
 .rb-alis-3-text{color: #53bb96}
 .rb-alis-4-text{color: #0e71b8}
+
+.rb-farsi1{backgorund-color:  #00aeb0}
+.rb-farsi1{color:  #00aeb0}
 
 .rb-firefox-1{background-color: #e66000}
 .rb-firefox-2{background-color: #ff9500}

@@ -683,6 +683,13 @@
       "#0e71b8"
     ]
   },
+  "farsi1": {
+    "name_en": "Farsi1",
+    "name_fa": "فارسی‌۱",
+    "colors": [
+      "#00aeb0"
+    ]
+  },
   "firefox": {
     "name_en": "Firefox",
     "name_fa": "فایرفاکس",
