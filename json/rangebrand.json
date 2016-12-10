@@ -416,6 +416,14 @@
       "#20c4f7"
     ]
   },
+  "technameh": {
+    "name_en": "Technameh",
+    "name_fa": "تکنامه",
+    "colors": [
+      "#80197e",
+      "#ff5400"
+    ]
+  },
   "telegram": {
     "name_en": "Telegram",
     "name_fa": "تلگرام",
