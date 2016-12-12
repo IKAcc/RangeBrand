@@ -1162,5 +1162,12 @@
     "colors": [
       "#ed1b24"
     ]
+  },
+  "youtube": {
+    "name_en": "Youtube",
+    "name_fa": "یوتیوب",
+    "colors": [
+      "#cd201f"
+    ]
   }
 }
