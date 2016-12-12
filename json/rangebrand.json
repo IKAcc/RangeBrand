@@ -858,6 +858,13 @@
       "#e71a2d"
     ]
   },
+  "goodreads": {
+    "name_en": "Goodreads",
+    "name_fa": "گودریدز",
+    "colors": [
+      "#553b08"
+    ]
+  },
   "google": {
     "name_en": "Google",
     "name_fa": "گوگل",
