@@ -84,6 +84,13 @@
       "#aa0146"
     ]
   },
+  "elecomp": {
+    "name_en": "Elecomp",
+    "name_fa": "الکامپ",
+    "colors": [
+      "#9b1c53"
+    ]
+  },
   "amazon": {
     "name_en": "Amazon",
     "name_fa": "آمازون",
