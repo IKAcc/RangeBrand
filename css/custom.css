@@ -209,36 +209,6 @@ footer #links ul li{
 
 #loading > .white{height: 300px}
 
-#IKAads a{
-   display: block;
-   overflow: hidden;
-   padding: 6px;
-   margin-top: 24px;
-   border-color: rgba(255, 255, 255, .57)}
-
-#IKAads a img{
-   float: right;
-   width: 65px}
-
-#IKAads a span{
-   font-size: 12px;
-   width: calc(100% - 65px); height: 65px;
-   float: left;
-   padding: 0 12px;
-   overflow: hidden;
-   color: rgba(255, 255, 255, .67);
-   -webkit-transition: color 0.2s ease-out 0s;
-      -moz-transition: color 0.2s ease-out 0s;
-        -o-transition: color 0.2s ease-out 0s;
-           transition: color 0.2s ease-out 0s}
-
-#IKAads a:hover span{color: rgba(255, 255, 255, .87)}
-
-#IKAads a span b{
-   display: block;
-   margin-bottom: 5px;
-   color: rgba(255, 255, 255, .87)}
-
 .loader{
   position: absolute;
   margin: auto;
@@ -278,4 +248,5 @@ footer #links ul li{
     stroke-dashoffset: -124;
     }
   }
-}
+
+#IKAads a.hq{display:block;overflow:hidden;outline:none;padding:6px;margin-top:24px;border-radius:4px;border:solid 1px}#IKAads a.hq.hq-light{border-color:rgba(255,255,255,.57)}#IKAads a.hq.hq-dark{border-color:rgba(0,0,0,.57)}#IKAads a.hq.hq-lnd img{float:right;width:65px}#IKAads a.hq.hq-lnd span{float:left;width:calc(100% - 65px);height:60px;padding:0 12px;margin-bottom:5px;overflow:hidden;font-size:12px;transition:color .2s ease-out 0}#IKAads a.hq.hq-light span{color:rgba(255,255,255,.67)}#IKAads a.hq.hq-light:hover span{color:rgba(255,255,255,.87)}#IKAads a.hq.hq-dark span{color:rgba(0,0,0,.67)}#IKAads a.hq.hq-dark:hover span{color:rgba(0,0,0,.87)}
