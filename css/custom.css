@@ -13,6 +13,8 @@ main{margin-bottom: 72px}
 
 #logoWrapper{padding: 33px 12px}
 
+#logoWrapper > .desktop-9 > a {display: inline-block}
+
 #mainLogo{
   font-size: 60px;
   margin: 0 0 10px 0;
