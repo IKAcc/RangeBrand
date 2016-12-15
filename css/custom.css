@@ -139,9 +139,10 @@ a.button{text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.3)}
    overflow: hidden;
    white-space: nowrap;
    text-overflow: "..";
-   margin-bottom: 0}
+   margin-bottom: 0;
+   padding-bottom: 4px}
 
-.brand .h4:first-of-type{padding-bottom: 4px}
+.brand .h4:last-of-type{margin-bottom: 4px}
 
 .brand .colors{padding: 12px 6px !important}
 
