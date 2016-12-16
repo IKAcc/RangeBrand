@@ -391,6 +391,13 @@
       "#ffee00"
     ]
   },
+  "playstation": {
+    "name_en": "PlayStation",
+    "name_fa": "پلی‌استیشن",
+    "colors": [
+      "#003087"
+    ]
+  },
   "pooneh": {
     "name_en": "Pooneh",
     "name_fa": "پونه",
