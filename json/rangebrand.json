@@ -213,6 +213,13 @@
       "#e50000"
     ]
   },
+  "xbox": {
+    "name_en": "XBox",
+    "name_fa": "ایکس‌‌باکس",
+    "colors": [
+      "#52b043"
+    ]
+  },
   "instagram": {
     "name_en": "Instagram",
     "name_fa": "اینستاگرام",
