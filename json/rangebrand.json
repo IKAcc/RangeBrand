@@ -55,6 +55,14 @@
       "#8e8e93"
     ]
   },
+  "snapp": {
+    "name_en": "Snapp",
+    "name_fa": "اسنپ",
+    "colors": [
+      "#04acbc",
+      "#324e6a"
+    ]
+  },
   "adobe": {
     "name_en": "Adobe",
     "name_fa": "ادوبی",
@@ -74,6 +82,13 @@
     "colors": [
       "#72797f",
       "#aa0146"
+    ]
+  },
+  "elecomp": {
+    "name_en": "Elecomp",
+    "name_fa": "الکامپ",
+    "colors": [
+      "#9b1c53"
     ]
   },
   "amazon": {
@@ -198,6 +213,13 @@
       "#e50000"
     ]
   },
+  "xbox": {
+    "name_en": "XBox",
+    "name_fa": "ایکس‌‌باکس",
+    "colors": [
+      "#52b043"
+    ]
+  },
   "instagram": {
     "name_en": "Instagram",
     "name_fa": "اینستاگرام",
@@ -230,7 +252,7 @@
     ]
   },
   "bank-parsian": {
-    "name_e": "Parsian Bank",
+    "name_en": "Parsian Bank",
     "name_fa": "بانک پارسیان",
     "colors": [
       "#B17D57",
@@ -369,6 +391,13 @@
       "#ffee00"
     ]
   },
+  "playstation": {
+    "name_en": "PlayStation",
+    "name_fa": "پلی‌استیشن",
+    "colors": [
+      "#003087"
+    ]
+  },
   "pooneh": {
     "name_en": "Pooneh",
     "name_fa": "پونه",
@@ -385,11 +414,25 @@
       "#6c9b40"
     ]
   },
+  "pinterest": {
+    "name_en": "Pinterest",
+    "name_fa": "پینترست",
+    "colors": [
+      "#bd081c"
+    ]
+  },
   "peivast": {
     "name_en": "Peivast",
     "name_fa": "پیوست",
     "colors": [
       "#0aaddb"
+    ]
+  },
+  "tumblr": {
+    "name_en": "Tumblr",
+    "name_fa": "تامبلر",
+    "colors": [
+      "#35465c"
     ]
   },
   "tohfe": {
@@ -409,11 +452,26 @@
       "#ff5a5f"
     ]
   },
+  "tap30": {
+    "name_en": "Tap30",
+    "name_fa": "تپ‌۳۰",
+    "colors": [
+      "#1f9fda"
+    ]
+  },
   "taskulu": {
     "name_en": "Taskulu",
     "name_fa": "تسکولو",
     "colors": [
       "#20c4f7"
+    ]
+  },
+  "technameh": {
+    "name_en": "Technameh",
+    "name_fa": "تکنامه",
+    "colors": [
+      "#80197e",
+      "#ff5400"
     ]
   },
   "telegram": {
@@ -683,6 +741,13 @@
       "#0e71b8"
     ]
   },
+  "farsi1": {
+    "name_en": "Farsi1",
+    "name_fa": "فارسی‌۱",
+    "colors": [
+      "#00aeb0"
+    ]
+  },
   "firefox": {
     "name_en": "Firefox",
     "name_fa": "فایرفاکس",
@@ -829,6 +894,13 @@
       "#e71a2d"
     ]
   },
+  "goodreads": {
+    "name_en": "Goodreads",
+    "name_fa": "گودریدز",
+    "colors": [
+      "#553b08"
+    ]
+  },
   "google": {
     "name_en": "Google",
     "name_fa": "گوگل",
@@ -956,6 +1028,13 @@
       "#9F1936"
     ]
   },
+  "majid-online": {
+    "name_en": "Majid Online",
+    "name_fa": "مجید آنلاین",
+    "colors": [
+      "#ff5951"
+    ]
+  },
   "mazmaz": {
     "name_en": "MazMaz",
     "name_fa": "مزمز",
@@ -979,6 +1058,19 @@
       "#c13832",
       "#d7d3c8",
       "#4d4e53"
+    ]
+  },
+  "manoto": {
+  "name_en": "manoto",
+  "name_fa": "منوتو",
+  "colors": [
+    "#f5b81a",
+    "#1c5dc5",
+    "#ff4f00",
+    "#8ec71c",
+    "#0cb2b7",
+    "#df1cb7",
+    "#ce0b33"
     ]
   },
   "midas": {
@@ -1083,6 +1175,13 @@
       "#eb7400"
     ]
   },
+  "hamyarwp": {
+    "name_en": "Hamyar Wordpress",
+    "name_fa": "همیار وردپرس",
+    "colors": [
+      "#f44336"
+    ]
+  },
   "iranair": {
     "name_en": "IranAir Airlines",
     "name_fa": "هواپیمایی ایران‌ایر",
@@ -1126,6 +1225,13 @@
     "name_fa": "یک و یک",
     "colors": [
       "#ed1b24"
+    ]
+  },
+  "youtube": {
+    "name_en": "Youtube",
+    "name_fa": "یوتیوب",
+    "colors": [
+      "#cd201f"
     ]
   }
 }
