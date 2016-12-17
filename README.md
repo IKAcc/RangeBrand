@@ -14,27 +14,19 @@
 <p dir="rtl">ما از هر نوع مشارکتی، توسط هر شخصی، حمایت می‌کنیم. لطفا <a href="https://github.com/IKAcc/RangeBrand/blob/master/CONTRIBUTING.md">راهنمای مشارکت</a> را مطالعه کنید. در این راهنما، چگونگی درخواست دادن اضافه کردن برند، بدست آورد رنگ(های) برند، اعلام باگ و یا دادن ایده‌ها توضیح داده شده.</p>
 
 <h2 dir="rtl">استفاده</h2>
-<p dir="rtl">برای استفاده از CSS رنگ‌برند در یک پروژه وب، می‌تونید به صورت زیر عمل کنید:</p>
-<p dir="rtl">۱. رنگ‌برند رو دانلود کنید:</p>
-<p dir="rtl">۲. فایل RangeBrand.css یا RangeBrand.min.css رو به برگه اضافه کنید:</p>
+<h3 dir="rtl">less</h3>
+```css
+@import 'path/to/rangebrand.less'
+
+.an-element{
+   color: @tb-taskulu;
+}```
+<h3 dir="rtl">css</h3>
 ```html
-<!-- RangeBrand CSS -->
-    <link href="css/rangebrand.css" rel="stylesheet">
-```
-<p dir="rtl">یا</p>
+  <link rel="stylesheet" href="path/to/rangebrand.min.css">`
 
-```html    
-<!-- RangeBrand Minified CSS -->
-    <link href="css/rangebrand.min.css" rel="stylesheet">   
-```
-<p dir="rtl">۳. وقتی می‌خواهید عنصری (elementـی) رنگ یک برند خاصی رو به خودش بگیره (مثلا در اینجا رنگ برند تسکولو) باید کلاس‌های rb و rb-taskulu رو به اون عنصر اضافه کنید:</p>
-```html    
-<div class="rb rb-taskulu">
-  <p>اینجا همرنگ تسکولو خواهد بود</p>
-</div> 
-```
-
-
+   <div class="rb-taskulu">بخشی با رنگ پس‌زمینه‌ی تسکولو</div>
+   <span class="rb-taskulu-text">نوشته‌ای به رنگ تسکولو</span>```
 
 <h2 dir="rtl">خالقین</h2>
 <ul dir="rtl">
