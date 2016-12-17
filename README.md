@@ -20,13 +20,15 @@
 
 .an-element{
    color: @tb-taskulu;
-}```
+}
+```
 <h3 dir="rtl">css</h3>
 ```html
-  <link rel="stylesheet" href="path/to/rangebrand.min.css">`
+  <link rel="stylesheet" href="path/to/rangebrand.min.css">
 
    <div class="rb-taskulu">بخشی با رنگ پس‌زمینه‌ی تسکولو</div>
-   <span class="rb-taskulu-text">نوشته‌ای به رنگ تسکولو</span>```
+   <span class="rb-taskulu-text">نوشته‌ای به رنگ تسکولو</span>
+```
 
 <h2 dir="rtl">خالقین</h2>
 <ul dir="rtl">
