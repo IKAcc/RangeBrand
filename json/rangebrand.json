@@ -1233,5 +1233,14 @@
     "colors": [
       "#cd201f"
     ]
-  }
+  },
+  "opensuse": {
+    "name_en": "OpenSUSE",
+    "name_fa": "اوپن سوزه",
+    "colors": [
+     "#2b2e2c",
+     "#00662b"
+     ]
 }
+
+
