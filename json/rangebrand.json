@@ -686,6 +686,14 @@
       "#FF5B00"
     ]
   },
+  "setak": {
+    "name_en": "Setak",
+    "name_fa": "ستاک",
+    "colors": [
+      "#0d9f56",
+      "#8dda3f"
+    ]
+  },
   "salam-donya": {
     "name_en": "Salam Donya!",
     "name_fa": "سلام دنیا!",
