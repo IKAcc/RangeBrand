@@ -640,6 +640,20 @@
       "#dd0200"
     ]
   },
+  "dmond": {
+    "name_en": "Dmond",
+    "name_fa": "دیموند",
+    "colors": [
+      "#00aabb",
+      "#024e90",
+      "#252e7b",
+      "#49af1f",
+      "#f6e600",
+      "#f8cc00",
+      "#f50000",
+      "#a20000",
+    ]
+  },
   "rolan": {
     "name_en": "Rolan",
     "name_fa": "رولان",
