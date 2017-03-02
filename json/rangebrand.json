@@ -1099,17 +1099,17 @@
     ]
   },
   "manoto": {
-  "name_en": "manoto",
-  "name_fa": "منوتو",
-  "colors": [
-    "#f5b81a",
-    "#1c5dc5",
-    "#ff4f00",
-    "#8ec71c",
-    "#0cb2b7",
-    "#df1cb7",
-    "#ce0b33"
-    ]
+    "name_en": "manoto",
+    "name_fa": "منوتو",
+    "colors": [
+      "#f5b81a",
+      "#1c5dc5",
+      "#ff4f00",
+      "#8ec71c",
+      "#0cb2b7",
+      "#df1cb7",
+      "#ce0b33"
+      ]
   },
   "midas": {
     "name_en": "Midas",
@@ -1276,8 +1276,8 @@
     "name_en": "OpenSUSE",
     "name_fa": "اوپن سوزه",
     "colors": [
-     "#2b2e2c",
-     "#00662b"
-     ]
+      "#2b2e2c",
+      "#00662b"
+    ]
    }
 }
