@@ -384,6 +384,13 @@
       "#ed1e24"
     ]
   },
+  "payping": {
+    "name_en": "Payping",
+    "name_fa": "پی‌پینگ",
+    "colors": [
+      "#009cde"
+    ]
+  },
   "pepsi": {
     "name_en": "Pepsi",
     "name_fa": "پپسی",
