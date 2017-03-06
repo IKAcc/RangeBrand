@@ -292,6 +292,14 @@
       "#0070b9"
     ]
   },
+  "bank-karafarin": {
+    "name_en": "Karafarin Bank",
+    "name_fa": "بانک کارآفرین",
+    "colors": [
+      "#d4af64",
+      "#2f7747"
+    ]
+  },
   "bank-maskan": {
     "name_en": "Maskan Bank",
     "name_fa": "بانک مسکن",
