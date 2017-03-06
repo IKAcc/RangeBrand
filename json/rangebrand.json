@@ -283,6 +283,15 @@
       "#2F4A98"
     ]
   },
+  "bank-saman": {
+    "name_en": "Saman Bank",
+    "name_fa": "بانک سامان",
+    "colors": [
+      "#7cd0f4",
+      "#00a8e7",
+      "#0070b9"
+    ]
+  },
   "bank-maskan": {
     "name_en": "Maskan Bank",
     "name_fa": "بانک مسکن",
