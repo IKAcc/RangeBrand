@@ -260,6 +260,14 @@
       "#6e6e6e"
     ]
   },
+  "bank-en": {
+    "name_en": "Eghtesad Novin Bank",
+    "name_fa": "بانک اقتصاد نوین",
+    "colors": [
+      "#97199a",
+      "#c60610"
+    ]
+  },
   "bank-parsian": {
     "name_en": "Parsian Bank",
     "name_fa": "بانک پارسیان",
