@@ -795,6 +795,16 @@
       "#f26322"
     ]
   },
+  "sheypoor": {
+    "name_en": "Sheypoor",
+    "name_fa": "شیپور",
+    "colors": [
+      "#0077c0",
+      "#02abec",
+      "#8dc641",
+      "#fa9416"
+    ]
+  },
   "sehat": {
     "name_en": "Sehat",
     "name_fa": "صحت",
