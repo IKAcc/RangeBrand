@@ -361,6 +361,17 @@
       "#ec1b24"
     ]
   },
+  "bmw": {
+    "name_en": "BMW",
+    "name_fa": "ب ام و",
+    "colors": [
+      "#f5f6fc",
+      "#2e9bda",
+      "#2d9cdb",
+      "#8ca3b1",
+      "#111010"
+    ]
+  },
   "biscuit-madar": {
     "name_en": "Madar Biscuit",
     "name_fa": "بیسکویت مادر",
