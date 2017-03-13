@@ -842,6 +842,13 @@
       "#002147"
     ]
   },
+  "ferrari": {
+    "name_en": "Ferrari",
+    "name_fa": "فراری",
+    "colors": [
+      "#e32119"
+    ]
+  },
   "farassoo": {
     "name_en": "Farassoo",
     "name_fa": "فراسو",
