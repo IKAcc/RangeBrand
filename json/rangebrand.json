@@ -898,6 +898,14 @@
       "#ee7f06"
     ]
   },
+  "volkswagen": {
+    "name_en": "Volkswagen",
+    "name_fa": "فولکس‌واگن",
+    "colors": [
+      "#0057a7",
+      "#aebac0"
+    ]
+  },
   "firooz": {
     "name_en": "Firooz",
     "name_fa": "فیروز",
