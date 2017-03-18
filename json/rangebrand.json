@@ -1096,6 +1096,15 @@
       "#e68523"
     ]
   },
+  "linux-mint": {
+    "name_en": "Linux Mint",
+    "name_fa": "لینوکس مینت",
+    "colors": [
+      "#7dbe3b",
+      "#87cf3e",
+      "#bfff80"
+    ]
+  },
   "madiran": {
     "name_en": "Madiran",
     "name_fa": "مادیران",
