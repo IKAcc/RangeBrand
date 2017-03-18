@@ -106,6 +106,15 @@
       "#a4c639"
     ]
   },
+  "avatech": {
+    "name_en": "Avatch",
+    "name_fa": "آواتک",
+    "colors": [
+      "#90c646",
+      "#ffa800",
+      "#45b2cb"
+    ]
+  },
   "avazeh": {
     "name_en": "Avazeh",
     "name_fa": "آوازه",
@@ -251,6 +260,14 @@
       "#6e6e6e"
     ]
   },
+  "bank-en": {
+    "name_en": "Eghtesad Novin Bank",
+    "name_fa": "بانک اقتصاد نوین",
+    "colors": [
+      "#97199a",
+      "#c60610"
+    ]
+  },
   "bank-parsian": {
     "name_en": "Parsian Bank",
     "name_fa": "بانک پارسیان",
@@ -272,6 +289,23 @@
     "name_fa": "بانک تجارت‌",
     "colors": [
       "#2F4A98"
+    ]
+  },
+  "bank-saman": {
+    "name_en": "Saman Bank",
+    "name_fa": "بانک سامان",
+    "colors": [
+      "#7cd0f4",
+      "#00a8e7",
+      "#0070b9"
+    ]
+  },
+  "bank-karafarin": {
+    "name_en": "Karafarin Bank",
+    "name_fa": "بانک کارآفرین",
+    "colors": [
+      "#d4af64",
+      "#2f7747"
     ]
   },
   "bank-maskan": {
@@ -327,6 +361,17 @@
       "#ec1b24"
     ]
   },
+  "bmw": {
+    "name_en": "BMW",
+    "name_fa": "ب ام و",
+    "colors": [
+      "#f5f6fc",
+      "#2e9bda",
+      "#2d9cdb",
+      "#8ca3b1",
+      "#111010"
+    ]
+  },
   "biscuit-madar": {
     "name_en": "Madar Biscuit",
     "name_fa": "بیسکویت مادر",
@@ -373,6 +418,13 @@
     "colors": [
       "#ed1e24",
       "#ed1e24"
+    ]
+  },
+  "payping": {
+    "name_en": "Payping",
+    "name_fa": "پی‌پینگ",
+    "colors": [
+      "#009cde"
     ]
   },
   "pepsi": {
@@ -472,6 +524,14 @@
     "colors": [
       "#80197e",
       "#ff5400"
+    ]
+  },
+  "takdane": {
+    "name_en": "Takdane",
+    "name_fa": "تکدانه",
+    "colors": [
+      "#f31828",
+      "#ffc927"
     ]
   },
   "telegram": {
@@ -576,6 +636,14 @@
       "#178d4d"
     ]
   },
+  "divar": {
+    "name_en": "Divar",
+    "name_fa": "دیوار",
+    "colors": [
+      "#c42127",
+      "#595a5c"
+    ]
+  },
   "dropbox": {
     "name_en": "Dropbox",
     "name_fa": "دراپ‌باکس",
@@ -631,6 +699,20 @@
       "#dd0200"
     ]
   },
+  "dmond": {
+    "name_en": "Dmond",
+    "name_fa": "دیموند",
+    "colors": [
+      "#00aabb",
+      "#024e90",
+      "#252e7b",
+      "#49af1f",
+      "#f6e600",
+      "#f8cc00",
+      "#f50000",
+      "#a20000"
+    ]
+  },
   "rolan": {
     "name_en": "Rolan",
     "name_fa": "رولان",
@@ -675,6 +757,14 @@
     "name_fa": "سایپا",
     "colors": [
       "#FF5B00"
+    ]
+  },
+  "setak": {
+    "name_en": "Setak",
+    "name_fa": "ستاک",
+    "colors": [
+      "#0d9f56",
+      "#8dda3f"
     ]
   },
   "salam-donya": {
@@ -724,6 +814,16 @@
       "#f26322"
     ]
   },
+  "sheypoor": {
+    "name_en": "Sheypoor",
+    "name_fa": "شیپور",
+    "colors": [
+      "#0077c0",
+      "#02abec",
+      "#8dc641",
+      "#fa9416"
+    ]
+  },
   "sehat": {
     "name_en": "Sehat",
     "name_fa": "صحت",
@@ -761,11 +861,26 @@
       "#002147"
     ]
   },
+  "ferrari": {
+    "name_en": "Ferrari",
+    "name_fa": "فراری",
+    "colors": [
+      "#e32119"
+    ]
+  },
   "farassoo": {
     "name_en": "Farassoo",
     "name_fa": "فراسو",
     "colors": [
       "#00a6d6"
+    ]
+  },
+  "faranesh": {
+    "name_en": "Faranesh",
+    "name_fa": "فرانش",
+    "colors": [
+      "#004667",
+      "#239ED8"
     ]
   },
   "farsh-farrahi": {
@@ -782,6 +897,21 @@
     "colors": [
       "#0063dc",
       "#6ecdec"
+    ]
+  },
+  "fanap": {
+    "name_en": "Fanap",
+    "name_fa": "فناپ",
+    "colors": [
+      "#ee7f06"
+    ]
+  },
+  "volkswagen": {
+    "name_en": "Volkswagen",
+    "name_fa": "فولکس‌واگن",
+    "colors": [
+      "#0057a7",
+      "#aebac0"
     ]
   },
   "firooz": {
@@ -974,6 +1104,15 @@
       "#e68523"
     ]
   },
+  "linux-mint": {
+    "name_en": "Linux Mint",
+    "name_fa": "لینوکس مینت",
+    "colors": [
+      "#7dbe3b",
+      "#87cf3e",
+      "#bfff80"
+    ]
+  },
   "madiran": {
     "name_en": "Madiran",
     "name_fa": "مادیران",
@@ -1061,17 +1200,17 @@
     ]
   },
   "manoto": {
-  "name_en": "manoto",
-  "name_fa": "منوتو",
-  "colors": [
-    "#f5b81a",
-    "#1c5dc5",
-    "#ff4f00",
-    "#8ec71c",
-    "#0cb2b7",
-    "#df1cb7",
-    "#ce0b33"
-    ]
+    "name_en": "manoto",
+    "name_fa": "منوتو",
+    "colors": [
+      "#f5b81a",
+      "#1c5dc5",
+      "#ff4f00",
+      "#8ec71c",
+      "#0cb2b7",
+      "#df1cb7",
+      "#ce0b33"
+      ]
   },
   "midas": {
     "name_en": "Midas",
@@ -1238,9 +1377,8 @@
     "name_en": "OpenSUSE",
     "name_fa": "اوپن سوزه",
     "colors": [
-     "#2b2e2c",
-     "#00662b"
-     ]
+      "#2b2e2c",
+      "#00662b"
+    ]
+   }
 }
-
-

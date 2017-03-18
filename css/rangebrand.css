@@ -1,22 +1,22 @@
- /*
+/*
 
-	██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗    ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗
-	██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗
-	██████╔╝███████║██╔██╗ ██║██║  ███╗█████╗      ██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║
-	██╔══██╗██╔══██║██║╚██╗██║██║   ██║██╔══╝      ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║
-	██║  ██║██║  ██║██║ ╚████║╚██████╔╝███████╗    ██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝
-	╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
+ ██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗    ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗
+ ██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝    ██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗
+ ██████╔╝███████║██╔██╗ ██║██║  ███╗█████╗      ██████╔╝██████╔╝███████║██╔██╗ ██║██║  ██║
+ ██╔══██╗██╔══██║██║╚██╗██║██║   ██║██╔══╝      ██╔══██╗██╔══██╗██╔══██║██║╚██╗██║██║  ██║
+ ██║  ██║██║  ██║██║ ╚████║╚██████╔╝███████╗    ██████╔╝██║  ██║██║  ██║██║ ╚████║██████╔╝
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝
 
-	* Range Brand - Official Color Codes for Famous Brands in Iran
+ * Range Brand - Official Color Codes for Famous Brands in Iran
 
-	* RangeBrand.css - http://rangebrand.ir
-	* Version - 1.4
-	* Licensed under the MIT license - http://opensource.org/licenses/MIT
+ * RangeBrand.css - http://rangebrand.ir
+ * Version - 1.5
+ * Licensed under the MIT license - http://opensource.org/licenses/MIT
 
-	* Created by @JavidIzadfar, @setarekarimi1 and @Mehrnooshdsht
-	* Copyright (c) 2016 IKA Computing Club - http://ikacc.ir
+ * Created by @JavidIzadfar, @setarekarimi1 and @Mehrnooshdsht
+ * Copyright (c) 2016-2017 IKA Computing Club - http://ikacc.ir
 
- */
+*/
 
 .rb-apadana-1{background-color: #f8c301}
 .rb-apadana-2{background-color: #da251c}
@@ -28,7 +28,6 @@
 .rb-apadana-3-text{color: #4cb034}
 .rb-apadana-4-text{color: #007cc2}
 .rb-apadana-5-text{color: #dd127b}
-
 
 .rb-aparat-1{background-color: #ed145b}
 .rb-aparat-2{background-color: #231f20}
@@ -112,10 +111,17 @@
 .rb-android{background-color: #a4c639}
 .rb-android-text{color: #a4c639}
 
+.rb-avatech-1{background-color: #90c646}
+.rb-avatech-2{background-color: #ffa800}
+.rb-avatech-3{background-color: #45b2cb}
+.rb-avatech-1-text{color: #90c646}
+.rb-avatech-2-text{color: #ffa800}
+.rb-avatech-3-text{color: #45b2cb}
+
 .rb-avazeh-1{background-color: #e41d24}
-.rb-avazeh-2{background-color: #ffd304}
+.rb-avazeh-2{background-color: #e41d24}
 .rb-avazeh-1-text{color: #e41d24}
-.rb-avazeh-2-text{color: #ffd304}
+.rb-avazeh-2-text{color: #e41d24}
 
 .rb-aidin-1{background-color: #ff0028}
 .rb-aidin-2{background-color: #d0ab50}
@@ -178,33 +184,33 @@
 .rb-asus{background-color: #22448f}
 .rb-asus-text{color: #22448f}
 
- .rb-xbox{background-color: #52b043}
- .rb-xbox-text{color: #52b043}
-
 .rb-xvision-1{background-color: #00358c}
 .rb-xvision-2{background-color: #e50000}
 .rb-xvision-1-text{color: #00358c}
 .rb-xvision-2-text{color: #e50000}
 
+.rb-xbox{background-color: #52b043}
+.rb-xbox-text{color: #52b043}
+
 .rb-instagram-1{background-color: #405de6}
-.rb-instagram-1-text{color: #405de6}
 .rb-instagram-2{background-color: #5851db}
-.rb-instagram-2-text{color: #5851db}
 .rb-instagram-3{background-color: #833ab4}
-.rb-instagram-3-text{color: #833ab4}
 .rb-instagram-4{background-color: #c13584}
-.rb-instagram-4-text{color: #c13584}
 .rb-instagram-5{background-color: #e1306c}
-.rb-instagram-5-text{color: #e1306c}
 .rb-instagram-6{background-color: #fd1d1d}
-.rb-instagram-6-text{color: #fd1d1d}
 .rb-instagram-7{background-color: #f56040}
-.rb-instagram-7-text{color: #f56040}
 .rb-instagram-8{background-color: #f77737}
-.rb-instagram-8-text{color: #f77737}
 .rb-instagram-9{background-color: #fcaf45}
-.rb-instagram-9-text{color: #fcaf45}
 .rb-instagram-10{background-color: #ffdc80}
+.rb-instagram-1-text{color: #405de6}
+.rb-instagram-2-text{color: #5851db}
+.rb-instagram-3-text{color: #833ab4}
+.rb-instagram-4-text{color: #c13584}
+.rb-instagram-5-text{color: #e1306c}
+.rb-instagram-6-text{color: #fd1d1d}
+.rb-instagram-7-text{color: #f56040}
+.rb-instagram-8-text{color: #f77737}
+.rb-instagram-9-text{color: #fcaf45}
 .rb-instagram-10-text{color: #ffdc80}
 
 .rb-evand{background-color: #27a8e7}
@@ -214,6 +220,11 @@
 .rb-bamilo-2{background-color: #6e6e6e}
 .rb-bamilo-1-text{color: #f68b1e}
 .rb-bamilo-2-text{color: #6e6e6e}
+
+.rb-bank-en-1{background-color: #97199a}
+.rb-bank-en-2{background-color: #c60610}
+.rb-bank-en-1-text{color: #97199a}
+.rb-bank-en-2-text{color: #c60610}
 
 .rb-bank-parsian-1{background-color: #B17D57}
 .rb-bank-parsian-2{background-color: #000000}
@@ -228,15 +239,27 @@
 .rb-bank-tejarat{background-color: #2F4A98}
 .rb-bank-tejarat-text{color: #2F4A98}
 
-.rb-bank-maskan{background-color: #E84B0A}
-.rb-bank-maskan-text{color: #E84B0A}
+.rb-bank-saman-1{background-color: #7cd0f4}
+.rb-bank-saman-2{background-color: #00a8e7}
+.rb-bank-saman-3{background-color: #0070b9}
+.rb-bank-saman-1-text{color: #7cd0f4}
+.rb-bank-saman-2-text{color: #00a8e7}
+.rb-bank-saman-3-text{color: #0070b9}
+
+.rb-bank-karafarin-1{background-color: #d4af64}
+.rb-bank-karafarin-2{background-color: #2f7747}
+.rb-bank-karafarin-1-text{color: #d4af64}
+.rb-bank-karafarin-2-text{color: #2f7747}
+
+.rb-bank-maskan{background-color: #B17D57}
+.rb-bank-maskan-text{color: #B17D57}
 
 .rb-bank-mellat-1{background-color: #FDBD51}
 .rb-bank-mellat-2{background-color: #D81736}
-.rb-bank-mellat-3{background-color: #555555}
+.rb-bank-mellat-3{background-color: #D81736}
 .rb-bank-mellat-1-text{color: #FDBD51}
 .rb-bank-mellat-2-text{color: #D81736}
-.rb-bank-mellat-3-text{color: #555555}
+.rb-bank-mellat-3-text{color: #D81736}
 
 .rb-blogfa-1{background-color: #0f3971}
 .rb-blogfa-2{background-color: #89bcff}
@@ -268,6 +291,17 @@
 .rb-bosch{background-color: #ec1b24}
 .rb-bosch-text{color: #ec1b24}
 
+.rb-bmw-1{background-color: #f5f6fc}
+.rb-bmw-2{background-color: #2e9bda}
+.rb-bmw-3{background-color: #2d9cdb}
+.rb-bmw-4{background-color: #8ca3b1}
+.rb-bmw-5{background-color: #111010}
+.rb-bmw-1-text{color: #f5f6fc}
+.rb-bmw-2-text{color: #2e9bda}
+.rb-bmw-3-text{color: #2d9cdb}
+.rb-bmw-4-text{color: #8ca3b1}
+.rb-bmw-5-text{color: #111010}
+
 .rb-biscuit-madar-1{background-color: #d3d67b}
 .rb-biscuit-madar-2{background-color: #e21f25}
 .rb-biscuit-madar-1-text{color: #d3d67b}
@@ -294,9 +328,12 @@
 .rb-pakshooma-2-text{color: #ed3237}
 
 .rb-parskhazar-1{background-color: #ed1e24}
-.rb-parskhazar-2{background-color: #000000}
+.rb-parskhazar-2{background-color: #ed1e24}
 .rb-parskhazar-1-text{color: #ed1e24}
-.rb-parskhazar-2-text{color: #000000}
+.rb-parskhazar-2-text{color: #ed1e24}
+
+.rb-payping{background-color: #009cde}
+.rb-payping-text{color: #009cde}
 
 .rb-pepsi-1{background-color: #005992}
 .rb-pepsi-2{background-color: #ed1a38}
@@ -308,8 +345,8 @@
 .rb-pril-1-text{color: #e4000f}
 .rb-pril-2-text{color: #ffee00}
 
- .rb-playstation{background-color: #003087}
- .rb-playstation-text{color: #003087}
+.rb-playstation{background-color: #003087}
+.rb-playstation-text{color: #003087}
 
 .rb-pooneh-1{background-color: #005baa}
 .rb-pooneh-2{background-color: #8dc73f}
@@ -352,6 +389,11 @@
 .rb-technameh-2{background-color: #ff5400}
 .rb-technameh-1-text{color: #80197e}
 .rb-technameh-2-text{color: #ff5400}
+
+.rb-takdane-1{background-color: #f31828}
+.rb-takdane-2{background-color: #ffc927}
+.rb-takdane-1-text{color: #f31828}
+.rb-takdane-2-text{color: #ffc927}
 
 .rb-telegram{background-color: #0088cc}
 .rb-telegram-text{color: #0088cc}
@@ -425,6 +467,11 @@
 .rb-delpazir-1-text{color: #dd282e}
 .rb-delpazir-2-text{color: #178d4d}
 
+.rb-divar-1{background-color: #c42127}
+.rb-divar-2{background-color: #595a5c}
+.rb-divar-1-text{color: #c42127}
+.rb-divar-2-text{color: #595a5c}
+
 .rb-dropbox-1{background-color: #007ee5}
 .rb-dropbox-2{background-color: #7b8994}
 .rb-dropbox-3{background-color: #47525d}
@@ -469,6 +516,23 @@
 .rb-dimo{background-color: #dd0200}
 .rb-dimo-text{color: #dd0200}
 
+.rb-dmond-1{background-color: #00aabb}
+.rb-dmond-2{background-color: #024e90}
+.rb-dmond-3{background-color: #252e7b}
+.rb-dmond-4{background-color: #49af1f}
+.rb-dmond-5{background-color: #f6e600}
+.rb-dmond-6{background-color: #f8cc00}
+.rb-dmond-7{background-color: #f50000}
+.rb-dmond-8{background-color: #a20000}
+.rb-dmond-1-text{color: #00aabb}
+.rb-dmond-2-text{color: #024e90}
+.rb-dmond-3-text{color: #252e7b}
+.rb-dmond-4-text{color: #49af1f}
+.rb-dmond-5-text{color: #f6e600}
+.rb-dmond-6-text{color: #f8cc00}
+.rb-dmond-7-text{color: #f50000}
+.rb-dmond-8-text{color: #a20000}
+
 .rb-rolan-1{background-color: #e3000f}
 .rb-rolan-2{background-color: #ffec01}
 .rb-rolan-1-text{color: #e3000f}
@@ -494,6 +558,11 @@
 
 .rb-saipa{background-color: #FF5B00}
 .rb-saipa-text{color: #FF5B00}
+
+.rb-setak-1{background-color: #0d9f56}
+.rb-setak-2{background-color: #8dda3f}
+.rb-setak-1-text{color: #0d9f56}
+.rb-setak-2-text{color: #8dda3f}
 
 .rb-salam-donya{background-color: #ffca08}
 .rb-salam-donya-text{color: #ffca08}
@@ -523,6 +592,15 @@
 .rb-shatel-1-text{color: #002a63}
 .rb-shatel-2-text{color: #f26322}
 
+.rb-sheypoor-1{background-color: #0077c0}
+.rb-sheypoor-2{background-color: #02abec}
+.rb-sheypoor-3{background-color: #8dc641}
+.rb-sheypoor-4{background-color: #fa9416}
+.rb-sheypoor-1-text{color: #0077c0}
+.rb-sheypoor-2-text{color: #02abec}
+.rb-sheypoor-3-text{color: #8dc641}
+.rb-sheypoor-4-text{color: #fa9416}
+
 .rb-sehat{background-color: #006509}
 .rb-sehat-text{color: #006509}
 
@@ -535,8 +613,8 @@
 .rb-alis-3-text{color: #53bb96}
 .rb-alis-4-text{color: #0e71b8}
 
-.rb-farsi1{backgorund-color:  #00aeb0}
-.rb-farsi1{color:  #00aeb0}
+.rb-farsi1{background-color: #00aeb0}
+.rb-farsi1-text{color: #00aeb0}
 
 .rb-firefox-1{background-color: #e66000}
 .rb-firefox-2{background-color: #ff9500}
@@ -553,8 +631,16 @@
 .rb-firefox-6-text{color: #331e54}
 .rb-firefox-7-text{color: #002147}
 
+.rb-ferrari{background-color: #e32119}
+.rb-ferrari-text{color: #e32119}
+
 .rb-farassoo{background-color: #00a6d6}
 .rb-farassoo-text{color: #00a6d6}
+
+.rb-faranesh-1{background-color: #004667}
+.rb-faranesh-2{background-color: #239ED8}
+.rb-faranesh-1-text{color: #004667}
+.rb-faranesh-2-text{color: #239ED8}
 
 .rb-farsh-farrahi-1{background-color: #ffcb05}
 .rb-farsh-farrahi-2{background-color: #01a99c}
@@ -565,6 +651,14 @@
 .rb-flicker-2{background-color: #6ecdec}
 .rb-flicker-1-text{color: #0063dc}
 .rb-flicker-2-text{color: #6ecdec}
+
+.rb-fanap{background-color: #ee7f06}
+.rb-fanap-text{color: #ee7f06}
+
+.rb-volkswagen-1{background-color: #0057a7}
+.rb-volkswagen-2{background-color: #aebac0}
+.rb-volkswagen-1-text{color: #0057a7}
+.rb-volkswagen-2-text{color: #aebac0}
 
 .rb-firooz-1{background-color: #0062ab}
 .rb-firooz-2{background-color: #6ecdec}
@@ -616,8 +710,8 @@
 
 .rb-gorji-1{background-color: #f8eb00}
 .rb-gorji-2{background-color: #1f2879}
-.rb-gorji-1{color: #f8eb00}
-.rb-gorji-2{color: #1f2879}
+.rb-gorji-1-text{color: #f8eb00}
+.rb-gorji-2-text{color: #1f2879}
 
 .rb-gravatar{background-color: #1e8cbe}
 .rb-gravatar-text{color: #1e8cbe}
@@ -674,7 +768,6 @@
 .rb-lenzor-5{background-color: #0b9444}
 .rb-lenzor-6{background-color: #0e76bc}
 .rb-lenzor-7{background-color: #9f1f63}
-.rb-lenzor-8{background-color: #ec008c}
 .rb-lenzor-1-text{color: #f1592a}
 .rb-lenzor-2-text{color: #f7941e}
 .rb-lenzor-3-text{color: #fcb040}
@@ -682,7 +775,6 @@
 .rb-lenzor-5-text{color: #0b9444}
 .rb-lenzor-6-text{color: #0e76bc}
 .rb-lenzor-7-text{color: #9f1f63}
-.rb-lenzor-8-text{color: #ec008c}
 
 .rb-loreal{background-color: #000000}
 .rb-loreal-text{color: #000000}
@@ -705,6 +797,13 @@
 .rb-linkedin-7-text{color: #8d6cab}
 .rb-linkedin-8-text{color: #dd5143}
 .rb-linkedin-9-text{color: #e68523}
+
+.rb-linux-mint-1{background-color: #7dbe3b}
+.rb-linux-mint-2{background-color: #87cf3e}
+.rb-linux-mint-3{background-color: #bfff80}
+.rb-linux-mint-1-text{color: #7dbe3b}
+.rb-linux-mint-2-text{color: #87cf3e}
+.rb-linux-mint-3-text{color: #bfff80}
 
 .rb-madiran-1{background-color: #0c4da2}
 .rb-madiran-2{background-color: #ed1a3b}
@@ -800,11 +899,6 @@
 .rb-mihan-blog-2-text{color: #000000}
 .rb-mihan-blog-3-text{color: #ff0000}
 
-.rb-naderi-1{background-color: #ec1f26}
-.rb-naderi-2{background-color: #d0b96e}
-.rb-naderi-1-text{color: #ec1f26}
-.rb-naderi-2-text{color: #d0b96e}
-
 .rb-netbarg-1{background-color: #f06305}
 .rb-netbarg-2{background-color: #262626}
 .rb-netbarg-1-text{color: #f06305}
@@ -866,9 +960,9 @@
 .rb-namelik-1{background-color: #3d2442}
 .rb-namelik-2{background-color: #5538af}
 .rb-namelik-3{background-color: #ff7300}
-.rb-namelik-1{color: #3d2442}
-.rb-namelik-2{color: #5538af}
-.rb-namelik-3{color: #ff7300}
+.rb-namelik-1-text{color: #3d2442}
+.rb-namelik-2-text{color: #5538af}
+.rb-namelik-3-text{color: #ff7300}
 
 .rb-whatsapp{background-color: #189D0E}
 .rb-whatsapp-text{color: #189D0E}
@@ -879,5 +973,8 @@
 .rb-youtube{background-color: #cd201f}
 .rb-youtube-text{color: #cd201f}
 
-.rb-opensuse{background-color: #2b2e2c}
-.rb-opensuse-text {color:#00662b}
+.rb-opensuse-1{background-color: #2b2e2c}
+.rb-opensuse-2{background-color: #00662b}
+.rb-opensuse-1-text{color: #2b2e2c}
+.rb-opensuse-2-text{color: #00662b}
+
