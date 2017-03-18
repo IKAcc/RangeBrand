@@ -526,6 +526,14 @@
       "#ff5400"
     ]
   },
+  "takdane": {
+    "name_en": "Takdane",
+    "name_fa": "تکدانه",
+    "colors": [
+      "#f31828",
+      "#ffc927"
+    ]
+  },
   "telegram": {
     "name_en": "Telegram",
     "name_fa": "تلگرام",
