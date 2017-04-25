@@ -965,6 +965,15 @@
       "#1c3da6"
     ]
   },
+  "cafebazaar": {
+    "name_en": "Cafe Bazaar",
+    "name_fa": "کافه بازار",
+    "colors": [
+      "#a3cd39",
+      "#27b681",
+      "#535353"
+    ]
+  },
   "kalleh": {
     "name_en": "Kalleh",
     "name_fa": "کاله",
