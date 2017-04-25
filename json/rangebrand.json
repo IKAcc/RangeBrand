@@ -1193,6 +1193,14 @@
       "#f8f400"
     ]
   },
+  "myket": {
+    "name_en": "Myket",
+    "name_fa": "مایکت",
+    "colors": [
+      "#00b0ff",
+      "#ff0083"
+    ]
+  },
   "mahak": {
     "name_en": "Mahak",
     "name_fa": "محک",
