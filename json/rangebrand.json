@@ -1075,6 +1075,19 @@
       "#ea4335"
     ]
   },
+  "google-play": {
+    "name_en": "Google Play",
+    "name_fa": "گوگل پلی",
+    "colors": [
+      "#444444",
+      "#689f38",
+      "#ed3b3b",
+      "#ef6c00",
+      "#039be5",
+      "#536dfe",
+      "#658092"
+    ]
+  },
   "google-plus": {
     "name_en": "Google+",
     "name_fa": "گوگل+",
