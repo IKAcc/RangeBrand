@@ -544,6 +544,14 @@
       "#ffc927"
     ]
   },
+  "takmakaron": {
+    "name_en": "Tak Makaron",
+    "name_fa": "تک ماکارون",
+    "colors": [
+      "#0d5122",
+      "#ded81c"
+    ]
+  },
   "telegram": {
     "name_en": "Telegram",
     "name_fa": "تلگرام",
