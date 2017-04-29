@@ -398,6 +398,14 @@
       "#ffdd52"
     ]
   },
+  "bimax": {
+    "name_en": "Bimax",
+    "name_fa": "بیمکث",
+    "colors": [
+      "#21252b",
+      "#ff4208"
+    ]
+  },
   "bing": {
     "name_en": "Bing",
     "name_fa": "بینگ",
