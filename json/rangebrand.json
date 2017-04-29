@@ -41,6 +41,15 @@
       "#fe8836"
     ]
   },
+  "andre": {
+    "name_en": "Andre",
+    "name_fa": "آندره",
+    "colors": [
+      "#da241a",
+      "#00448e",
+      "#ffef11"
+    ]
+  },
   "ios": {
     "name_en": "iOS",
     "name_fa": "آی‌او‌اس",
