@@ -1471,6 +1471,15 @@
       "#ff7300"
     ]
   },
+  "namino": {
+    "name_en": "Namino",
+    "name_fa": "نامی‌نو",
+    "colors": [
+      "#ffde00",
+      "#ed1c24",
+      "#004b88"
+    ]
+  },
   "whatsapp": {
     "name_en": "Whatsapp",
     "name_fa": "واتس‌اپ",
