@@ -41,6 +41,15 @@
       "#fe8836"
     ]
   },
+  "andre": {
+    "name_en": "Andre",
+    "name_fa": "آندره",
+    "colors": [
+      "#da241a",
+      "#00448e",
+      "#ffef11"
+    ]
+  },
   "ios": {
     "name_en": "iOS",
     "name_fa": "آی‌او‌اس",
@@ -197,6 +206,16 @@
     "colors": [
       "#cc0f16",
       "#9c9e9f"
+    ]
+  },
+  "iranapps": {
+    "name_en": "IranApps",
+    "name_fa": "ایران‌اپس",
+    "colors": [
+      "#ff0000",
+      "#70c231",
+      "#ffb600",
+      "#3b6df8"
     ]
   },
   "istak": {
@@ -388,6 +407,14 @@
       "#ffdd52"
     ]
   },
+  "bimax": {
+    "name_en": "Bimax",
+    "name_fa": "بیمکث",
+    "colors": [
+      "#21252b",
+      "#ff4208"
+    ]
+  },
   "bing": {
     "name_en": "Bing",
     "name_fa": "بینگ",
@@ -418,6 +445,15 @@
     "colors": [
       "#ed1e24",
       "#ed1e24"
+    ]
+  },
+  "pedarekhoob": {
+    "name_en": "Pedarekhoob",
+    "name_fa": "پدرخوب",
+    "colors": [
+      "#f6f700",
+      "#f20000",
+      "#be0000"
     ]
   },
   "payping": {
@@ -532,6 +568,14 @@
     "colors": [
       "#f31828",
       "#ffc927"
+    ]
+  },
+  "takmakaron": {
+    "name_en": "Tak Makaron",
+    "name_fa": "تک ماکارون",
+    "colors": [
+      "#0d5122",
+      "#ded81c"
     ]
   },
   "telegram": {
@@ -729,6 +773,30 @@
       "#c4d94b"
     ]
   },
+  "zarmacaron": {
+    "name_en": "Zar Macaron",
+    "name_fa": "زر ماکارون",
+    "colors": [
+      "#003365",
+      "#e2c271",
+      "#ed1c24"
+    ]
+  },
+  "zamzam": {
+    "name_en": "Zamzam",
+    "name_fa": "زمزم",
+    "colors": [
+      "#ce181e"
+    ]
+  },
+  "zoodfood": {
+    "name_en": "Zoodfood",
+    "name_fa": "زودفود",
+    "colors": [
+      "#353535",
+      "#ed0c6e"
+    ]
+  },
   "zoomit": {
     "name_en": "Zoomit",
     "name_fa": "زومیت",
@@ -743,6 +811,13 @@
     "colors": [
       "#9b1377",
       "#deae6c"
+    ]
+  },
+  "soroush": {
+    "name_en": "Soroush",
+    "name_fa": "سروش",
+    "colors": [
+      "#aa3063"
     ]
   },
   "samsung": {
@@ -772,6 +847,13 @@
     "name_fa": "سلام دنیا!",
     "colors": [
       "#ffca08"
+    ]
+  },
+  "cenan": {
+    "name_en": "Cenan",
+    "name_fa": "سه‌نان",
+    "colors": [
+      "#ec8529"
     ]
   },
   "sunich": {
@@ -814,6 +896,14 @@
       "#f26322"
     ]
   },
+  "sham-sham": {
+    "name_en": "Sham Sham",
+    "name_fa": "شام شام",
+    "colors": [
+      "#e10e18",
+      "#f4a411"
+    ]
+  },
   "sheypoor": {
     "name_en": "Sheypoor",
     "name_fa": "شیپور",
@@ -822,6 +912,13 @@
       "#02abec",
       "#8dc641",
       "#fa9416"
+    ]
+  },
+  "shila": {
+    "name_en": "Shila",
+    "name_fa": "شیلا",
+    "colors": [
+      "#ff5c00"
     ]
   },
   "sehat": {
@@ -839,6 +936,13 @@
       "#96c11f",
       "#53bb96",
       "#0e71b8"
+    ]
+  },
+  "atawich": {
+    "name_en": "Atawich",
+    "name_fa": "عطاویچ",
+    "colors": [
+      "#c52f33"
     ]
   },
   "farsi1": {
@@ -951,6 +1055,15 @@
       "#1c3da6"
     ]
   },
+  "cafebazaar": {
+    "name_en": "Cafe Bazaar",
+    "name_fa": "کافه بازار",
+    "colors": [
+      "#a3cd39",
+      "#27b681",
+      "#535353"
+    ]
+  },
   "kalleh": {
     "name_en": "Kalleh",
     "name_fa": "کاله",
@@ -1041,6 +1154,19 @@
       "#ea4335"
     ]
   },
+  "google-play": {
+    "name_en": "Google Play",
+    "name_fa": "گوگل پلی",
+    "colors": [
+      "#444444",
+      "#689f38",
+      "#ed3b3b",
+      "#ef6c00",
+      "#039be5",
+      "#536dfe",
+      "#658092"
+    ]
+  },
   "google-plus": {
     "name_en": "Google+",
     "name_fa": "گوگل+",
@@ -1113,12 +1239,27 @@
       "#bfff80"
     ]
   },
+  "manamacaron": {
+    "name_en": "Mana Macaron",
+    "name_fa": "ماکارونی مانا",
+    "colors": [
+      "#0b3177",
+      "#ec1c24"
+    ]
+  },
   "madiran": {
     "name_en": "Madiran",
     "name_fa": "مادیران",
     "colors": [
       "#0c4da2",
       "#ed1a3b"
+    ]
+  },
+  "mrdizi": {
+    "name_en": "Mr. Dizi",
+    "name_fa": "مستر دیزی",
+    "colors": [
+      "#da251d"
     ]
   },
   "mailchimp": {
@@ -1158,6 +1299,14 @@
       "#6cd400",
       "#e30074",
       "#f8f400"
+    ]
+  },
+  "myket": {
+    "name_en": "Myket",
+    "name_fa": "مایکت",
+    "colors": [
+      "#00b0ff",
+      "#ff0083"
     ]
   },
   "mahak": {
@@ -1350,6 +1499,15 @@
       "#3d2442",
       "#5538af",
       "#ff7300"
+    ]
+  },
+  "namino": {
+    "name_en": "Namino",
+    "name_fa": "نامی‌نو",
+    "colors": [
+      "#ffde00",
+      "#ed1c24",
+      "#004b88"
     ]
   },
   "whatsapp": {
