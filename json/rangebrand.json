@@ -1255,6 +1255,14 @@
       "#ed1a3b"
     ]
   },
+  "mobinnet": {
+    "name_en": "Mobin Net",
+    "name_fa": "مبیین نت",
+    "colors": [
+      "#81c01a",
+      "#333333"
+    ]
+  },
   "mrdizi": {
     "name_en": "Mr. Dizi",
     "name_fa": "مستر دیزی",
