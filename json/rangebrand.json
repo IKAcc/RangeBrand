@@ -448,6 +448,14 @@
       "#ed3237"
     ]
   },
+  "parsonline": {
+    "name_en": "ParsOnline",
+    "name_fa": "پارس‌آنلاین",
+    "colors": [
+      "#36618f",
+      "#ff0000"
+    ]
+  },
   "parskhazar": {
     "name_en": "Parskhazar",
     "name_fa": "پارس‌خزر",
