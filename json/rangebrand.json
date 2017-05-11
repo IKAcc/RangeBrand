@@ -940,6 +940,13 @@
   },
   "sehat": {
     "name_en": "Sehat",
+    "name_fa": "صبانت",
+    "colors": [
+      "#006509"
+    ]
+  },
+  "sehat": {
+    "name_en": "Sehat",
     "name_fa": "صحت",
     "colors": [
       "#006509"
