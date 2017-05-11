@@ -29,6 +29,15 @@
       "#cb5e7c"
     ]
   },
+  "asiatech": {
+    "name_en": "Asiatech",
+    "name_fa": "آسیاتک",
+    "colors": [
+      "#fecc00",
+      "#009fe3",
+      "#e30613"
+    ]
+  },
   "albura": {
     "name_en": "Albura",
     "name_fa": "آلبورا",
