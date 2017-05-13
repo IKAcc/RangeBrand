@@ -327,6 +327,14 @@
       "#2F4A98"
     ]
   },
+  "bank-dey": {
+    "name_en": "Dey Bank",
+    "name_fa": "بانک دی",
+    "colors": [
+      "#00899c",
+      "#4d4d4d"
+    ]
+  },
   "bank-resalat": {
     "name_en": "Resalat Bank",
     "name_fa": "بانک رسالت",
