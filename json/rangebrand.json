@@ -296,6 +296,14 @@
       "#c60610"
     ]
   },
+  "bank-ayandeh": {
+    "name_en": "Ayandeh Bank",
+    "name_fa": "بانک آینده",
+    "colors": [
+      "#572600",
+      "#b38807"
+    ]
+  },
   "bank-parsian": {
     "name_en": "Parsian Bank",
     "name_fa": "بانک پارسیان",
