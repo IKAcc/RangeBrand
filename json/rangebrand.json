@@ -319,6 +319,13 @@
       "#2F4A98"
     ]
   },
+  "bank-resalat": {
+    "name_en": "Resalat Bank",
+    "name_fa": "بانک رسالت",
+    "colors": [
+      "#00bce4"
+    ]
+  },
   "bank-saman": {
     "name_en": "Saman Bank",
     "name_fa": "بانک سامان",
