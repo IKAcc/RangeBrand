@@ -952,6 +952,13 @@
       "#f4a411"
     ]
   },
+  "xiaomi": {
+    "name_en": "Xiaomi",
+    "name_fa": "شیاومی",
+    "colors": [
+      "#ff4a00"
+    ]
+  },
   "sheypoor": {
     "name_en": "Sheypoor",
     "name_fa": "شیپور",
