@@ -304,6 +304,14 @@
       "#b38807"
     ]
   },
+  "bank-ansar": {
+    "name_en": "Ansar Bank",
+    "name_fa": "بانک انصار",
+    "colors": [
+      "#bd0025",
+      "#f9b400"
+    ]
+  },
   "bank-parsian": {
     "name_en": "Parsian Bank",
     "name_fa": "بانک پارسیان",

@@ -10,7 +10,7 @@
  * Range Brand - Official Color Codes for Famous Brands in Iran
 
  * RangeBrand.css - http://rangebrand.ir
- * Version - 1.6
+ * Version - 1.7
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
 
  * Created by @JavidIzadfar, @setarekarimi1 and @Mehrnooshdsht
@@ -253,6 +253,11 @@
 .rb-bank-ayandeh-2{background-color: #b38807}
 .rb-bank-ayandeh-1-text{color: #572600}
 .rb-bank-ayandeh-2-text{color: #b38807}
+
+.rb-bank-ansar-1{background-color: #bd0025}
+.rb-bank-ansar-2{background-color: #f9b400}
+.rb-bank-ansar-1-text{color: #bd0025}
+.rb-bank-ansar-2-text{color: #f9b400}
 
 .rb-bank-parsian-1{background-color: #B17D57}
 .rb-bank-parsian-2{background-color: #000000}
