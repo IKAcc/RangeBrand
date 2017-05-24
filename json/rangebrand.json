@@ -1497,6 +1497,18 @@
       "#00136f"
     ]
   },
+  "varzesh3": {
+    "name_en": "Varzesh 3",
+    "name_fa": "ورزش سه",
+    "colors": [
+      "#4285f4",
+      "#34a853",
+      "#fbbc05",
+      "#7d7e80",
+      "#ea4336",
+      "#2e353c"
+    ]
+  },
   "windows": {
     "name_en": "Windows",
     "name_fa": "ویندوز",
