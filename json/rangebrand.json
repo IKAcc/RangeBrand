@@ -1176,6 +1176,14 @@
     "name_en": "Coca-Cola",
     "name_fa": "کوکاکولا",
     "colors": [
+      "#09b5ac",
+      "#f16475"
+    ]
+  },
+  "quera": {
+    "name_en": "Quera",
+    "name_fa": "کوئرا",
+    "colors": [
       "#ed1c16"
     ]
   },
