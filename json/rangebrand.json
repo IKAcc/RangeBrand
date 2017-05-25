@@ -1001,6 +1001,15 @@
       "#006509"
     ]
   },
+  "tarafdari": {
+    "name_en": "Tarafdari",
+    "name_fa": "طرفداری",
+    "colors": [
+      "#2c3136",
+      "#ff9b00",
+      "#27bcc9"
+    ]
+  },
   "alis": {
     "name_en": "Alis",
     "name_fa": "عالیس",
