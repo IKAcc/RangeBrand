@@ -778,6 +778,15 @@
       "#1aa000"
     ]
   },
+  "domino": {
+    "name_en": "Domino",
+    "name_fa": "دومینو",
+    "colors": [
+      "#5cc7f1",
+      "#01509f",
+      "#dd0010"
+    ]
+  },
   "2nate": {
     "name_en": "2nate",
     "name_fa": "دونیت",
