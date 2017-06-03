@@ -838,6 +838,14 @@
       "#a20000"
     ]
   },
+  "refah": {
+    "name_en": "Refah",
+    "name_fa": "رفاه",
+    "colors": [
+      "#009238",
+      "#ec6608"
+    ]
+  },
   "rolan": {
     "name_en": "Rolan",
     "name_fa": "رولان",
