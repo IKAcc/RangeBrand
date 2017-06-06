@@ -1220,6 +1220,14 @@
       "#000000"
     ]
   },
+  "kanoon_farhangi_amoozesh": {
+    "name_en": "Kanoon Farhangi Amoozesh",
+    "name_fa": "کانون فرهنگی آموزش قلم‌چی",
+    "colors": [
+      "#e52028",
+      "#231f20"
+    ]
+  },
   "crest": {
     "name_en": "Crest",
     "name_fa": "کرست",
