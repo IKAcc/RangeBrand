@@ -29,6 +29,22 @@
       "#cb5e7c"
     ]
   },
+  "asiatech": {
+    "name_en": "Asiatech",
+    "name_fa": "آسیاتک",
+    "colors": [
+      "#fecc00",
+      "#009fe3",
+      "#e30613"
+    ]
+  },
+  "ofoghkourosh": {
+    "name_en": "Ofogh Kourosh",
+    "name_fa": "افق کوروش",
+    "colors": [
+      "#d71921"
+    ]
+  },
   "albura": {
     "name_en": "Albura",
     "name_fa": "آلبورا",
@@ -287,6 +303,22 @@
       "#c60610"
     ]
   },
+  "bank-ayandeh": {
+    "name_en": "Ayandeh Bank",
+    "name_fa": "بانک آینده",
+    "colors": [
+      "#572600",
+      "#b38807"
+    ]
+  },
+  "bank-ansar": {
+    "name_en": "Ansar Bank",
+    "name_fa": "بانک انصار",
+    "colors": [
+      "#bd0025",
+      "#f9b400"
+    ]
+  },
   "bank-parsian": {
     "name_en": "Parsian Bank",
     "name_fa": "بانک پارسیان",
@@ -308,6 +340,21 @@
     "name_fa": "بانک تجارت‌",
     "colors": [
       "#2F4A98"
+    ]
+  },
+  "bank-dey": {
+    "name_en": "Dey Bank",
+    "name_fa": "بانک دی",
+    "colors": [
+      "#00899c",
+      "#4d4d4d"
+    ]
+  },
+  "bank-resalat": {
+    "name_en": "Resalat Bank",
+    "name_fa": "بانک رسالت",
+    "colors": [
+      "#00bce4"
     ]
   },
   "bank-saman": {
@@ -437,6 +484,14 @@
     "colors": [
       "#3e4095",
       "#ed3237"
+    ]
+  },
+  "parsonline": {
+    "name_en": "ParsOnline",
+    "name_fa": "پارس‌آنلاین",
+    "colors": [
+      "#36618f",
+      "#ff0000"
     ]
   },
   "parskhazar": {
@@ -600,6 +655,13 @@
       "#55acee"
     ]
   },
+  "Canbo": {
+    "name_en": "canbo",
+    "name_fa": "جانبو",
+    "colors": [
+      "#e31418"
+    ]
+  },
   "glx": {
     "name_en": "GLX",
     "name_fa": "جی‌ال‌ایکس",
@@ -652,6 +714,16 @@
     "colors": [
       "#7f9cec",
       "#3f69e1"
+    ]
+  },
+  "dayti": {
+    "name_en": "Dayti",
+    "name_fa": "دایتی",
+    "colors": [
+      "#84d0f5",
+      "#00b1eb",
+      "#0077ba",
+      "#0e3d8a"
     ]
   },
   "dell": {
@@ -720,6 +792,15 @@
       "#1aa000"
     ]
   },
+  "domino": {
+    "name_en": "Domino",
+    "name_fa": "دومینو",
+    "colors": [
+      "#5cc7f1",
+      "#01509f",
+      "#dd0010"
+    ]
+  },
   "2nate": {
     "name_en": "2nate",
     "name_fa": "دونیت",
@@ -755,6 +836,14 @@
       "#f8cc00",
       "#f50000",
       "#a20000"
+    ]
+  },
+  "refah": {
+    "name_en": "Refah",
+    "name_fa": "رفاه",
+    "colors": [
+      "#009238",
+      "#ec6608"
     ]
   },
   "rolan": {
@@ -824,7 +913,18 @@
     "name_en": "Samsung",
     "name_fa": "سامسونگ",
     "colors": [
-      "#10218B"
+      "#1428a0",
+      "#75787b",
+      "#0689d8",
+      "#ffc600",
+      "#ff6900",
+      "#e4002b",
+      "#c800a1",
+      "#685bc7",
+      "#0057b8",
+      "#00a9e0",
+      "#009ca6",
+      "#00b140"
     ]
   },
   "saipa": {
@@ -904,6 +1004,23 @@
       "#f4a411"
     ]
   },
+  "shahrvand": {
+    "name_en": "Shahrvand",
+    "name_fa": "شهروند",
+    "colors": [
+      "#b00937",
+      "#e30468",
+      "#39c0c3",
+      "#036a3f"
+    ]
+  },
+  "xiaomi": {
+    "name_en": "Xiaomi",
+    "name_fa": "شیاومی",
+    "colors": [
+      "#ff4a00"
+    ]
+  },
   "sheypoor": {
     "name_en": "Sheypoor",
     "name_fa": "شیپور",
@@ -921,11 +1038,27 @@
       "#ff5c00"
     ]
   },
+  "sabanet": {
+    "name_en": "Sabanet",
+    "name_fa": "صبانت",
+    "colors": [
+      "#da1f26"
+    ]
+  },
   "sehat": {
     "name_en": "Sehat",
     "name_fa": "صحت",
     "colors": [
       "#006509"
+    ]
+  },
+  "tarafdari": {
+    "name_en": "Tarafdari",
+    "name_fa": "طرفداری",
+    "colors": [
+      "#2c3136",
+      "#ff9b00",
+      "#27bcc9"
     ]
   },
   "alis": {
@@ -1064,6 +1197,13 @@
       "#535353"
     ]
   },
+  "nullcafe": {
+    "name_en": "Null Cafe",
+    "name_fa": "کافه نال",
+    "colors": [
+      "#76be02"
+    ]
+  },
   "kalleh": {
     "name_en": "Kalleh",
     "name_fa": "کاله",
@@ -1078,6 +1218,14 @@
     "colors": [
       "#bc0024",
       "#000000"
+    ]
+  },
+  "kanoon_farhangi_amoozesh": {
+    "name_en": "Kanoon Farhangi Amoozesh",
+    "name_fa": "کانون فرهنگی آموزش قلم‌چی",
+    "colors": [
+      "#e52028",
+      "#231f20"
     ]
   },
   "crest": {
@@ -1103,7 +1251,23 @@
     "name_en": "Coca-Cola",
     "name_fa": "کوکاکولا",
     "colors": [
+      "#09b5ac",
+      "#f16475"
+    ]
+  },
+  "quera": {
+    "name_en": "Quera",
+    "name_fa": "کوئرا",
+    "colors": [
       "#ed1c16"
+    ]
+  },
+  "gaj": {
+    "name_en": "Gaj",
+    "name_fa": "گاج",
+    "colors": [
+      "#c4c436",
+      "#55c5cf"
     ]
   },
   "gorji": {
@@ -1253,6 +1417,14 @@
     "colors": [
       "#0c4da2",
       "#ed1a3b"
+    ]
+  },
+  "mobinnet": {
+    "name_en": "Mobin Net",
+    "name_fa": "مبین نت",
+    "colors": [
+      "#81c01a",
+      "#333333"
     ]
   },
   "mrdizi": {
@@ -1408,6 +1580,18 @@
       "#00136f"
     ]
   },
+  "varzesh3": {
+    "name_en": "Varzesh 3",
+    "name_fa": "ورزش سه",
+    "colors": [
+      "#4285f4",
+      "#34a853",
+      "#fbbc05",
+      "#7d7e80",
+      "#ea4336",
+      "#2e353c"
+    ]
+  },
   "windows": {
     "name_en": "Windows",
     "name_fa": "ویندوز",
@@ -1444,6 +1628,14 @@
     "colors": [
       "#fec70a",
       "#d91a22"
+    ]
+  },
+  "hiweb": {
+    "name_en": "HiWEB",
+    "name_fa": "های‌وب",
+    "colors": [
+      "#e9002c",
+      "#939393"
     ]
   },
   "hotel-bozorg-dariush": {
